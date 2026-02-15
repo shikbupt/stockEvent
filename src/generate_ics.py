@@ -29,7 +29,7 @@ def build_description(ev: dict, config:dict) -> str:
     else:
         raise("find new category: "+category_id)
 
-    if ev.get("isSpeech"):
+    if ev.get("isSpeech") and ev.get("speech",False):
         if ev["speech"]["isVotingMember"]:
             lines.append(f"票委-{ev["speech"]["averageScore"]}")
 
