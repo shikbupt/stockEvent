@@ -1,0 +1,53 @@
+# 时间范围: 从今天起向前和向后获取的天数
+days_back: 7
+days_forward: 90
+
+# 国家列表
+countries:
+  - US
+  - JP
+
+# 事件重要性
+volatilities:
+  - NONE
+  - MEDIUM
+  - HIGH
+
+# 事件类别
+categories:
+  - id: "8896AA26-A50C-4F8B-AA11-8B3FCCDA1DFD"
+    name: "Bond Auctions"
+    emoji: 📜🔨
+  - id: "FA6570F6-E494-4563-A363-00D0F2ABEC37"
+    name: "Capital Flows"
+    emoji: 💸🌊
+  - id: "C94405B5-5F85-4397-AB11-002A481C4B92"
+    name: "Central Banks"
+    emoji: 🏛️⚖️
+  - id: "E229C890-80FC-40F3-B6F4-B658F3A02635"
+    name: "Consumption"
+    emoji: 🛍️💳
+  - id: "24127F3B-EDCE-4DC4-AFDF-0B3BD8A964BE"
+    name: "Economic Activity"
+    emoji: 🏭📈
+  - id: "DD332FD3-6996-41BE-8C41-33F277074FA7"
+    name: "Energy"
+    emoji: ⛽🛢️
+  - id: "7DFAEF86-C3FE-4E76-9421-8958CC2F9A0D"
+    name: "Holidays"
+    emoji: 📅🎈
+  - id: "1E06A304-FAC6-440C-9CED-9225A6277A55"
+    name: "Housing Market"
+    emoji: 🏠🔑
+  - id: "33303F5E-1E3C-4016-AB2D-AC87E98F57CA"
+    name: "Inflation"
+    emoji: 💵🚀
+  - id: "9C4A731A-D993-4D55-89F3-DC707CC1D596"
+    name: "Interest Rates"
+    emoji: 🏦🛠️
+  - id: "91DA97BD-D94A-4CE8-A02B-B96EE2944E4C"
+    name: "Labor Market"
+    emoji: 👷💼
+  - id: "E9E957EC-2927-4A77-AE0C-F5E4B5807C16"
+    name: "Politics"
+    emoji: 🌍🤝

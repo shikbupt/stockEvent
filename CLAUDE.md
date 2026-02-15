@@ -1,0 +1,5 @@
+- 需求在./proposal.md文件中
+- 优先使用Python语言实现需求
+- 当使用Python开发时
+   - 利用`uv`操作python
+   - 利用uv建立虚拟环境
