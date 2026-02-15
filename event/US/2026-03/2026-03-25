@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "2dbdef39-8f7a-454e-8d75-201463dc4c3a",
+    "eventId": "13b7ad0a-fea3-4dba-8939-ecd60f692afb",
+    "dateUtc": "2026-03-25T14:00:00Z",
+    "periodDateUtc": "2026-02-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "New Home Sales Change (MoM)",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": "%",
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1770644560,
+    "previousIsPreliminary": false,
+    "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
+    "hasHistorical": true
+  }
+]

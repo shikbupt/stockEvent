@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "5b43b31d-46a6-46bb-8804-3fdb21bc369f",
+    "eventId": "9966e41e-bc02-4163-b184-e3036224887b",
+    "dateUtc": "2026-05-04T18:00:00Z",
+    "periodDateUtc": "2025-01-01T00:00:00Z",
+    "periodType": "QUARTER",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Loan Officer Survey",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": true,
+    "isSpeech": false,
+    "lastUpdated": 1770102676,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]

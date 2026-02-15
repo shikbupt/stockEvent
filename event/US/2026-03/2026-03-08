@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "8657ef6c-b757-4693-840f-41fc009405d4",
+    "eventId": "a2404b26-b482-43d6-8ffb-52f6ef59129a",
+    "dateUtc": "2026-03-08T07:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Daylight Saving Time ",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1698926169,
+    "previousIsPreliminary": false,
+    "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
+    "hasHistorical": true
+  }
+]

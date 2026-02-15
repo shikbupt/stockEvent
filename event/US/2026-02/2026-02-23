@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "89ba1f84-8eeb-46fd-a2a6-de715d463984",
+    "eventId": "583bbfd1-2cf5-4f17-823e-e5ce34f91f49",
+    "dateUtc": "2026-02-23T15:00:00Z",
+    "periodDateUtc": "2025-12-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": 2.7,
+    "isBetterThanExpected": null,
+    "name": "Factory Orders (MoM)",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": "%",
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1770108424,
+    "previousIsPreliminary": false,
+    "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
+    "hasHistorical": true
+  }
+]

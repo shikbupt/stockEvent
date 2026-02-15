@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "07cc62f4-22a9-4daa-adc3-c9c8a0bec9b7",
+    "eventId": "02a39051-34c7-41ba-a029-5c766dc2e302",
+    "dateUtc": "2026-03-04T23:30:00Z",
+    "periodDateUtc": "2026-01-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": 2.4,
+    "isBetterThanExpected": null,
+    "name": "Labor Cash Earnings (YoY)",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": "%",
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1770621848,
+    "previousIsPreliminary": false,
+    "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  }
+]

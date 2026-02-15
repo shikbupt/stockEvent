@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "3f60cc4e-80a5-4208-a930-eb50c1265622",
+    "eventId": "0d332666-9d39-47d6-9986-97de648c52eb",
+    "dateUtc": "2026-04-19T00:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "IMF Meeting",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1747846221,
+    "previousIsPreliminary": false,
+    "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
+    "hasHistorical": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "e2d02bad-b135-4640-9eb5-391674d0e34a",
+    "eventId": "077378bd-22f0-402c-9db2-4d0d9c86181a",
+    "dateUtc": "2026-03-10T14:00:00Z",
+    "periodDateUtc": "2026-02-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": -8.4,
+    "isBetterThanExpected": null,
+    "name": "Existing Home Sales Change (MoM)",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": "%",
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1770908702,
+    "previousIsPreliminary": false,
+    "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
+    "hasHistorical": true
+  }
+]
