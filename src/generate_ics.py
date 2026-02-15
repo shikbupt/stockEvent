@@ -18,6 +18,8 @@ VOLATILITY ={
     "HIGH":"🔴",
 }
 
+detailUrl = "https://www.fxstreet.com/economic-calendar/event/"
+
 
 def build_description(ev: dict, config:dict) -> str:
     lines = []
@@ -96,6 +98,8 @@ def generate_ics(config: dict, base_dir: str = "event", out_dir: str = "ics") ->
                 e.end = dt + timedelta(hours=1)
 
             e.description = build_description(ev, config)
+            if ev.get("eventId", False):
+                e.url = detailUrl+ev["eventId"]
             cal.events.add(e)
 
         ics_path = os.path.join(out_dir, f"{country}.ics")
