@@ -1459,6 +1459,14 @@ UID:7dee14fb-5af0-48e7-8c8b-a269d82e2636
 URL:https://www.fxstreet.com/economic-calendar/event/44c34b50-9c5c-4f85-8c7e-505c0d12479f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260219T230500Z
+DTSTART:20260219T220500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
+UID:a4a604a8-4264-4d08-8166-bac6639df0a5
+URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260306T143000Z
 DTSTART:20260306T133000Z
@@ -2177,6 +2185,14 @@ UID:8374f536-7f2c-4e7c-a98a-09b10a73ef06
 URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260225T192000Z
+DTSTART:20260225T182000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:e740d985-184e-42e8-941b-6a6dddea44e3
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260326T133000Z
 DTSTART:20260326T123000Z
@@ -2386,8 +2402,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
-DTEND:20260213T210000Z
-DTSTART:20260213T200000Z
+DTEND:20260219T163000Z
+DTSTART:20260219T153000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
 UID:3fdcffd5-cb21-4ca7-b90e-7d0fe18410ce
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296

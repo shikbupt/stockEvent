@@ -182,39 +182,5 @@
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
-  },
-  {
-    "speech": {
-      "score": 5.4,
-      "isVotingMember": false,
-      "averageScore": 5.7
-    },
-    "isScoreTrackable": true,
-    "id": "3fdcffd5-cb21-4ca7-b90e-7d0fe18410ce",
-    "eventId": "7928c38a-9491-4165-be36-94322686a296",
-    "dateUtc": "2026-02-13T20:00:00Z",
-    "periodDateUtc": null,
-    "periodType": null,
-    "actual": null,
-    "revised": null,
-    "consensus": null,
-    "ratioDeviation": null,
-    "previous": null,
-    "isBetterThanExpected": null,
-    "name": "Fed's Goolsbee speech",
-    "countryCode": "US",
-    "currencyCode": "USD",
-    "unit": null,
-    "potency": null,
-    "volatility": "MEDIUM",
-    "isAllDay": false,
-    "isTentative": false,
-    "isPreliminary": false,
-    "isReport": false,
-    "isSpeech": true,
-    "lastUpdated": 1771014406,
-    "previousIsPreliminary": false,
-    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
-    "hasHistorical": true
   }
 ]

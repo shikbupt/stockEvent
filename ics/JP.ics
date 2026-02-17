@@ -186,6 +186,14 @@ UID:07cc62f4-22a9-4daa-adc3-c9c8a0bec9b7
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260309T003000Z
+DTSTART:20260308T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
+UID:07cc62f4-22a9-4daa-adc3-c9c8a0bec9b7
+URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260220T003000Z
 DTSTART:20260219T233000Z
