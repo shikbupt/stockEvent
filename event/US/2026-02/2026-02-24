@@ -3,7 +3,7 @@
     "speech": {
       "score": null,
       "isVotingMember": false,
-      "averageScore": 5.7
+      "averageScore": 5.9
     },
     "isScoreTrackable": true,
     "id": "0119ab79-7c0a-4f64-8ac8-36b363717269",
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771229871,
+    "lastUpdated": 1771336647,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -44,7 +44,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 10.3,
     "isBetterThanExpected": null,
     "name": "ADP Employment Change 4-week average",
     "countryCode": "US",
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1769520420,
+    "lastUpdated": 1771334527,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true

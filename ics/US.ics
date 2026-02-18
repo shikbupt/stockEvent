@@ -1172,6 +1172,14 @@ UID:cd506662-74de-400b-9af1-9e7056dfd210
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260217T145000Z
+DTSTART:20260217T135000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:1d2c9b1c-f1cd-46cd-8e67-6301f602d7bd
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z

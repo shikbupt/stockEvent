@@ -10,7 +10,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 7.1,
     "isBetterThanExpected": null,
     "name": "NY Empire State Manufacturing Index",
     "countryCode": "US",
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1771236053,
+    "lastUpdated": 1771335301,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
