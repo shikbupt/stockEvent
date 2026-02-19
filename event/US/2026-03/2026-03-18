@@ -10,7 +10,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 1.448,
     "isBetterThanExpected": null,
     "name": "Building Permits (MoM)",
     "countryCode": "US",
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1771236046,
+    "lastUpdated": 1771421763,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 1.404,
     "isBetterThanExpected": null,
     "name": "Housing Starts (MoM)",
     "countryCode": "US",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1770998102,
+    "lastUpdated": 1771421742,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -240,7 +240,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 6.0
+      "averageScore": 6
     },
     "isScoreTrackable": true,
     "id": "d6f0cf6c-586d-4a8a-8e23-252c8969afee",

@@ -120,14 +120,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1770976210,
+    "lastUpdated": 1771398688,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": "NaN",
+      "score": null,
       "isVotingMember": false,
       "averageScore": 4.9
     },
@@ -154,7 +154,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771337931,
+    "lastUpdated": 1771398747,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

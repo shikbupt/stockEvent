@@ -1,7 +1,7 @@
 [
   {
     "speech": {
-      "score": "NaN",
+      "score": null,
       "isVotingMember": true,
       "averageScore": 6.8
     },
@@ -37,7 +37,7 @@
     "speech": {
       "score": 3.8,
       "isVotingMember": true,
-      "averageScore": 4.0
+      "averageScore": 4
     },
     "isScoreTrackable": true,
     "id": "843f1c45-897e-4e4f-be84-91a40270af85",
