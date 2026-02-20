@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 16.3,
     "isBetterThanExpected": null,
     "name": "Philadelphia Fed Manufacturing Survey",
     "countryCode": "US",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1771236035,
+    "lastUpdated": 1771508346,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true

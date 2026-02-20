@@ -30,7 +30,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 5.7
     },
