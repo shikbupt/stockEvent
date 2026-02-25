@@ -250,6 +250,14 @@ UID:88ffc43c-2b1e-434b-bf9a-38ce69ba2c3b
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260525T150000Z
+DTSTART:20260525T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
+UID:37dee026-22bd-4a38-a4ca-6d4f4fb72850
+URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260428T133000Z
 DTSTART:20260428T123000Z
@@ -431,6 +439,13 @@ DTSTART:20260319T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Philadelphia Fed Manufacturing Survey
 UID:39a0558e-ddc7-42a7-a349-f0736636522b
 URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:Category: Holidays
+SUMMARY:🇺🇸📅🎈--Memorial Day
+UID:f0a4abcb-d4c6-4ed3-9b9e-e1ecd9f5ea30
+URL:https://www.fxstreet.com/economic-calendar/event/8bce1873-1b02-4aff-ad18-661dc43be5f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1385,6 +1400,14 @@ DTSTART:20260306T133000Z
 SUMMARY:🇺🇸👷💼-🔴-Nonfarm Payrolls
 UID:c20ad838-c094-4c00-8acc-7eb306d311ea
 URL:https://www.fxstreet.com/economic-calendar/event/9cdf56fd-99e4-4026-aa99-2b6c0ca92811
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260224T122000Z
+DTSTART:20260224T112000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Bostic speech
+UID:37331ac7-f98c-4b8d-9395-6cb5159fcd34
+URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

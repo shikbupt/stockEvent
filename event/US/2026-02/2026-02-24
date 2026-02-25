@@ -1,9 +1,43 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 5.6,
       "isVotingMember": false,
-      "averageScore": 5.8
+      "averageScore": 6.3
+    },
+    "isScoreTrackable": true,
+    "id": "37331ac7-f98c-4b8d-9395-6cb5159fcd34",
+    "eventId": "771595c5-fbaa-4c3d-898c-06931f9290d8",
+    "dateUtc": "2026-02-24T11:20:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Bostic speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1771932185,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 6.6,
+      "isVotingMember": false,
+      "averageScore": 6
     },
     "isScoreTrackable": true,
     "id": "0119ab79-7c0a-4f64-8ac8-36b363717269",
@@ -28,7 +62,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771515171,
+    "lastUpdated": 1771938550,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -40,8 +74,8 @@
     "dateUtc": "2026-02-24T13:15:00Z",
     "periodDateUtc": "2026-01-31T00:00:00Z",
     "periodType": "DAY",
-    "actual": null,
-    "revised": null,
+    "actual": 12.8,
+    "revised": 11.5,
     "consensus": null,
     "ratioDeviation": null,
     "previous": 10.3,
@@ -57,14 +91,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1771334527,
+    "lastUpdated": 1771939299,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": false,
       "averageScore": 6.3
     },
@@ -91,14 +125,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771598914,
+    "lastUpdated": 1771942299,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": false,
       "averageScore": 5.5
     },
@@ -125,7 +159,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771596833,
+    "lastUpdated": 1771942325,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -137,12 +171,12 @@
     "dateUtc": "2026-02-24T14:00:00Z",
     "periodDateUtc": "2025-12-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": 0.1,
+    "revised": 0.7,
     "consensus": 0.3,
-    "ratioDeviation": null,
+    "ratioDeviation": -0.82,
     "previous": 0.6,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": false,
     "name": "Housing Price Index (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -154,14 +188,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1771603245,
+    "lastUpdated": 1771942239,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 4.1
     },
@@ -188,14 +222,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771852889,
+    "lastUpdated": 1771928436,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 6.1
     },
@@ -222,7 +256,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771593807,
+    "lastUpdated": 1771942894,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -251,14 +285,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1769521324,
+    "lastUpdated": 1771940250,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.2,
       "isVotingMember": false,
       "averageScore": 5.7
     },
@@ -285,14 +319,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771597128,
+    "lastUpdated": 1771928499,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 5.6,
       "isVotingMember": false,
       "averageScore": 5.5
     },
@@ -319,7 +353,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771596931,
+    "lastUpdated": 1771942325,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
