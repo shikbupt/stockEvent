@@ -30,7 +30,41 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
+      "isVotingMember": false,
+      "averageScore": 5.8
+    },
+    "isScoreTrackable": true,
+    "id": "35aca52a-f5e5-4d95-82b9-d5cc1f90576c",
+    "eventId": "a384a045-94b1-4508-bd69-80a1f7931bf5",
+    "dateUtc": "2026-02-25T13:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Barkin speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1772026246,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 5,
       "isVotingMember": false,
       "averageScore": 6.8
     },
@@ -57,14 +91,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1771602273,
+    "lastUpdated": 1772022039,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.2,
       "isVotingMember": false,
       "averageScore": 5.9
     },

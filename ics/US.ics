@@ -74,6 +74,14 @@ UID:6bb3c18a-9de7-4db0-92e8-10338233efba
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260526T131500Z
+DTSTART:20260526T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:a58b69d7-43c7-45e5-8006-700f41186071
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Interest Rates
 DTEND:20260429T190000Z
 DTSTART:20260429T180000Z
@@ -1499,8 +1507,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260304T160000Z
-DTSTART:20260304T150000Z
+DTEND:20260318T160000Z
+DTSTART:20260318T150000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:19104da0-8100-4a17-8195-453f262d99a8
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
@@ -1898,6 +1906,14 @@ UID:fe05d124-b53a-4550-9df4-103ef7341bd3
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260526T150000Z
+DTSTART:20260526T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Consumer Confidence
+UID:bb52e24e-5785-4d50-b2c1-94b0421b9a17
+URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260512T133000Z
 DTSTART:20260512T123000Z
@@ -2010,6 +2026,14 @@ UID:d024a9b2-0b32-4835-b43c-5a605e6c97be
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260225T143000Z
+DTSTART:20260225T133000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
+UID:35aca52a-f5e5-4d95-82b9-d5cc1f90576c
+URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260415T133000Z
 DTSTART:20260415T123000Z
@@ -2080,6 +2104,14 @@ DTSTART:20260312T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
 UID:8e47bd88-a28f-4b6a-a230-dca19315681e
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260526T140000Z
+DTSTART:20260526T130000Z
+SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
+UID:438d7af4-4c00-40fe-af90-502e762f6dac
+URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
