@@ -74,6 +74,14 @@ UID:0db90a8a-3a34-4e5f-a0e9-312bbd128332
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260529T003000Z
+DTSTART:20260528T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
+UID:46a89a48-bb7a-46d1-8026-4bf6d89d1853
+URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260515T005000Z
 DTSTART:20260514T235000Z
@@ -135,6 +143,14 @@ DTEND:20260428T003000Z
 DTSTART:20260427T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
 UID:4e2b844f-4903-45d0-bfbf-37a0b86d4cd8
+URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260529T003000Z
+DTSTART:20260528T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
+UID:9038a6c0-f6f8-4d3a-b75e-b1d9cb05eb52
 URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
 END:VEVENT
 BEGIN:VEVENT
@@ -335,6 +351,14 @@ DTSTART:20260430T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:3f66f789-e974-41db-ae90-9baa497fb7a0
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260303T050000Z
+DTSTART:20260303T040000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:65b49e12-eca3-4ce9-8f07-477b7878eb8e
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -619,6 +643,22 @@ DTSTART:20260421T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:ac6b5724-7062-49a0-8794-03f99eddc1e0
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260529T003000Z
+DTSTART:20260528T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
+UID:01752056-1b11-4cf1-9ca1-7f2f9ea71248
+URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260529T003000Z
+DTSTART:20260528T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
+UID:f26fd11a-fdb3-4e83-97c8-c8f23ad5c8dd
+URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
