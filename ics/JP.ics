@@ -115,8 +115,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260320T003000Z
-DTSTART:20260319T233000Z
+DTEND:20260324T003000Z
+DTSTART:20260323T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:7b014305-22ab-4929-b40f-b38a4e266b46
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
@@ -283,8 +283,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-123
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260320T003000Z
-DTSTART:20260319T233000Z
+DTEND:20260324T003000Z
+DTSTART:20260323T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
 UID:c436d1bd-80e6-40b9-85f6-0ead9c4bee28
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
@@ -401,6 +401,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260318T005000Z
+DTSTART:20260317T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:5f04459a-8583-4f6a-914f-9dfed9fc4b85
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260319T005000Z
 DTSTART:20260318T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
@@ -409,8 +417,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260320T003000Z
-DTSTART:20260319T233000Z
+DTEND:20260324T003000Z
+DTSTART:20260323T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
 UID:dc3f6782-070a-45db-9f47-8c1b21157bfe
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
@@ -535,6 +543,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260318T005000Z
+DTSTART:20260317T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:8fbcbcfa-326d-404e-b153-0c930ddfe774
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260319T005000Z
 DTSTART:20260318T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
@@ -559,8 +575,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/cdf2228f-0a2d-48f1-9e38-42e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260319T005000Z
-DTSTART:20260318T235000Z
+DTEND:20260318T005000Z
+DTSTART:20260317T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:6328813a-abbc-4424-8069-fff80fc30573
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
@@ -572,6 +588,14 @@ DTSTART:20260226T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:c41caf8f-f865-439e-abb0-17a6a3b55929
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260319T005000Z
+DTSTART:20260318T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:6328813a-abbc-4424-8069-fff80fc30573
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -677,20 +701,20 @@ UID:b80f42d6-5a59-48d6-b713-16fc19ea32fa
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Economic Activity
-DTEND:20260401T005000Z
-DTSTART:20260331T235000Z
-SUMMARY:🇯🇵🏭📈-🟡-Tankan Large All Industry Capex
-UID:aee21727-aa30-4a01-bfb6-3b16af633a0b
-URL:https://www.fxstreet.com/economic-calendar/event/17de8561-b76e-48e0-acbf-c71872b08511
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260424T003000Z
 DTSTART:20260423T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:36b94cb6-b9c3-4b60-ba8d-35165b831333
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260401T005000Z
+DTSTART:20260331T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Tankan Large All Industry Capex
+UID:aee21727-aa30-4a01-bfb6-3b16af633a0b
+URL:https://www.fxstreet.com/economic-calendar/event/17de8561-b76e-48e0-acbf-c71872b08511
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -707,6 +731,14 @@ DTSTART:20260319T030000Z
 SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
 UID:f35f28e9-c4f5-4fbc-891c-b303c0b947ee
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260318T005000Z
+DTSTART:20260317T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:d6af43bd-1124-4c5b-a714-e00a8484534b
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

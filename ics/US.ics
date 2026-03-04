@@ -90,6 +90,14 @@ UID:a58b69d7-43c7-45e5-8006-700f41186071
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260312T133000Z
+DTSTART:20260312T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Housing Starts (MoM)
+UID:4ff43d8b-fda8-4c32-9c3b-fa7c922e5e1d
+URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Interest Rates
 DTEND:20260429T190000Z
 DTSTART:20260429T180000Z
@@ -346,6 +354,14 @@ UID:84e2b763-4c75-4208-bd23-5bd88169146a
 URL:https://www.fxstreet.com/economic-calendar/event/bfd558c8-4ef8-409b-9588-6ee5978ccf31
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260313T133000Z
+DTSTART:20260313T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
+UID:b9a6884b-f380-4ca9-93bc-b2721be39ff1
+URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260220T213000Z
 DTSTART:20260220T203000Z
@@ -439,6 +455,14 @@ DTSTART:20260218T133000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
 UID:d93cac56-400b-4100-b84f-38860721887d
 URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260313T133000Z
+DTSTART:20260313T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
+UID:3114948f-3ab0-45ab-bf70-02e258d337e1
+URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -797,6 +821,14 @@ UID:f728bde4-3887-460f-96bb-f9e78a7deccd
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260313T133000Z
+DTSTART:20260313T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
+UID:c5fafab2-26a7-46bb-93cb-9f6586a2a542
+URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260506T131500Z
 DTSTART:20260506T121500Z
@@ -894,8 +926,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260312T133000Z
-DTSTART:20260312T123000Z
+DTEND:20260318T133000Z
+DTSTART:20260318T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (MoM)
 UID:4b1f503e-4ffd-4eb8-ae62-378752af7de2
 URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
@@ -1067,14 +1099,6 @@ DTSTART:20260310T121500Z
 SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
 UID:d9084eff-5464-4a5a-9e80-b93c35731e32
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Politics
-DTEND:20260225T030000Z
-DTSTART:20260225T020000Z
-SUMMARY:🇺🇸🌍🤝-🔴-President Trump speech
-UID:0c6418d4-7d17-40d3-b1c0-3b8ba587cbbc
-URL:https://www.fxstreet.com/economic-calendar/event/f3face43-1438-4c14-ae2f-156d0f9e8852
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1318,8 +1342,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260312T133000Z
-DTSTART:20260312T123000Z
+DTEND:20260318T133000Z
+DTSTART:20260318T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
 UID:0f0b1d59-cf93-4e9e-8816-9a346b00533b
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
@@ -1355,6 +1379,14 @@ DTSTART:20260403T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Unemployment Rate
 UID:2b94c3d3-9cce-4457-bcab-8ff2ba8a13d4
 URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260313T133000Z
+DTSTART:20260313T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
+UID:2a4bbcf6-0791-4487-8503-af123f454276
+URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -1586,6 +1618,14 @@ UID:2d2edbf0-07f9-4464-a29c-661c47bc7d1b
 URL:https://www.fxstreet.com/economic-calendar/event/7769bd3f-7ca2-4d62-8666-078a89da5aeb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260312T133000Z
+DTSTART:20260312T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
+UID:039d2441-e60a-4e36-a57f-d48d4cdfc6b2
+URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260402T123000Z
 DTSTART:20260402T113000Z
@@ -1643,11 +1683,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260318T160000Z
-DTSTART:20260318T150000Z
+DTEND:20260318T150000Z
+DTSTART:20260318T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:19104da0-8100-4a17-8195-453f262d99a8
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260601T150000Z
+DTSTART:20260601T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-ISM Manufacturing Prices Paid
+UID:545fe53d-c5ab-42ce-8f56-b38e23303154
+URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8edc17d68680
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.5
@@ -1816,6 +1864,14 @@ DTSTART:20260224T202000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
 UID:2a63d885-e7e5-4f6f-b6b0-3cb9bb458da8
 URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260601T150000Z
+DTSTART:20260601T140000Z
+SUMMARY:🇺🇸🏭📈-🔴-ISM Manufacturing PMI
+UID:792b5152-5018-480e-859b-e8e8597daecd
+URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2034d4fade
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -2243,8 +2299,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260312T133000Z
-DTSTART:20260312T123000Z
+DTEND:20260318T133000Z
+DTSTART:20260318T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
 UID:179c931b-c0f2-4305-9015-146c94f1d332
 URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
@@ -2283,8 +2339,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260312T133000Z
-DTSTART:20260312T123000Z
+DTEND:20260318T133000Z
+DTSTART:20260318T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
 UID:8e47bd88-a28f-4b6a-a230-dca19315681e
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
@@ -2600,6 +2656,14 @@ UID:ee0aea8f-abe5-48fb-ab16-d8049dc3c1b0
 URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260601T150000Z
+DTSTART:20260601T140000Z
+SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
+UID:35e46fa2-0402-4e4b-8f71-7b8d952d72da
+URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260220T143000Z
 DTSTART:20260220T133000Z
@@ -2857,8 +2921,24 @@ URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260326T150000Z
-DTSTART:20260326T140000Z
+DTEND:20260319T150000Z
+DTSTART:20260319T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
+UID:5de84359-62f2-4a12-999e-3150722afd2c
+URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260601T150000Z
+DTSTART:20260601T140000Z
+SUMMARY:🇺🇸👷💼-🟡-ISM Manufacturing Employment Index
+UID:780a90cb-0bbb-489f-a83a-dbc2c10b6b5b
+URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260317T150000Z
+DTSTART:20260317T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:2c64fd12-f26f-402b-8003-4cb61cce58ab
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
