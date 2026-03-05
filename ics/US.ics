@@ -1053,6 +1053,14 @@ UID:fc060c05-3024-4b77-acda-02d3aa654232
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-3.8
+DTEND:20260304T143500Z
+DTSTART:20260304T133500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Miran speech
+UID:2fee9f07-349b-435b-af03-b0b27b820f82
+URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260512T131500Z
 DTSTART:20260512T121500Z
@@ -1299,6 +1307,14 @@ DTSTART:20260316T131500Z
 SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
 UID:46327239-2eea-4b6c-8923-936677bf4c7d
 URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260602T150000Z
+DTSTART:20260602T140000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:adee7184-9132-44c8-9a04-76fc350a5cfb
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -2430,6 +2446,14 @@ DTSTART:20260211T190000Z
 SUMMARY:🇺🇸🌍🤝-🟡-Monthly Budget Statement
 UID:70b5d1e7-7bac-43de-8fc7-91382c84257d
 URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260306T192000Z
+DTSTART:20260306T182000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
+UID:c47ed9b8-86d7-4647-a56a-c0c39b6b50c3
+URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582c4eb3705a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
