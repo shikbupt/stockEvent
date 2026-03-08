@@ -1462,6 +1462,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Unemployment Rate
+UID:0b88761f-e12d-4275-a0f2-d8611d409551
+URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260403T133000Z
 DTSTART:20260403T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
@@ -1667,6 +1675,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
+UID:c940a3e0-5705-4769-ab20-671a3a89bf37
+URL:https://www.fxstreet.com/economic-calendar/event/aec78791-08e0-4e06-b331-bbe5b34f879b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260211T143000Z
 DTSTART:20260211T133000Z
 SUMMARY:🇺🇸👷💼-🔴-Nonfarm Payrolls Benchmark Revision
@@ -1680,6 +1696,14 @@ DTSTART:20260512T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index ex Food & Energy (YoY)
 UID:17163478-2e88-4809-9d7d-669854f1b7ca
 URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f0835731d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Nonfarm Payrolls
+UID:5cde8df1-3348-40db-8478-f0b039311f94
+URL:https://www.fxstreet.com/economic-calendar/event/9cdf56fd-99e4-4026-aa99-2b6c0ca92811
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
@@ -2306,6 +2330,14 @@ UID:bb52e24e-5785-4d50-b2c1-94b0421b9a17
 URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🟡-U6 Underemployment Rate
+UID:0b7d8655-08c7-43d9-b8b8-3221315e4cde
+URL:https://www.fxstreet.com/economic-calendar/event/b31ce2fd-dcc8-45a5-9c33-db417e6d939d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260512T133000Z
 DTSTART:20260512T123000Z
@@ -2520,6 +2552,14 @@ DTSTART:20260318T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
 UID:8e47bd88-a28f-4b6a-a230-dca19315681e
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (MoM)
+UID:4a74f656-a707-4463-a300-6e5017c83fae
+URL:https://www.fxstreet.com/economic-calendar/event/b7abce59-89c3-42cc-8696-c4b6877cdee3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -3030,6 +3070,14 @@ DTSTART:20260210T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Logan speech
 UID:19ae1198-a9ae-4c89-8f8b-229a8c181f5a
 URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260605T133000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (YoY)
+UID:10b9a7b2-933c-436b-b42e-55551f17416a
+URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
