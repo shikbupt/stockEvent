@@ -1157,14 +1157,6 @@ UID:d9084eff-5464-4a5a-9e80-b93c35731e32
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5
-DTEND:20260311T133000Z
-DTSTART:20260311T123000Z
-SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Bowman speech
-UID:1300b558-b046-4ee8-8c9d-7e2c17352ae4
-URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260403T150000Z
 DTSTART:20260403T140000Z

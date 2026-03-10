@@ -154,6 +154,14 @@ UID:4e2b844f-4903-45d0-bfbf-37a0b86d4cd8
 URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260608T005000Z
+DTSTART:20260607T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:f4c4a221-b654-44b6-b9a2-41b9943b0113
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260529T003000Z
 DTSTART:20260528T233000Z
@@ -455,6 +463,14 @@ UID:378c734a-b49b-4ef0-8cec-871b159ed00e
 URL:https://www.fxstreet.com/economic-calendar/event/7bd9ef61-1295-4c1b-846c-3a09fb77fb8d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260608T005000Z
+DTSTART:20260607T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:0b28a002-c471-4dad-b722-056e34e667c8
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260325T005000Z
 DTSTART:20260324T235000Z
@@ -469,6 +485,14 @@ DTSTART:20260521T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
 UID:91528b3f-64d4-45fe-9ef2-d7232156fac2
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260608T005000Z
+DTSTART:20260607T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:3a4a2817-cff1-4530-9c0b-3e1a35084be3
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
