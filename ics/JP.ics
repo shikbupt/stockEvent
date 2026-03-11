@@ -130,6 +130,14 @@ UID:2472372e-c338-47d2-8718-d5eee24a66eb
 URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260609T005000Z
+DTSTART:20260608T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:f42070ec-243c-4eee-8755-88e8539c4f9d
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260310T005000Z
 DTSTART:20260309T235000Z
