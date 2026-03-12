@@ -1525,6 +1525,14 @@ UID:6638ce76-00c6-4afb-9dfe-7a11dc5a24ca
 URL:https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17ad5d8a193f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260609T131500Z
+DTSTART:20260609T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:b2e78a39-39db-4543-aefa-9ea80c476e1e
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260318T190000Z
 DTSTART:20260318T180000Z
@@ -2615,6 +2623,14 @@ DTSTART:20260331T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:763bde2c-24ad-4ded-8559-5e3ef8d1c024
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260609T150000Z
+DTSTART:20260609T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
+UID:8e86197d-8048-4923-9fc1-84215ba462e7
+URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

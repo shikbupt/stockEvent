@@ -91,7 +91,7 @@
     "id": "56adee5b-3fc9-49b4-aea1-454c88107f44",
     "eventId": "3a2664c0-d491-482c-b446-e62eded13d9f",
     "dateUtc": "2026-03-05T13:30:00Z",
-    "periodDateUtc": "2024-10-01T00:00:00Z",
+    "periodDateUtc": "2025-10-01T00:00:00Z",
     "periodType": "QUARTER",
     "actual": 2.8,
     "revised": -1.8,

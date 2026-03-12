@@ -50,6 +50,14 @@ UID:7228f7da-6a33-4a6c-b3de-73cbd3a3083a
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260610T003000Z
+DTSTART:20260609T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
+UID:bed300f7-144e-4081-a7a3-121c24151c33
+URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260501T005000Z
 DTSTART:20260430T235000Z
