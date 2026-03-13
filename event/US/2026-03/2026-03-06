@@ -1,40 +1,6 @@
 [
   {
     "speech": {
-      "score": "NaN",
-      "isVotingMember": null,
-      "averageScore": 6
-    },
-    "isScoreTrackable": true,
-    "id": "c3f7d2e5-69c4-4590-8662-c9a16c1137eb",
-    "eventId": "7928c38a-9491-4165-be36-94322686a296",
-    "dateUtc": "2026-03-06T00:30:00Z",
-    "periodDateUtc": null,
-    "periodType": null,
-    "actual": null,
-    "revised": null,
-    "consensus": null,
-    "ratioDeviation": null,
-    "previous": null,
-    "isBetterThanExpected": null,
-    "name": "Fed's Goolsbee speech",
-    "countryCode": "US",
-    "currencyCode": "USD",
-    "unit": null,
-    "potency": null,
-    "volatility": "MEDIUM",
-    "isAllDay": false,
-    "isTentative": false,
-    "isPreliminary": false,
-    "isReport": false,
-    "isSpeech": true,
-    "lastUpdated": 1772781336,
-    "previousIsPreliminary": false,
-    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
-    "hasHistorical": true
-  },
-  {
-    "speech": {
       "score": 6.6,
       "isVotingMember": true,
       "averageScore": 4.1
