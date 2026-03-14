@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": true,
+      "averageScore": 5.4
+    },
+    "isScoreTrackable": true,
+    "id": "b43e3e2b-9039-4fe8-baca-82e489f83cc6",
+    "eventId": "afc2452a-0957-4f10-9d10-cb4512ef838d",
+    "dateUtc": "2026-03-21T14:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Chair Powell speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1773400600,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]
