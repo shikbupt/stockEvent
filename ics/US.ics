@@ -1165,6 +1165,14 @@ UID:48a211d7-49da-4e13-a9a7-6894836f797f
 URL:https://www.fxstreet.com/economic-calendar/event/4abee304-9984-47cf-80ab-dca1114165f5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260612T150000Z
+DTSTART:20260612T140000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
+UID:56c7fe14-76e0-438b-aa20-847fc3475b74
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260310T131500Z
 DTSTART:20260310T121500Z
@@ -2250,6 +2258,14 @@ UID:b92ef7f5-bfdd-425b-9938-18f1227a2951
 URL:https://www.fxstreet.com/economic-calendar/event/3a2664c0-d491-482c-b446-e62eded13d9f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260612T150000Z
+DTSTART:20260612T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:d0ffb51c-5842-4aa1-9e0d-a353463c02b0
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260218T143005Z
 DTSTART:20260218T133005Z
@@ -2264,6 +2280,14 @@ DTSTART:20260513T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
 UID:55300898-bebd-4123-bce2-1cbf5249a8ca
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260612T150000Z
+DTSTART:20260612T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:c636d6cd-d198-4470-8b36-14f4e40f6d0e
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -2974,6 +2998,14 @@ DTSTART:20260529T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
 UID:d3b31367-1c51-4f2b-ae8f-1e73b1b5ac09
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260612T150000Z
+DTSTART:20260612T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:3f3e2be7-db68-4c4f-aedc-1130e23f092d
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
