@@ -68,7 +68,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": -308.0,
     "isBetterThanExpected": null,
     "name": "Monthly Budget Statement",
     "countryCode": "US",
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1773690143,
+    "lastUpdated": 1773774645,
     "previousIsPreliminary": false,
     "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
     "hasHistorical": true

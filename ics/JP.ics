@@ -448,6 +448,14 @@ UID:dc3f6782-070a-45db-9f47-8c1b21157bfe
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Interest Rates
+DTEND:20260616T040000Z
+DTSTART:20260616T030000Z
+SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
+UID:d4aa13b2-069b-4a1d-bd14-69ac8beb96a2
+URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260408T003000Z
 DTSTART:20260407T233000Z
@@ -771,6 +779,14 @@ DTSTART:20260319T030000Z
 SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
 UID:f35f28e9-c4f5-4fbc-891c-b303c0b947ee
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260616T040000Z
+DTSTART:20260616T030000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
+UID:3cc5e024-da92-470a-b7cc-8d2ff2c4f353
+URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

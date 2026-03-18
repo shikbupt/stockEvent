@@ -2792,6 +2792,14 @@ UID:286fc15b-ab44-44e5-afe0-3be33ef6ee8d
 URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260615T141500Z
+DTSTART:20260615T131500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:eccf9c46-71bb-4a1b-976b-9bc8df3c7e06
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260305T143000Z
 DTSTART:20260305T133000Z
