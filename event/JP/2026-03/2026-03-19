@@ -48,11 +48,11 @@
     "potency": null,
     "volatility": "HIGH",
     "isAllDay": false,
-    "isTentative": true,
+    "isTentative": false,
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1773867770,
+    "lastUpdated": 1773905454,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

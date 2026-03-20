@@ -353,6 +353,14 @@ UID:67961c99-9108-45c7-a4ca-56a7716e3d2a
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260618T005000Z
+DTSTART:20260617T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:81804ad7-82ac-4a79-ba48-feb7db7365e7
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260507T005000Z
 DTSTART:20260506T235000Z
@@ -394,11 +402,27 @@ URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260618T005000Z
+DTSTART:20260617T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:9a1aeabf-3b62-4725-bf79-d075f653ca3b
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260218T005000Z
 DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
 UID:871e8658-f5f6-4122-a0b7-287bad69b4bc
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260618T005000Z
+DTSTART:20260617T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:4ac48250-dd90-4a6c-82ed-7a31db502d11
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -565,6 +589,14 @@ DTSTART:20260514T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
 UID:3735dec4-1439-43dc-8579-05dfde3b3846
 URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260618T005000Z
+DTSTART:20260617T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:063ec4e0-be29-4773-afa9-7f2f7aa7097f
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
