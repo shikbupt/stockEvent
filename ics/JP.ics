@@ -34,6 +34,14 @@ UID:9c5288e1-4319-452a-a4e5-530a9873ac4d
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260619T003000Z
+DTSTART:20260618T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:dbe7844a-6e06-4553-afc7-574ea52d1091
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260220T013000Z
 DTSTART:20260220T003000Z
@@ -48,6 +56,14 @@ DTSTART:20260521T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
 UID:7228f7da-6a33-4a6c-b3de-73cbd3a3083a
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260619T003000Z
+DTSTART:20260618T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:45f24cef-3fb8-46ec-9e39-2e8a8335a0c3
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -152,6 +168,14 @@ DTSTART:20260309T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
 UID:f65945cb-f837-43f1-b177-d874b9b2fe01
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260619T005000Z
+DTSTART:20260618T235000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
+UID:e9d8b161-d6c0-4898-884f-8b8a8be29476
+URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -907,6 +931,14 @@ DTSTART:20260319T063000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Press Conference
 UID:b54f1db9-ce1c-4e1e-9242-a9ca40999513
 URL:https://www.fxstreet.com/economic-calendar/event/e01c7f18-22ff-47ff-94ac-a458f2054295
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260619T003000Z
+DTSTART:20260618T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
+UID:08acd7f8-c6b9-49a2-ab6a-b04f96b67658
+URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
