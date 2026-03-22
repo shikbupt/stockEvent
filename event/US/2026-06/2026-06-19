@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "1d3ffe91-5bc9-47f7-9971-69e41410cb70",
+    "eventId": "1cc66699-2777-4104-b41e-7a09b289d79d",
+    "dateUtc": "2026-06-19T05:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Juneteenth",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1718807537,
+    "previousIsPreliminary": false,
+    "categoryId": "7dfaef86-c3fe-4e76-9421-8958cc2f9a0d",
+    "hasHistorical": true
+  }
+]

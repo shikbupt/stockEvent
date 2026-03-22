@@ -2122,6 +2122,13 @@ UID:3b4d7f0d-e6f1-4e61-85d7-60d118024150
 URL:https://www.fxstreet.com/economic-calendar/event/6f846eaa-9a12-43ab-930d-f059069c6646
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:Category: Holidays
+SUMMARY:🇺🇸📅🎈--Juneteenth
+UID:1d3ffe91-5bc9-47f7-9971-69e41410cb70
+URL:https://www.fxstreet.com/economic-calendar/event/1cc66699-2777-4104-b41e-7a09b289d79d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260212T160000Z
 DTSTART:20260212T150000Z
