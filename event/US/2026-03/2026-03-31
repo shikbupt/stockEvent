@@ -119,7 +119,7 @@
     "speech": {
       "score": null,
       "isVotingMember": false,
-      "averageScore": 6
+      "averageScore": 6.1
     },
     "isScoreTrackable": true,
     "id": "9a1f93de-1caa-4252-8ff5-d9ba440d43d5",
@@ -144,7 +144,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1773654018,
+    "lastUpdated": 1774269308,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

@@ -1,14 +1,14 @@
 [
   {
     "speech": {
-      "score": "NaN",
+      "score": null,
       "isVotingMember": true,
-      "averageScore": 5.4
+      "averageScore": 4.8
     },
     "isScoreTrackable": true,
-    "id": "b43e3e2b-9039-4fe8-baca-82e489f83cc6",
-    "eventId": "afc2452a-0957-4f10-9d10-cb4512ef838d",
-    "dateUtc": "2026-03-21T14:30:00Z",
+    "id": "03f317bc-8ed2-4d27-925e-bd7ce6d68274",
+    "eventId": "94b5a38c-5bf5-4f48-b286-1773b8dbeac5",
+    "dateUtc": "2026-03-30T20:00:00Z",
     "periodDateUtc": null,
     "periodType": null,
     "actual": null,
@@ -17,18 +17,18 @@
     "ratioDeviation": null,
     "previous": null,
     "isBetterThanExpected": null,
-    "name": "Fed's Chair Powell speech",
+    "name": "Fed's Williams speech",
     "countryCode": "US",
     "currencyCode": "USD",
     "unit": null,
     "potency": null,
-    "volatility": "HIGH",
+    "volatility": "MEDIUM",
     "isAllDay": false,
     "isTentative": false,
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1774250220,
+    "lastUpdated": 1774253114,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
