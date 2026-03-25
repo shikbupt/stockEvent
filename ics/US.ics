@@ -42,6 +42,14 @@ UID:5171b0e8-2d92-4efb-a830-cea8e915371c
 URL:https://www.fxstreet.com/economic-calendar/event/4abee304-9984-47cf-80ab-dca1114165f5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260324T234500Z
+DTSTART:20260324T224500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:7f8b84c3-07b7-44bb-b397-ca332fbd79c5
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260508T133000Z
 DTSTART:20260508T123000Z
@@ -259,8 +267,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Politics
-DTEND:20260413T190000Z
-DTSTART:20260413T180000Z
+DTEND:20260410T190000Z
+DTSTART:20260410T180000Z
 SUMMARY:🇺🇸🌍🤝-🟡-Monthly Budget Statement
 UID:2eb62d4f-638a-4a5e-a521-2f5fbc65e110
 URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
