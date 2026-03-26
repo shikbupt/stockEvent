@@ -250,14 +250,6 @@ UID:77bbb5b7-e50a-47e2-b25b-9f596abe69b3
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20260319T040000Z
-DTSTART:20260319T030000Z
-SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
-UID:9b49135e-1b94-415c-bee3-952422b896d0
-URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260218T005000Z
 DTSTART:20260217T235000Z
@@ -821,14 +813,6 @@ UID:b80f42d6-5a59-48d6-b713-16fc19ea32fa
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Inflation
-DTEND:20260424T003000Z
-DTSTART:20260423T233000Z
-SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
-UID:36b94cb6-b9c3-4b60-ba8d-35165b831333
-URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260401T005000Z
 DTSTART:20260331T235000Z
@@ -838,19 +822,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/17de8561-b76e-48e0-acbf-c71
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20260424T003000Z
+DTSTART:20260423T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:36b94cb6-b9c3-4b60-ba8d-35165b831333
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260522T003000Z
 DTSTART:20260521T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:0fb191ee-ad56-4773-963c-8803be87fdf2
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Interest Rates
-DTEND:20260319T034617Z
-DTSTART:20260319T024617Z
-SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
-UID:f35f28e9-c4f5-4fbc-891c-b303c0b947ee
-URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
