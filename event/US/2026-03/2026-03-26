@@ -6,10 +6,10 @@
     "dateUtc": "2026-03-26T12:30:00Z",
     "periodDateUtc": "2026-03-20T00:00:00Z",
     "periodType": "DAY",
-    "actual": null,
+    "actual": 210.0,
     "revised": null,
     "consensus": 210.0,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.0,
     "previous": 205.0,
     "isBetterThanExpected": null,
     "name": "Initial Jobless Claims",
@@ -23,14 +23,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1774022416,
+    "lastUpdated": 1774528502,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7,
       "isVotingMember": true,
       "averageScore": 6
     },
@@ -64,7 +64,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.1,
       "isVotingMember": true,
       "averageScore": 2.9
     },
@@ -98,7 +98,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 6,
       "isVotingMember": true,
       "averageScore": 5.3
     },
@@ -132,7 +132,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 6.5
     },
@@ -166,7 +166,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 7,
       "isVotingMember": true,
       "averageScore": 6.2
     },
