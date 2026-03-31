@@ -1,12 +1,46 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 2.6,
       "isVotingMember": true,
-      "averageScore": null
+      "averageScore": 3.5
     },
     "isScoreTrackable": true,
-    "id": "bbfa7ae7-8f1b-4ce8-aa35-42a51e3662ce",
+    "id": "b9f93696-697d-4bed-8a5f-89b29eb376cf",
+    "eventId": "081a7af6-5514-4a8b-a13f-c1dac42572a3",
+    "dateUtc": "2026-03-30T14:05:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Miran speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1774879845,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 5.6,
+      "isVotingMember": true,
+      "averageScore": 5.5
+    },
+    "isScoreTrackable": true,
+    "id": "0c9ee4ec-f575-4deb-abb6-43b230ffe020",
     "eventId": "afc2452a-0957-4f10-9d10-cb4512ef838d",
     "dateUtc": "2026-03-30T14:30:00Z",
     "periodDateUtc": null,
@@ -28,14 +62,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1774620888,
+    "lastUpdated": 1774881523,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 5.7,
       "isVotingMember": true,
       "averageScore": 4.8
     },
