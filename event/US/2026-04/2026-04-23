@@ -68,7 +68,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 52.3,
     "isBetterThanExpected": null,
     "name": "S&P Global Manufacturing PMI",
     "countryCode": "US",
@@ -81,7 +81,7 @@
     "isPreliminary": true,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1774622386,
+    "lastUpdated": 1775051401,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": false

@@ -306,6 +306,14 @@ UID:46cfdc1a-f445-43be-9475-4c3ab91c2228
 URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Politics
+DTEND:20260402T020000Z
+DTSTART:20260402T010000Z
+SUMMARY:🇺🇸🌍🤝-🔴-President Trump speech
+UID:b81c5ec4-16c7-497e-ba15-dd75a4495ba5
+URL:https://www.fxstreet.com/economic-calendar/event/f3face43-1438-4c14-ae2f-156d0f9e8852
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260603T150000Z
 DTSTART:20260603T140000Z
@@ -410,6 +418,14 @@ UID:84e2b763-4c75-4208-bd23-5bd88169146a
 URL:https://www.fxstreet.com/economic-calendar/event/bfd558c8-4ef8-409b-9588-6ee5978ccf31
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260630T133000Z
+DTSTART:20260630T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
+UID:325c6011-8275-4c62-b19c-90e1f6f8d188
+URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z
@@ -432,6 +448,14 @@ DTSTART:20260515T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
 UID:7348cf6e-cb69-4ccd-94e1-e13dbf381a0b
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260630T133000Z
+DTSTART:20260630T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
+UID:d9122622-bc67-461f-b48b-02c6a8bc6bbf
+URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -1978,6 +2002,14 @@ UID:11443f76-0fc5-4a19-b145-e4dc16905df3
 URL:https://www.fxstreet.com/economic-calendar/event/5e7b2193-f711-4658-926e-44fc47d0e0e1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260630T150000Z
+DTSTART:20260630T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Consumer Confidence
+UID:980e16bd-5951-44a3-a5c6-ef9c0692effa
+URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260512T133000Z
 DTSTART:20260512T123000Z
@@ -2457,6 +2489,14 @@ UID:1cac7caa-b0d7-473f-b5c8-e79ff2611015
 URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260630T140000Z
+DTSTART:20260630T130000Z
+SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
+UID:cadc75ab-a863-4b6f-8af7-ed0e0ea70c35
+URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-4.1
 DTEND:20260224T151500Z
 DTSTART:20260224T141500Z
@@ -2778,6 +2818,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260630T133000Z
+DTSTART:20260630T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Annualized
+UID:99ab66c4-c33e-4d11-be5b-75e4fe6f603a
+URL:https://www.fxstreet.com/economic-calendar/event/5f64264e-5097-4359-b60f-fb9b01229068
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260409T133000Z
 DTSTART:20260409T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
@@ -2871,6 +2919,14 @@ DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
 UID:eef21339-0191-4dfd-8030-e7704db4d3e3
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260630T144500Z
+DTSTART:20260630T134500Z
+SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
+UID:60df30ca-da58-459f-843d-6b1ae4c17791
+URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -3167,6 +3223,14 @@ UID:3f60cc4e-80a5-4208-a930-eb50c1265622
 URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260630T150000Z
+DTSTART:20260630T140000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:9b5e32c5-9477-4e42-ab2a-39418df5efab
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Politics
 DTEND:20260211T200000Z
 DTSTART:20260211T190000Z
@@ -3245,6 +3309,14 @@ DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
 UID:dd2cf54a-acfe-42c9-a243-bf1b362d62e1
 URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260401T125000Z
+DTSTART:20260401T115000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
+UID:e9cc9c8e-b998-4cce-8cee-e5455adede76
+URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -3781,6 +3853,14 @@ DTSTART:20260430T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
 UID:7ce136ff-7978-4179-8604-dc1c477be4d8
 URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260630T133000Z
+DTSTART:20260630T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
+UID:158a25c7-ff12-4c3d-860c-c1e812ef93cf
+URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market

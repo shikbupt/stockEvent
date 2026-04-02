@@ -19,6 +19,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Tankan Large Manufacturing Index
+UID:73de8114-5cd5-42be-a26e-b4f67b5dada9
+URL:https://www.fxstreet.com/economic-calendar/event/feb3bf60-1d35-4ef7-828a-4272587d88bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260216T005000Z
 DTSTART:20260215T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
@@ -250,6 +258,14 @@ UID:4f66658b-0e7c-47bc-bdeb-17fa164425a9
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
+UID:58c740e0-c073-400e-b834-34f9996b937d
+URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260630T003000Z
 DTSTART:20260629T233000Z
@@ -401,6 +417,14 @@ UID:67961c99-9108-45c7-a4ca-56a7716e3d2a
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Tankan Large All Industry Capex
+UID:6f658ab9-566f-4f3a-b229-10f7912f8ef7
+URL:https://www.fxstreet.com/economic-calendar/event/17de8561-b76e-48e0-acbf-c71872b08511
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260618T005000Z
 DTSTART:20260617T235000Z
@@ -486,6 +510,14 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇯🇵📅🎈--Constitution Day
 UID:48b526cb-45a5-43c9-a1a4-7d93bda8a6fc
 URL:https://www.fxstreet.com/economic-calendar/event/b0ee8479-301e-4311-b22d-7ec23e1022ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Tankan Large Manufacturing Outlook
+UID:01b8bc77-36ae-4c17-b479-35e7821714ac
+URL:https://www.fxstreet.com/economic-calendar/event/313b7542-8991-4559-b265-03dd56264d8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -637,6 +669,14 @@ DTSTART:20260514T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
 UID:3735dec4-1439-43dc-8579-05dfde3b3846
 URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
+UID:7a8a25af-95bf-4204-936f-6bdda0cb890b
+URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -883,6 +923,14 @@ DTSTART:20260318T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:d6af43bd-1124-4c5b-a714-e00a8484534b
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260701T005000Z
+DTSTART:20260630T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
+UID:87c75f90-af0a-48bf-b69e-186868c77f29
+URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
