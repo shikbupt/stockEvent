@@ -3439,6 +3439,13 @@ UID:dd2cf54a-acfe-42c9-a243-bf1b362d62e1
 URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Category: Holidays
+SUMMARY:🇺🇸📅🎈--Independence Day
+UID:aa7ae995-942d-4880-a0ce-610cd7ab7de4
+URL:https://www.fxstreet.com/economic-calendar/event/22d44a95-e626-47aa-b504-560097f01934
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260401T125000Z
 DTSTART:20260401T115000Z
