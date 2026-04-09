@@ -322,14 +322,6 @@ UID:46cfdc1a-f445-43be-9475-4c3ab91c2228
 URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Politics
-DTEND:20260402T020000Z
-DTSTART:20260402T010000Z
-SUMMARY:🇺🇸🌍🤝-🔴-President Trump speech
-UID:b81c5ec4-16c7-497e-ba15-dd75a4495ba5
-URL:https://www.fxstreet.com/economic-calendar/event/f3face43-1438-4c14-ae2f-156d0f9e8852
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260603T150000Z
 DTSTART:20260603T140000Z
@@ -1918,6 +1910,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a87
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
+DTEND:20260415T190000Z
+DTSTART:20260415T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Beige Book
+UID:b4535b48-cede-42a6-9dbf-514c3095d29e
+URL:https://www.fxstreet.com/economic-calendar/event/b9515da1-d4f6-4f7f-aa58-c3eb2cefe699
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
 DTEND:20260422T190000Z
 DTSTART:20260422T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Beige Book
@@ -2083,8 +2083,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260417T133000Z
-DTSTART:20260417T123000Z
+DTEND:20260415T133000Z
+DTSTART:20260415T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
 UID:255af769-8a35-4c30-8eec-34883c9b488f
 URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
@@ -3750,6 +3750,14 @@ UID:04690db1-b209-4311-95dd-45b1ea370726
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260707T131500Z
+DTSTART:20260707T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:ca508d5e-a0b3-46e7-8bc7-eb5cd374d17a
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260211T161000Z
 DTSTART:20260211T151000Z
@@ -4223,8 +4231,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260430T150000Z
-DTSTART:20260430T140000Z
+DTEND:20260421T150000Z
+DTSTART:20260421T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:7bce8355-82b8-4d30-8961-b65acc6022d8
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
