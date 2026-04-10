@@ -2761,6 +2761,14 @@ UID:7ab942c1-6ea1-4df7-b06d-d3d661cc52c7
 URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260708T190000Z
+DTSTART:20260708T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Minutes
+UID:77b6d7a3-e309-4172-962f-fc41c60c561d
+URL:https://www.fxstreet.com/economic-calendar/event/e10a1f69-915d-44b1-ad1d-0b8edf7853f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260428T150000Z
 DTSTART:20260428T140000Z

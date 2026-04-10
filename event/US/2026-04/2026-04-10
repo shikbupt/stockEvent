@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1775462422,
+    "lastUpdated": 1775743872,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1775217617,
+    "lastUpdated": 1775743908,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
@@ -124,7 +124,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": -0.1,
+    "consensus": -0.2,
     "ratioDeviation": null,
     "previous": 0.1,
     "isBetterThanExpected": null,
@@ -139,7 +139,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1775577631,
+    "lastUpdated": 1775743255,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
@@ -269,7 +269,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": -156.75,
     "ratioDeviation": null,
     "previous": -308.0,
     "isBetterThanExpected": null,
@@ -284,7 +284,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1774339778,
+    "lastUpdated": 1775743254,
     "previousIsPreliminary": false,
     "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
     "hasHistorical": true
