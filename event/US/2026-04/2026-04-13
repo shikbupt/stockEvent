@@ -35,8 +35,8 @@
     "dateUtc": "2026-04-13T14:00:00Z",
     "periodDateUtc": "2026-03-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": -3.6,
+    "revised": 2.7,
     "consensus": null,
     "ratioDeviation": null,
     "previous": 1.7,
@@ -52,14 +52,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1773151634,
+    "lastUpdated": 1776089101,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 3.7
     },

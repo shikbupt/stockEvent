@@ -99,8 +99,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/8704b166-257b-44d2-8097-c33
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260428T003000Z
-DTSTART:20260427T233000Z
+DTEND:20260501T003000Z
+DTSTART:20260430T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
 UID:0db90a8a-3a34-4e5f-a0e9-312bbd128332
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
@@ -203,8 +203,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260428T003000Z
-DTSTART:20260427T233000Z
+DTEND:20260501T003000Z
+DTSTART:20260430T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
 UID:4e2b844f-4903-45d0-bfbf-37a0b86d4cd8
 URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
@@ -704,16 +704,16 @@ URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260428T003000Z
-DTSTART:20260427T233000Z
+DTEND:20260501T003000Z
+DTSTART:20260430T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
 UID:7672c3c6-ab40-47ef-9754-9098e279e8d4
 URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260501T003000Z
-DTSTART:20260430T233000Z
+DTEND:20260428T003000Z
+DTSTART:20260427T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
 UID:2e13b317-e9e8-49c9-8534-ea63b063caa9
 URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
