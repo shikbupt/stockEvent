@@ -2226,6 +2226,14 @@ UID:9d5b049b-52b5-4346-ae73-009cb3fc292b
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260414T152000Z
+DTSTART:20260414T142000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:6d952721-740e-4e22-9208-f6d120e8c9c0
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260603T150000Z
 DTSTART:20260603T140000Z
@@ -2783,14 +2791,6 @@ DTSTART:20260306T133000Z
 SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
 UID:c213fdb6-8e0e-4076-8f2e-5de6b2a27e35
 URL:https://www.fxstreet.com/economic-calendar/event/aec78791-08e0-4e06-b331-bbe5b34f879b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Politics
-DTEND:20260408T010000Z
-DTSTART:20260408T000000Z
-SUMMARY:🇺🇸🌍🤝-🔴-Trump's deadline for Iran
-UID:60c97284-b4a6-4196-84d1-e37de7921f78
-URL:https://www.fxstreet.com/economic-calendar/event/22929a4e-93cc-4f0e-a0df-3d4e9d529036
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -4236,6 +4236,14 @@ DTSTART:20260423T134500Z
 SUMMARY:🇺🇸🏭📈-🔴-S&P Global Manufacturing PMI
 UID:fb04b60d-18e8-48fa-bb41-2aeb297ccd19
 URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80fabf6c0120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Politics
+DTEND:20260713T190000Z
+DTSTART:20260713T180000Z
+SUMMARY:🇺🇸🌍🤝-🟡-Monthly Budget Statement
+UID:6bd7f3b9-8d74-4926-841e-554aa10532a4
+URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
