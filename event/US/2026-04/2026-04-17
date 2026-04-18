@@ -30,7 +30,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 6,
       "isVotingMember": false,
       "averageScore": 5.2
     },
@@ -64,7 +64,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.2,
       "isVotingMember": true,
       "averageScore": 5.4
     },

@@ -1478,6 +1478,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:4194e762-c4c0-4583-a34e-a4481ee22e3a
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
@@ -1611,6 +1619,14 @@ DTSTART:20260305T134000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
 UID:f82d3327-c3c4-428c-bbdf-c9183be0f914
 URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
+UID:20a0cf26-038b-447a-b0bc-8755d6646e41
+URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -2186,6 +2202,14 @@ UID:3e2e7610-2045-472d-b37e-25e7f86e69a9
 URL:https://www.fxstreet.com/economic-calendar/event/e10a1f69-915d-44b1-ad1d-0b8edf7853f3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
+UID:43ae7ad2-6620-4b56-a30a-0ed35e7da504
+URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-4.1
 DTEND:20260209T203000Z
 DTSTART:20260209T193000Z
@@ -2623,6 +2647,14 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇺🇸📅🎈--Juneteenth
 UID:1d3ffe91-5bc9-47f7-9971-69e41410cb70
 URL:https://www.fxstreet.com/economic-calendar/event/1cc66699-2777-4104-b41e-7a09b289d79d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Philadelphia Fed Manufacturing Survey
+UID:1d5bc4a5-3c2d-4f7d-a836-b2102ce5ae37
+URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
@@ -3121,6 +3153,14 @@ UID:7a2bfa56-41b9-4728-9b91-4747d6596cc2
 URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Housing Starts (MoM)
+UID:dee3343e-eba5-4663-be24-1926176ce3d0
+URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260605T133000Z
 DTSTART:20260605T123000Z
@@ -3407,6 +3447,14 @@ DTSTART:20260616T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
 UID:723a8818-7fc6-4dd7-8448-a7462574fda2
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
+UID:1ea2d0c4-b3e8-44b3-8c66-f52b44a59421
+URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-2.9
@@ -4182,6 +4230,14 @@ UID:84e3ea87-bb8f-4875-bec0-ac77890c76dc
 URL:https://www.fxstreet.com/economic-calendar/event/b31ce2fd-dcc8-45a5-9c33-db417e6d939d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-4.7
+DTEND:20260421T193000Z
+DTSTART:20260421T183000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
+UID:e83a4b39-041e-4f1a-9c84-2023dd661aee
+URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260528T133000Z
 DTSTART:20260528T123000Z
@@ -4492,6 +4548,14 @@ DTSTART:20260611T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
 UID:1a6c07ff-e1d9-4fd5-bd9c-97e3dd64de59
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260716T133000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
+UID:3bd5d599-0065-480f-bd56-74f04334a315
+URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6
