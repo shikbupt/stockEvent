@@ -3657,13 +3657,6 @@ UID:de9de34e-6188-40e4-97f0-79fe6b5351e0
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260413
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:8d4cc865-92a7-414e-9b7e-3542bbcf343e
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260409T133000Z
 DTSTART:20260409T123000Z
