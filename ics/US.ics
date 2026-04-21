@@ -847,6 +847,14 @@ UID:968b7d49-0f48-4a76-ac53-cb61fe34f782
 URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247306b4a2c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260505T150005Z
+DTSTART:20260505T140005Z
+SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
+UID:1cf8e5c2-be7d-4dfb-a60f-fd9c7c2c88e9
+URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260410T150000Z
 DTSTART:20260410T140000Z
@@ -1102,13 +1110,6 @@ UID:e301893e-0392-410b-96eb-443eb2940081
 URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:2762e2c4-0fa0-430b-982a-585bd67fbd6d
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260220T154500Z
 DTSTART:20260220T144500Z
@@ -1182,8 +1183,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260505T150000Z
-DTSTART:20260505T140000Z
+DTEND:20260504T150000Z
+DTSTART:20260504T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:572840d2-f83a-4a0f-ad0d-a458d61369f8
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
@@ -2730,8 +2731,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260423T150000Z
-DTSTART:20260423T140000Z
+DTEND:20260505T150000Z
+DTSTART:20260505T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
 UID:72e50026-1600-4659-a963-2229d692a963
 URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
@@ -4189,6 +4190,14 @@ DTSTART:20260715T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
 UID:67b943c3-e8a4-4215-92fc-9b3f67ac37b0
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260421T150000Z
+DTSTART:20260421T140000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Chair-designate Warsh testifies
+UID:ddae689c-583e-4308-9a00-c3c213dd7469
+URL:https://www.fxstreet.com/economic-calendar/event/a1872e2c-9563-4d83-8624-fb2d86a33bb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation

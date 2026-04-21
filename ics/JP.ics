@@ -1037,6 +1037,13 @@ UID:eb9d0e6c-7323-4992-a667-40a354fb01ca
 URL:https://www.fxstreet.com/economic-calendar/event/feb3bf60-1d35-4ef7-828a-4272587d88bf
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Marine Day
+UID:abb0201a-73c6-4628-a670-cde19d2752a4
+URL:https://www.fxstreet.com/economic-calendar/event/0929f897-ee27-43bf-a05a-867859d4466b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260331T003000Z
 DTSTART:20260330T233000Z
