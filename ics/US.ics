@@ -4656,13 +4656,6 @@ UID:8a4e6394-0d36-4743-a955-f83e20f2f145
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:f9451395-8e0f-4fad-8cfe-82f1c3362369
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260306T144000Z
 DTSTART:20260306T134000Z
