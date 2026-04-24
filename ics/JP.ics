@@ -122,6 +122,14 @@ UID:a7b1710e-2122-45df-b702-c126dda62e13
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:f3895436-1006-4ec4-86b4-412ccc75a069
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260216T053000Z
 DTSTART:20260216T043000Z
@@ -288,6 +296,14 @@ DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:67c7dbd3-5dcf-4d5e-959e-d34ebeaa985b
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:7db45a84-a8c0-4a77-bc0a-2e0b148527ef
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -510,6 +526,14 @@ DTEND:20260218T005000Z
 DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:3dc6d2c2-7f4b-49fb-af25-8fc0ae230a30
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:1cb1754b-9525-4c71-bd5c-13174634ad95
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
@@ -843,6 +867,14 @@ DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:c3b645d2-8a46-4305-b63e-ab5184e7bcfc
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:da5e3ab9-98ea-4eea-a741-3a243b25cf6a
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
