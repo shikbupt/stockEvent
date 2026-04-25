@@ -2717,6 +2717,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
+DTEND:20260506T180000Z
+DTSTART:20260506T170000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:9c7ed400-ebc1-4a47-9d1e-e57b68a69e54
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
 DTEND:20260414T180000Z
 DTSTART:20260414T170000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
@@ -3394,6 +3402,14 @@ DTSTART:20260417T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
 UID:8deb997c-f263-46a7-9943-8a890788adc1
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260506T143000Z
+DTSTART:20260506T133000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:079e9d66-aef0-42e2-baf4-6b3058d18fa8
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -4082,6 +4098,14 @@ UID:d3b31367-1c51-4f2b-ae8f-1e73b1b5ac09
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260723T133000Z
+DTSTART:20260723T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:fa9d2122-3f65-41d6-a658-22edb792adae
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260612T150000Z
 DTSTART:20260612T140000Z
@@ -4648,6 +4672,14 @@ DTSTART:20260416T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
 UID:8a4e6394-0d36-4743-a955-f83e20f2f145
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260509T003000Z
+DTSTART:20260508T233000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:b19a4dab-7070-41f8-b02c-23300a76f36f
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks

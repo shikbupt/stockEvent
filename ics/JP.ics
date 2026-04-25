@@ -194,6 +194,14 @@ UID:f65945cb-f837-43f1-b177-d874b9b2fe01
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260724T003000Z
+DTSTART:20260723T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
+UID:37654521-46e4-42cb-8bb6-bf87eb6bc89d
+URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260619T005000Z
 DTSTART:20260618T235000Z
@@ -272,6 +280,14 @@ DTSTART:20260630T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
 UID:58c740e0-c073-400e-b834-34f9996b937d
 URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260724T003000Z
+DTSTART:20260723T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:d46c203c-6963-4ab7-8b40-cc00f32acacb
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -447,6 +463,14 @@ DTSTART:20260617T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:81804ad7-82ac-4a79-ba48-feb7db7365e7
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260724T003000Z
+DTSTART:20260723T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:2e2587b9-620f-4155-8752-e47aa627f394
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
