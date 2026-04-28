@@ -1375,6 +1375,14 @@ UID:19fa9342-9fb7-486e-9fa4-31f50c6646ab
 URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260512T180000Z
+DTSTART:20260512T170000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:b76cbe72-3660-4f6a-80a3-449b527cecca
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260220T143000Z
 DTSTART:20260220T133000Z
@@ -1605,6 +1613,14 @@ DTSTART:20260529T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
 UID:ebffdf2c-03d8-4b7b-8b22-43b2e79cbfb0
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.5
+DTEND:20260507T203000Z
+DTSTART:20260507T193000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:fa7774ca-c6ed-4290-b107-cc40d3601b87
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.5
@@ -3554,6 +3570,14 @@ DTSTART:20260702T123000Z
 SUMMARY:🇺🇸👷💼-🔴-Nonfarm Payrolls
 UID:9f9c6d5f-9389-4478-94ef-ebac21ce2730
 URL:https://www.fxstreet.com/economic-calendar/event/9cdf56fd-99e4-4026-aa99-2b6c0ca92811
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.3
+DTEND:20260504T175000Z
+DTSTART:20260504T165000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:b3cbeeca-de87-48bc-801f-f821e9432f97
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
