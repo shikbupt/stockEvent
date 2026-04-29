@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260727T133000Z
+DTSTART:20260727T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
+UID:8db01d58-1479-4219-921b-fec8764ffe42
+URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260217T203000Z
 DTSTART:20260217T193000Z
@@ -475,8 +483,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-842
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260515T133000Z
-DTSTART:20260515T123000Z
+DTEND:20260514T133000Z
+DTSTART:20260514T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
 UID:7348cf6e-cb69-4ccd-94e1-e13dbf381a0b
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
@@ -901,6 +909,14 @@ DTSTART:20260715T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
 UID:b74627f8-7567-41f8-a546-2c84998ae637
 URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260727T133000Z
+DTSTART:20260727T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
+UID:27c59c4c-08dc-444e-bb69-63eb7f1ea84a
+URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1407,6 +1423,14 @@ UID:ffdd40ae-6d2a-4d83-ab5b-6d5cf6c92f88
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260727T133000Z
+DTSTART:20260727T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
+UID:ec8b606a-a77d-4bd6-964d-b972e96b89f9
+URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260430T133000Z
 DTSTART:20260430T123000Z
@@ -1664,8 +1688,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260515T133000Z
-DTSTART:20260515T123000Z
+DTEND:20260514T133000Z
+DTSTART:20260514T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:246177e8-7ce0-4768-a5ff-bca7e1fe7610
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
@@ -2813,8 +2837,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260515T133000Z
-DTSTART:20260515T123000Z
+DTEND:20260514T133000Z
+DTSTART:20260514T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
 UID:3974ef5f-1521-4350-ab73-cdaeed64094d
 URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
@@ -3322,6 +3346,14 @@ DTSTART:20260401T121500Z
 SUMMARY:🇺🇸👷💼-🔴-ADP Employment Change
 UID:75f4d1ad-21af-4e3c-a760-cc8442e2bda1
 URL:https://www.fxstreet.com/economic-calendar/event/4f50e4f8-cd33-428b-b721-5fb620b7f097
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260727T133000Z
+DTSTART:20260727T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
+UID:7fb43107-1c8a-43be-947e-543a104beb3d
+URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption

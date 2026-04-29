@@ -42,6 +42,14 @@ UID:9c5288e1-4319-452a-a4e5-530a9873ac4d
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260519T005000Z
+DTSTART:20260518T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:9c5288e1-4319-452a-a4e5-530a9873ac4d
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260619T003000Z
 DTSTART:20260618T233000Z
@@ -122,12 +130,12 @@ UID:a7b1710e-2122-45df-b702-c126dda62e13
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Capital Flows
-DTEND:20260723T005000Z
-DTSTART:20260722T235000Z
-SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
-UID:f3895436-1006-4ec4-86b4-412ccc75a069
-URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+DESCRIPTION:Category: Economic Activity
+DTEND:20260519T005000Z
+DTSTART:20260518T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:a7b1710e-2122-45df-b702-c126dda62e13
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -136,6 +144,14 @@ DTSTART:20260216T043000Z
 SUMMARY:🇯🇵🏭📈-🟢-Capacity Utilization
 UID:a6a7e57c-5be9-43b2-aef1-a2eb279eb57a
 URL:https://www.fxstreet.com/economic-calendar/event/a358d42a-29ed-4357-a451-60d6423d7a31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:f3895436-1006-4ec4-86b4-412ccc75a069
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -738,6 +754,14 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260515T005000Z
 DTSTART:20260514T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:3735dec4-1439-43dc-8579-05dfde3b3846
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260519T005000Z
+DTSTART:20260518T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
 UID:3735dec4-1439-43dc-8579-05dfde3b3846
 URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
