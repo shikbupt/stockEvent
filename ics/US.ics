@@ -2190,6 +2190,14 @@ UID:1d2c9b1c-f1cd-46cd-8e67-6301f602d7bd
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260728T131500Z
+DTSTART:20260728T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:02789b58-e8b5-4bf8-a347-f823892cf4f6
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z
@@ -3572,6 +3580,14 @@ UID:f9c0f016-9dbf-41c7-aafe-83cb06129ec7
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260728T140000Z
+DTSTART:20260728T130000Z
+SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
+UID:424a9b5d-407f-4e02-a4ce-cac92ced2744
+URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260717T133000Z
 DTSTART:20260717T123000Z
@@ -3984,6 +4000,14 @@ DTSTART:20260717T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
 UID:043cb336-4be0-402b-bb42-64d8863b5490
 URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260728T150000Z
+DTSTART:20260728T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Consumer Confidence
+UID:73e0bc18-e4be-4062-b05c-67f019d4328a
+URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-2.9
