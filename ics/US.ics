@@ -1503,6 +1503,14 @@ UID:d0f345d0-5db3-4813-96ec-8f32f540423a
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260729T190000Z
+DTSTART:20260729T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Monetary Policy Statement
+UID:8e61a6fd-f7dc-4425-97db-5c139b16e086
+URL:https://www.fxstreet.com/economic-calendar/event/bfd558c8-4ef8-409b-9588-6ee5978ccf31
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260414T131500Z
 DTSTART:20260414T121500Z
@@ -1709,6 +1717,14 @@ DTSTART:20260219T133000Z
 SUMMARY:🇺🇸🏭📈-🟡-Philadelphia Fed Manufacturing Survey
 UID:848b4bc9-4184-43c6-aec0-9d2c941d8083
 URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Interest Rates
+DTEND:20260729T190000Z
+DTSTART:20260729T180000Z
+SUMMARY:🇺🇸🏦🛠️-🔴-Fed Interest Rate Decision
+UID:c402526a-3d94-4230-9340-6ed05f4f4d40
+URL:https://www.fxstreet.com/economic-calendar/event/fcfae951-09a7-449e-b6fe-525e1335aaba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -2166,6 +2182,14 @@ UID:5568d4d6-5c99-4075-b6f6-8ae00f6c890f
 URL:https://www.fxstreet.com/economic-calendar/event/0b7aea38-0344-4a4d-8b56-7f8f76eab415
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260729T144500Z
+DTSTART:20260729T134500Z
+SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
+UID:bbb1b88d-cc1d-433b-bb13-8109b3533513
+URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260421T133000Z
 DTSTART:20260421T123000Z
@@ -2587,6 +2611,14 @@ DTSTART:20260408T170500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
 UID:0d5a6ab0-8098-4bc0-9b67-87eed4b5bbf1
 URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260729T150000Z
+DTSTART:20260729T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
+UID:140ed977-80f4-4c32-94fc-b79d69a94968
+URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -3809,6 +3841,14 @@ DESCRIPTION:Category: Politics
 SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
 UID:3f60cc4e-80a5-4208-a930-eb50c1265622
 URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6
+DTEND:20260729T193000Z
+DTSTART:20260729T183000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
+UID:08e85942-07f1-4c23-9ca3-b7998339d217
+URL:https://www.fxstreet.com/economic-calendar/event/85c6fa5f-a497-4f0d-a73f-648c6c837b4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
