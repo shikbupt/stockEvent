@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": 1.5,
+    "previous": 1.9,
     "isBetterThanExpected": null,
     "name": "Tokyo CPI ex Food, Energy (YoY)",
     "countryCode": "JP",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1777592103,
+    "lastUpdated": 1777618058,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
