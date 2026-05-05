@@ -34,6 +34,14 @@ UID:624a462c-cb0c-4911-8caa-aea9b70c6bd1
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.5
+DTEND:20260512T081500Z
+DTSTART:20260512T071500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:417e54ff-5bc7-491f-8729-824c22f87f45
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260410T150000Z
 DTSTART:20260410T140000Z
@@ -1365,6 +1373,14 @@ DTSTART:20260505T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-ISM Services New Orders Index
 UID:c465a2c4-434e-4559-b1a0-6c1501da4732
 URL:https://www.fxstreet.com/economic-calendar/event/7769bd3f-7ca2-4d62-8666-078a89da5aeb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.5
+DTEND:20260514T224500Z
+DTSTART:20260514T214500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:c0101431-d732-408b-bcee-c577c9e74000
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -3340,14 +3356,6 @@ UID:12f38a2f-eeeb-4454-9605-64710efa3fd6
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.1
-DTEND:20260506T183000Z
-DTSTART:20260506T173000Z
-SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
-UID:5a9b7067-67b1-4f2c-b0ef-c5eb56140475
-URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260724T144500Z
 DTSTART:20260724T134500Z
@@ -3589,8 +3597,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260528T150000Z
-DTSTART:20260528T140000Z
+DTEND:20260519T150000Z
+DTSTART:20260519T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:a3b1c9af-677b-459b-8f74-85a6bc34c116
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
@@ -3610,6 +3618,14 @@ DTSTART:20260401T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:2efe7adc-cb9e-4f59-9c51-d680a4ed580b
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260509T003000Z
+DTSTART:20260508T233000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
+UID:e3b5f3cd-7c83-4614-92d5-0041fd3a0706
+URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -3746,6 +3762,14 @@ DTSTART:20260327T154000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Paulson speech
 UID:f08e0ca3-b534-4de6-b749-00301522760d
 URL:https://www.fxstreet.com/economic-calendar/event/810bdd07-87cb-4e26-8dc2-db4841cdc0ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-7.4
+DTEND:20260507T180000Z
+DTSTART:20260507T170000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
+UID:3328ba51-9f52-4d82-8343-d84ef62df863
+URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -5008,6 +5032,14 @@ DTSTART:20260220T150000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
 UID:6344c20f-ca71-45ba-be8a-21d621b88f4a
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-7.4
+DTEND:20260513T181500Z
+DTSTART:20260513T171500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
+UID:17aad740-0661-46e2-b3dc-38c0cde3f8ff
+URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

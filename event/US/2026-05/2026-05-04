@@ -6,12 +6,12 @@
     "dateUtc": "2026-05-04T14:00:00Z",
     "periodDateUtc": "2026-03-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
-    "consensus": 0.4,
-    "ratioDeviation": null,
+    "actual": 1.5,
+    "revised": 0.3,
+    "consensus": 0.5,
+    "ratioDeviation": 1.06,
     "previous": 0.0,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": true,
     "name": "Factory Orders (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -23,14 +23,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1777651252,
+    "lastUpdated": 1777903502,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.6,
       "isVotingMember": true,
       "averageScore": 5.3
     },
@@ -86,7 +86,7 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1770102676,
+    "lastUpdated": 1777896351,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
