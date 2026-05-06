@@ -187,8 +187,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/e620bb5a-1940-4e56-9a96-ca2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260515T150000Z
-DTSTART:20260515T140000Z
+DTEND:20260508T150000Z
+DTSTART:20260508T140000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
 UID:5137e8ad-6ae2-4776-9fce-332dcf441c1f
 URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
@@ -283,8 +283,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260529T150000Z
-DTSTART:20260529T140000Z
+DTEND:20260522T150000Z
+DTSTART:20260522T140000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Sentiment Index
 UID:ee2485e3-1a62-4c24-943b-20397e9adf71
 URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
@@ -384,6 +384,14 @@ DTSTART:20260603T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:6d5e0da5-4ce9-4a39-95b9-e76badd74c92
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260803T150000Z
+DTSTART:20260803T140000Z
+SUMMARY:🇺🇸🏭📈-🔴-ISM Manufacturing PMI
+UID:a8542e1a-f84e-4904-a65a-c0296a5d9497
+URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2034d4fade
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -539,8 +547,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T150000Z
-DTSTART:20260529T140000Z
+DTEND:20260522T150000Z
+DTSTART:20260522T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
 UID:64be26f3-cafe-4165-b8eb-c8b1234d51e6
 URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
@@ -1232,6 +1240,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260803T150000Z
+DTSTART:20260803T140000Z
+SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
+UID:1964e5c5-524a-4323-a09c-1c62097eec6b
+URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
@@ -1744,8 +1760,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T150000Z
-DTSTART:20260529T140000Z
+DTEND:20260522T150000Z
+DTSTART:20260522T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
 UID:ebffdf2c-03d8-4b7b-8b22-43b2e79cbfb0
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
@@ -1792,8 +1808,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260529T150000Z
-DTSTART:20260529T140000Z
+DTEND:20260522T150000Z
+DTSTART:20260522T140000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
 UID:7d61b1cc-07e6-4bc1-a3b3-a66dcb888d6f
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
@@ -2654,8 +2670,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260616T133000Z
-DTSTART:20260616T123000Z
+DTEND:20260617T133000Z
+DTSTART:20260617T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:a53449ed-6703-416f-b437-189ca87adf71
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
@@ -2838,11 +2854,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260515T150000Z
-DTSTART:20260515T140000Z
+DTEND:20260508T150000Z
+DTSTART:20260508T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
 UID:8e02de74-31e0-4866-8053-38ec6b239dd0
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260803T190000Z
+DTSTART:20260803T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Loan Officer Survey
+UID:f3ebed36-c12c-49f0-8847-027c94a0693e
+URL:https://www.fxstreet.com/economic-calendar/event/9966e41e-bc02-4163-b184-e3036224887b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -3165,8 +3189,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260515T150000Z
-DTSTART:20260515T140000Z
+DTEND:20260508T150000Z
+DTSTART:20260508T140000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
 UID:2ee5189c-0830-4f63-9cc6-0b543e6d6f23
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
@@ -3685,6 +3709,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260803T150000Z
+DTSTART:20260803T140000Z
+SUMMARY:🇺🇸👷💼-🟡-ISM Manufacturing Employment Index
+UID:05ae36f0-1f02-4729-a7cb-d8de2581db77
+URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260409T133000Z
 DTSTART:20260409T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
@@ -3797,8 +3829,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-222
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260616T133000Z
-DTSTART:20260616T123000Z
+DTEND:20260617T133000Z
+DTSTART:20260617T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
 UID:723a8818-7fc6-4dd7-8448-a7462574fda2
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
@@ -3981,8 +4013,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/7769bd3f-7ca2-4d62-8666-078
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260616T133000Z
-DTSTART:20260616T123000Z
+DTEND:20260617T133000Z
+DTSTART:20260617T123000Z
 SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
 UID:4793ba11-00f8-46ef-ae2f-ba507a700865
 URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
@@ -4699,6 +4731,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20260803T150000Z
+DTSTART:20260803T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-ISM Manufacturing Prices Paid
+UID:5c329814-e526-4909-be99-788ef5e124b0
+URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8edc17d68680
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260731T133000Z
 DTSTART:20260731T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
@@ -4723,8 +4763,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260515T150000Z
-DTSTART:20260515T140000Z
+DTEND:20260508T150000Z
+DTSTART:20260508T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
 UID:5208562f-88f7-498c-b01b-4674d488f22b
 URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
