@@ -171,8 +171,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/cb7aed00-7237-40fd-8149-a0f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260507T003000Z
-DTSTART:20260506T233000Z
+DTEND:20260508T003000Z
+DTSTART:20260507T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:2523de5d-4570-43a0-9542-8a7575aa1c7e
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
@@ -384,6 +384,14 @@ DTSTART:20260219T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:a52051c9-5768-4244-8b83-a36c0f026688
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260805T005000Z
+DTSTART:20260804T235000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
+UID:b8b359ef-f771-42af-b1e3-936d6559c981
+URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

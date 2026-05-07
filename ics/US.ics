@@ -611,6 +611,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260804T150000Z
+DTSTART:20260804T140000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:e03a8ac8-b0ee-40f9-9561-a10943efefd5
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260211T143000Z
 DTSTART:20260211T133000Z
 SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
@@ -2303,8 +2311,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/0b7aea38-0344-4a4d-8b56-7f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260729T144500Z
-DTSTART:20260729T134500Z
+DTEND:20260731T144500Z
+DTSTART:20260731T134500Z
 SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
 UID:bbb1b88d-cc1d-433b-bb13-8109b3533513
 URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
