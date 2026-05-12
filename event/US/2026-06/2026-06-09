@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 0.2,
     "isBetterThanExpected": null,
     "name": "Existing Home Sales Change (MoM)",
     "countryCode": "US",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1769701856,
+    "lastUpdated": 1778508301,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true

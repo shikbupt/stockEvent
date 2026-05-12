@@ -251,6 +251,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/e01c7f18-22ff-47ff-94ac-a45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
+DTEND:20260529T005000Z
+DTSTART:20260528T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
+UID:1ede4a0b-8020-4137-a6b0-b4b86cbbcafe
+URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
 DTEND:20260601T005000Z
 DTSTART:20260531T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
@@ -1158,6 +1166,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
+DTEND:20260529T005000Z
+DTSTART:20260528T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
+UID:149f38b4-7b0c-402b-bc1e-2302ab5c8992
+URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
 DTEND:20260601T005000Z
 DTSTART:20260531T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
@@ -1179,6 +1195,14 @@ DTSTART:20260218T235000Z
 SUMMARY:🇯🇵💸🌊-🟢-Foreign Bond Investment
 UID:06465f82-100c-4cb3-a6c5-33cbf68b84a7
 URL:https://www.fxstreet.com/economic-calendar/event/18173e64-93d5-4110-8bf5-7ec250f8e8a5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260529T005000Z
+DTSTART:20260528T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
+UID:b359b098-787a-4f08-b07b-3443c02edc43
+URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
