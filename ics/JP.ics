@@ -775,6 +775,13 @@ UID:0b28a002-c471-4dad-b722-056e34e667c8
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Mountain Day
+UID:100021c5-ea14-4f2a-abad-dbc0013d5adc
+URL:https://www.fxstreet.com/economic-calendar/event/72f59f34-96fd-41f6-95cd-6ea102abe251
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260325T005000Z
 DTSTART:20260324T235000Z
@@ -1011,6 +1018,14 @@ DTSTART:20260730T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
 UID:3e38e18a-4663-42bd-8b2b-253f2a675b41
 URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260811T005000Z
+DTSTART:20260810T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:05b76fd9-6b86-4e78-b10d-60822080da13
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity

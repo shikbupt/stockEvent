@@ -59,8 +59,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
 UID:6e91970f-714a-4664-b239-24f0e81e417f
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
@@ -1128,8 +1128,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
 UID:abb1d71d-bc9e-4e66-94b8-33cb3c60b8ec
 URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
@@ -1504,8 +1504,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/85c6fa5f-a497-4f0d-a73f-648
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260703T150000Z
-DTSTART:20260703T140000Z
+DTEND:20260702T150000Z
+DTSTART:20260702T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:84dc14b2-a485-49e3-a055-a74aa585de2b
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
@@ -1704,8 +1704,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
 UID:8e91c0f8-6164-4f62-9d6b-3a0e0d3a09e1
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
@@ -2140,6 +2140,14 @@ DTEND:20260323T133000Z
 DTSTART:20260323T123000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
 UID:8786f5bd-1f63-47fd-a22b-e18f75053d6c
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260512T140000Z
+DTSTART:20260512T130000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:1c397af9-8f2f-4605-9a6e-7e4305fac3cc
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
@@ -3845,8 +3853,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:72b45e2f-53e8-417e-91f6-6c303761c752
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
@@ -4691,8 +4699,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
 UID:d3b31367-1c51-4f2b-ae8f-1e73b1b5ac09
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
@@ -5083,11 +5091,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260805T150000Z
-DTSTART:20260805T140000Z
+DTEND:20260804T150000Z
+DTSTART:20260804T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:359974f8-ffdc-41e5-9819-46bfc6135d59
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260513T163000Z
+DTSTART:20260513T153000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
+UID:711af79d-06a9-4708-9c2a-faea8237c1a8
+URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582c4eb3705a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -5211,8 +5227,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260529T133000Z
-DTSTART:20260529T123000Z
+DTEND:20260528T133000Z
+DTSTART:20260528T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
 UID:84d70920-70c8-4fed-ac92-f3538fcdb036
 URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
