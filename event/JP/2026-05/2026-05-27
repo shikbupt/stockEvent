@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "555c359a-6a67-4c48-87c6-9e3b1eedb87a",
+    "eventId": "f43e2f79-c8bf-4566-ae97-bf3ba0048afb",
+    "dateUtc": "2026-05-27T00:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ Governor Ueda speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1778658736,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]

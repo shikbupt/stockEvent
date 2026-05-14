@@ -378,6 +378,14 @@ UID:46cfdc1a-f445-43be-9475-4c3ab91c2228
 URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.6
+DTEND:20260527T090000Z
+DTSTART:20260527T080000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Logan speech
+UID:cca87414-c4f7-4336-abc9-a1355440cadf
+URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260603T150000Z
 DTSTART:20260603T140000Z
@@ -1085,14 +1093,6 @@ DTSTART:20260407T124000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
 UID:ab2fe178-c8e2-4389-acb2-05686bb63806
 URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Economic Activity
-DTEND:20260527T133000Z
-DTSTART:20260527T123000Z
-SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
-UID:2d0a0be0-374b-4f7d-a492-6777777fd95c
-URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -1944,14 +1944,6 @@ URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260527T133000Z
-DTSTART:20260527T123000Z
-SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
-UID:bd121abe-74f5-49f5-bbf1-b403ba662d69
-URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Economic Activity
 DTEND:20260528T133000Z
 DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
@@ -2701,6 +2693,14 @@ UID:e60e7b5b-4a45-45dc-9daa-ed9af083b69e
 URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260528T032500Z
+DTSTART:20260528T022500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:e242208f-af15-4f62-9cee-8125b00713d9
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260304T160000Z
 DTSTART:20260304T150000Z
@@ -3076,6 +3076,14 @@ UID:9a0a1ea5-52de-4476-9dd2-b18e733f465e
 URL:https://www.fxstreet.com/economic-calendar/event/b7abce59-89c3-42cc-8696-c4b6877cdee3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260811T150000Z
+DTSTART:20260811T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
+UID:d7833685-174d-4471-b0e3-c07e893ad2c1
+URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.6
 DTEND:20260508T104500Z
 DTSTART:20260508T094500Z
@@ -3124,6 +3132,14 @@ UID:f1f8a5f0-2a0a-4939-b85f-ac5511d230fb
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-7.5
+DTEND:20260527T012000Z
+DTSTART:20260527T002000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
+UID:13f723e6-2818-4895-8dd5-268ab2bd1a9d
+URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260224T212000Z
 DTSTART:20260224T202000Z
@@ -3154,6 +3170,14 @@ DTSTART:20260220T133000Z
 SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
 UID:0cf3eff6-6406-4ac9-bb58-11b7c83ead41
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.6
+DTEND:20260528T010000Z
+DTSTART:20260528T000000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Jefferson speech
+UID:3b95c215-34e3-460a-8763-562c4f5f2f60
+URL:https://www.fxstreet.com/economic-calendar/event/bcff2353-e891-4ef0-b6d4-5c32b7e300dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -3498,14 +3522,6 @@ DTSTART:20260220T174500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Logan speech
 UID:72af0e2a-7bf9-4317-a610-a51ed3e3ed07
 URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Economic Activity
-DTEND:20260527T133000Z
-DTSTART:20260527T123000Z
-SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
-UID:0a73aba6-1302-462f-a18c-452b21d3a7ba
-URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -4803,14 +4819,6 @@ URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260527T133000Z
-DTSTART:20260527T123000Z
-SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
-UID:add2152a-621a-4cfd-9d67-31e676bb6b6b
-URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Economic Activity
 DTEND:20260528T133000Z
 DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
@@ -4847,6 +4855,14 @@ DTEND:20260407T131500Z
 DTSTART:20260407T121500Z
 SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
 UID:631c3336-3cdb-42d8-b70e-d839e6339a7d
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260811T131500Z
+DTSTART:20260811T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:f881d2d2-ebb0-4cab-8379-a09ec6dbc42c
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
