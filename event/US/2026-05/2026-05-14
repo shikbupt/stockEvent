@@ -6,12 +6,12 @@
     "dateUtc": "2026-05-14T12:30:00Z",
     "periodDateUtc": "2026-05-08T00:00:00Z",
     "periodType": "DAY",
-    "actual": null,
-    "revised": null,
+    "actual": 211.0,
+    "revised": 199.0,
     "consensus": 205.0,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.51,
     "previous": 200.0,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": false,
     "name": "Initial Jobless Claims",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1778251701,
+    "lastUpdated": 1778762102,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -35,10 +35,10 @@
     "dateUtc": "2026-05-14T12:30:00Z",
     "periodDateUtc": "2026-04-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": 0.5,
+    "revised": 1.6,
     "consensus": 0.5,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.0,
     "previous": 1.7,
     "isBetterThanExpected": null,
     "name": "Retail Sales (MoM)",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1778493626,
+    "lastUpdated": 1778762102,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
@@ -64,8 +64,8 @@
     "dateUtc": "2026-05-14T12:30:00Z",
     "periodDateUtc": "2026-04-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": 0.5,
+    "revised": 0.8,
     "consensus": null,
     "ratioDeviation": null,
     "previous": 0.7,
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1777360110,
+    "lastUpdated": 1778762112,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
@@ -93,12 +93,12 @@
     "dateUtc": "2026-05-14T12:30:00Z",
     "periodDateUtc": "2026-04-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
+    "actual": 0.7,
     "revised": null,
     "consensus": 0.6,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.38,
     "previous": 1.9,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": true,
     "name": "Retail Sales ex Autos (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -110,19 +110,19 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1778251709,
+    "lastUpdated": 1778762107,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 6.4,
       "isVotingMember": false,
       "averageScore": 6.5
     },
     "isScoreTrackable": true,
-    "id": "bcf27720-223d-48a9-8147-f9678ec2999a",
+    "id": "b4b8377b-d801-4488-9cce-ad5336b0092c",
     "eventId": "52a4f9fb-270a-4f85-bd92-c8effdcf8857",
     "dateUtc": "2026-05-14T14:15:00Z",
     "periodDateUtc": null,
@@ -144,14 +144,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1778250416,
+    "lastUpdated": 1778768818,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 6.4
     },
@@ -185,7 +185,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 5.2,
       "isVotingMember": true,
       "averageScore": 5.5
     },
@@ -219,7 +219,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 5.7
     },
