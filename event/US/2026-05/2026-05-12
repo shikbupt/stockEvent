@@ -3,7 +3,7 @@
     "speech": {
       "score": "NaN",
       "isVotingMember": true,
-      "averageScore": 5.5
+      "averageScore": 5.6
     },
     "isScoreTrackable": true,
     "id": "417e54ff-5bc7-491f-8729-824c22f87f45",
@@ -182,7 +182,7 @@
     "speech": {
       "score": 7.6,
       "isVotingMember": false,
-      "averageScore": 6.1
+      "averageScore": 6.3
     },
     "isScoreTrackable": true,
     "id": "1c397af9-8f2f-4605-9a6e-7e4305fac3cc",
@@ -216,7 +216,7 @@
     "speech": {
       "score": 8,
       "isVotingMember": false,
-      "averageScore": 6.1
+      "averageScore": 6.5
     },
     "isScoreTrackable": true,
     "id": "b76cbe72-3660-4f6a-80a3-449b527cecca",

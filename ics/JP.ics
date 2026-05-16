@@ -27,6 +27,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/feb3bf60-1d35-4ef7-828a-427
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260814T005000Z
+DTSTART:20260813T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:25fa4d26-23a8-45f0-829b-3028ed59e6d4
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260216T005000Z
 DTSTART:20260215T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
@@ -232,6 +240,14 @@ DTSTART:20260731T030000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Outlook Report
 UID:96bbb197-e5ae-4b02-b292-1972cd36a4ce
 URL:https://www.fxstreet.com/economic-calendar/event/40c5d7f9-ff3e-494c-8050-b59ba4ae7941
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260814T005000Z
+DTSTART:20260813T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:192b02bf-8f4a-488e-b54c-332f3b37393b
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -647,6 +663,14 @@ DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:3dc6d2c2-7f4b-49fb-af25-8fc0ae230a30
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260814T005000Z
+DTSTART:20260813T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:fd0dfa98-53e0-485f-908a-41a32d2ec400
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

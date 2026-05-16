@@ -1,5 +1,39 @@
 [
   {
+    "speech": {
+      "score": 0,
+      "isVotingMember": true,
+      "averageScore": 2.5
+    },
+    "isScoreTrackable": true,
+    "id": "5208cfee-4a68-4d35-8180-8dab99ec7756",
+    "eventId": "ad33871b-d7b2-4dec-b301-eae4a1b43564",
+    "dateUtc": "2026-05-19T06:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Waller speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1778828986,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
     "isScoreTrackable": null,
     "id": "0283a6ec-e2b3-4def-8d4b-d5588bc84dd6",
     "eventId": "44cc0a73-7d9a-45aa-a947-2b71882bffc5",
@@ -37,7 +71,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 1.6,
     "ratioDeviation": null,
     "previous": 1.5,
     "isBetterThanExpected": null,
@@ -52,16 +86,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1777898509,
+    "lastUpdated": 1778860844,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 0,
       "isVotingMember": true,
-      "averageScore": 5.7
+      "averageScore": 2.8
     },
     "isScoreTrackable": true,
     "id": "bb238e59-412d-4ae5-a2d5-9f5ce01fc6ba",

@@ -1,9 +1,9 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 0,
       "isVotingMember": true,
-      "averageScore": 7.5
+      "averageScore": 5.7
     },
     "isScoreTrackable": true,
     "id": "13f723e6-2818-4895-8dd5-268ab2bd1a9d",
@@ -35,9 +35,9 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 0,
       "isVotingMember": true,
-      "averageScore": 6.6
+      "averageScore": 4.8
     },
     "isScoreTrackable": true,
     "id": "cca87414-c4f7-4336-abc9-a1355440cadf",
