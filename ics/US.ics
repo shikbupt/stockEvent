@@ -1351,6 +1351,14 @@ UID:924484ea-aa27-44c8-81e9-99c4e37e6378
 URL:https://www.fxstreet.com/economic-calendar/event/4f50e4f8-cd33-428b-b721-5fb620b7f097
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260521T173000Z
+DTSTART:20260521T163000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
+UID:a3162aa6-7d05-4f40-b515-38458c4a37d9
+URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.4
 DTEND:20260507T152500Z
 DTSTART:20260507T142500Z
@@ -2085,6 +2093,14 @@ DTSTART:20260402T233500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
 UID:1ce4c04f-ce2d-4f71-8a62-399e244b7baa
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-2.8
+DTEND:20260529T141500Z
+DTSTART:20260529T131500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Paulson speech
+UID:54e8e2bf-5b08-4990-be3b-f0e189b14f37
+URL:https://www.fxstreet.com/economic-calendar/event/810bdd07-87cb-4e26-8dc2-db4841cdc0ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-3.7
@@ -3402,6 +3418,14 @@ DTSTART:20260430T123000Z
 SUMMARY:🇺🇸🏭📈-🔴-Gross Domestic Product Price Index
 UID:dfbe7309-8f4d-4fb7-b1be-b067eee42b77
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.6
+DTEND:20260528T135500Z
+DTSTART:20260528T125500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:e28d4aaa-2d77-4691-a9fb-c600a8286c6a
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
