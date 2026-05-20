@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "f278d9eb-2cb5-44bc-bfd7-fe1f5fd94ff6",
+    "eventId": "ad033dfa-c8e7-4d1a-aea8-128bd69bb67a",
+    "dateUtc": "2026-08-17T12:30:00Z",
+    "periodDateUtc": "2026-08-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "NY Empire State Manufacturing Index",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1756971709,
+    "previousIsPreliminary": false,
+    "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
+    "hasHistorical": true
+  }
+]

@@ -155,8 +155,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260526T131500Z
-DTSTART:20260526T121500Z
+DTEND:20260527T131500Z
+DTSTART:20260527T121500Z
 SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
 UID:a58b69d7-43c7-45e5-8006-700f41186071
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
@@ -224,6 +224,14 @@ DTSTART:20260227T133000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
 UID:a92022d0-df6d-42c1-8d8f-104acdca46f6
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.1
+DTEND:20260519T130000Z
+DTSTART:20260519T120000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
+UID:f72aade1-b01a-4ca2-bbde-d3ae6fa64379
+URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Interest Rates
@@ -4500,6 +4508,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/9966e41e-bc02-4163-b184-e30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260817T133000Z
+DTSTART:20260817T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:f278d9eb-2cb5-44bc-bfd7-fe1f5fd94ff6
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260401T150000Z
 DTSTART:20260401T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
@@ -4594,7 +4610,7 @@ UID:78ff05ed-4cd4-48ba-a26e-66098f555e6c
 URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80fabf6c0120
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-2.5
+DESCRIPTION:Category: Central Banks\n票委-5.1
 DTEND:20260522T090000Z
 DTSTART:20260522T080000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
@@ -5552,6 +5568,14 @@ DTSTART:20260508T233000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
 UID:b19a4dab-7070-41f8-b02c-23300a76f36f
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260522T180000Z
+DTSTART:20260522T170000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Chair Warsh swearing-in ceremony
+UID:f3ac9c59-c7bd-48e7-8dde-684b51cbab57
+URL:https://www.fxstreet.com/economic-calendar/event/a4dcff1c-67e0-4099-8512-2b37c7c86b3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks

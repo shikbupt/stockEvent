@@ -3,7 +3,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 2.5
+      "averageScore": 5.1
     },
     "isScoreTrackable": true,
     "id": "6201ef12-f425-495b-beee-ed5e39db1d0e",
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1779090397,
+    "lastUpdated": 1779192997,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -147,6 +147,35 @@
     "lastUpdated": 1778846415,
     "previousIsPreliminary": true,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
+    "hasHistorical": true
+  },
+  {
+    "isScoreTrackable": null,
+    "id": "f3ac9c59-c7bd-48e7-8dde-684b51cbab57",
+    "eventId": "a4dcff1c-67e0-4099-8512-2b37c7c86b3d",
+    "dateUtc": "2026-05-22T17:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed Chair Warsh swearing-in ceremony",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": true,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1779192810,
+    "previousIsPreliminary": null,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]
