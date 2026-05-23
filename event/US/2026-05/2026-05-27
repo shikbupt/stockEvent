@@ -3,7 +3,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 5.7
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "13f723e6-2818-4895-8dd5-268ab2bd1a9d",
@@ -37,7 +37,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 4.8
+      "averageScore": 6.6
     },
     "isScoreTrackable": true,
     "id": "cca87414-c4f7-4336-abc9-a1355440cadf",
@@ -94,6 +94,40 @@
     "lastUpdated": 1779194119,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": true,
+      "averageScore": 6.6
+    },
+    "isScoreTrackable": true,
+    "id": "e3e379f0-5a93-408b-b00b-447a57e33250",
+    "eventId": "86e26884-a1b0-4529-9f7f-2ea7e454de99",
+    "dateUtc": "2026-05-27T19:55:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Cook speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1779458132,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]

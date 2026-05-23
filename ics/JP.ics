@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260821T003000Z
+DTSTART:20260820T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
+UID:b692037e-48bd-42ea-ab8f-d489a9246ae8
+URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260219T005000Z
 DTSTART:20260218T235000Z
@@ -66,6 +74,14 @@ UID:dbe7844a-6e06-4553-afc7-574ea52d1091
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260821T003000Z
+DTSTART:20260820T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:4153036b-2319-48d4-be27-f08523fb39db
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260220T013000Z
 DTSTART:20260220T003000Z
@@ -120,6 +136,14 @@ DTSTART:20260731T030000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
 UID:a5573d8b-0cdf-434f-b84b-cdd51e69af27
 URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260821T003000Z
+DTSTART:20260820T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:ff704f44-9f78-4a02-8acf-b82dae2b70d7
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -282,6 +306,14 @@ UID:1ede4a0b-8020-4137-a6b0-b4b86cbbcafe
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260820T005000Z
+DTSTART:20260819T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:b9b84d1b-5b1e-4c64-9d17-8a4e1a9d2049
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260501T003000Z
 DTSTART:20260430T233000Z
@@ -320,6 +352,14 @@ DTSTART:20260730T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
 UID:e7975cb5-8a4b-4348-bdee-d0142a496043
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260820T005000Z
+DTSTART:20260819T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:2522be0c-c715-4b88-890e-365a2da2c758
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -368,6 +408,14 @@ DTSTART:20260219T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
 UID:77bbb5b7-e50a-47e2-b25b-9f596abe69b3
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260820T005000Z
+DTSTART:20260819T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:66e2f41f-e943-4110-abbc-c2e9199630fc
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -1204,6 +1252,14 @@ UID:87c75f90-af0a-48bf-b69e-186868c77f29
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260820T005000Z
+DTSTART:20260819T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:3a0fe828-0112-41c8-9607-3411661a3b0f
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260731T003000Z
 DTSTART:20260730T233000Z
@@ -1329,6 +1385,14 @@ DTSTART:20260218T235000Z
 SUMMARY:🇯🇵💸🌊-🟢-Foreign Investment in Japan Stocks
 UID:39d7e99e-0680-4d3e-95fe-0b8e94e6084d
 URL:https://www.fxstreet.com/economic-calendar/event/bc6818db-4331-4ba8-991c-7e060ea4d538
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260603T095000Z
+DTSTART:20260603T085000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:86094414-1239-45e8-beb8-e200ce1be7c7
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
