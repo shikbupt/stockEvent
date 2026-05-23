@@ -2,6 +2,7 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import urlencode
 
 import requests
+from requests.exceptions import JSONDecodeError
 
 
 API_BASE = "https://calendar-api.fxsstatic.com"
@@ -9,7 +10,6 @@ API_PATH = "/en/api/v2/eventDates"
 
 HEADERS = {
     "Accept": "application/json",
-    "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "zh-CN,zh-Hans;q=0.9",
     "Origin": "https://www.fxstreet.com",
     "Referer": "https://www.fxstreet.com/",
@@ -49,6 +49,14 @@ def fetch_events(config: dict) -> list[dict]:
     print(f"Fetching events from: {url}")
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
-    data = resp.json()
+    try:
+        data = resp.json()
+    except JSONDecodeError as exc:
+        encoding = resp.headers.get("Content-Encoding", "identity")
+        content_type = resp.headers.get("Content-Type", "unknown")
+        raise RuntimeError(
+            "Failed to decode API response as JSON "
+            f"(content-type={content_type}, content-encoding={encoding})"
+        ) from exc
     print(f"Fetched {len(data)} events")
     return data
