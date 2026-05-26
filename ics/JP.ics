@@ -107,6 +107,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20260605T003000Z
+DTSTART:20260604T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
+UID:bed300f7-144e-4081-a7a3-121c24151c33
+URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260610T003000Z
 DTSTART:20260609T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
@@ -235,8 +243,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-123
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260609T005000Z
-DTSTART:20260608T235000Z
+DTEND:20260608T005000Z
+DTSTART:20260607T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
 UID:f42070ec-243c-4eee-8755-88e8539c4f9d
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
@@ -248,6 +256,14 @@ DTSTART:20260309T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
 UID:f65945cb-f837-43f1-b177-d874b9b2fe01
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260609T005000Z
+DTSTART:20260608T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:f42070ec-243c-4eee-8755-88e8539c4f9d
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation

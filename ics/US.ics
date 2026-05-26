@@ -2071,6 +2071,14 @@ UID:bd121abe-74f5-49f5-bbf1-b403ba662d69
 URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260529T115000Z
+DTSTART:20260529T105000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Schmid speech
+UID:f097080b-bbf5-443e-bac6-04be131fc29c
+URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8effdcf8857
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260421T133000Z
 DTSTART:20260421T123000Z
@@ -4148,6 +4156,14 @@ UID:e776cc33-69a8-4da0-96c3-c6cd87d91ec9
 URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80fabf6c0120
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260529T184000Z
+DTSTART:20260529T174000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
+UID:3c451ae8-78df-4ac3-b2bf-d5fcbbaaaa0a
+URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.4
 DTEND:20260417T190000Z
 DTSTART:20260417T180000Z
@@ -5248,6 +5264,14 @@ DTSTART:20260528T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
 UID:6798d4c2-4c8e-42e8-b414-53a27876d171
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.4
+DTEND:20260601T013000Z
+DTSTART:20260601T003000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed's Powell speech
+UID:f95df659-7c7d-44ef-b7bb-e50f2db64c83
+URL:https://www.fxstreet.com/economic-calendar/event/afc2452a-0957-4f10-9d10-cb4512ef838d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
