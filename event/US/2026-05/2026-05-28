@@ -1,7 +1,7 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 6.2,
       "isVotingMember": true,
       "averageScore": 5.6
     },
@@ -35,7 +35,7 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 8.2,
       "isVotingMember": false,
       "averageScore": 6.6
     },
@@ -595,6 +595,40 @@
     "isReport": false,
     "isSpeech": true,
     "lastUpdated": 1779436538,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": false,
+      "averageScore": 6.5
+    },
+    "isScoreTrackable": true,
+    "id": "f51d34ab-6e8b-4a0f-aec4-751c404364ab",
+    "eventId": "0d397375-0b4e-4883-8279-8427d07a2aba",
+    "dateUtc": "2026-05-28T17:10:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Musalem speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1779863743,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
