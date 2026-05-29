@@ -1167,6 +1167,14 @@ UID:28f046f9-46d5-46e3-ba5c-3973154f73fb
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
+UID:a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7
+URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.4
 DTEND:20260407T134000Z
 DTSTART:20260407T124000Z
@@ -1871,6 +1879,14 @@ UID:65b036a5-e777-4db3-816a-e2350026cbce
 URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Annualized
+UID:ef89ba75-a9f5-4e42-856e-0dc1216eb2b2
+URL:https://www.fxstreet.com/economic-calendar/event/5f64264e-5097-4359-b60f-fb9b01229068
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260625T150000Z
 DTSTART:20260625T140000Z
@@ -2277,6 +2293,14 @@ DTSTART:20260211T211500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Miran speech
 UID:53bb3e2b-8223-4518-a022-5157a504e148
 URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
+UID:fa77eaba-9d87-441d-a05d-fb72525d9d76
+URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -3674,6 +3698,14 @@ DTSTART:20260515T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
 UID:7ab942c1-6ea1-4df7-b06d-d3d661cc52c7
 URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
+UID:9fa8561b-1d7b-47c6-b72e-a62e234666c1
+URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
