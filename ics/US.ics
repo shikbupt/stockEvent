@@ -210,6 +210,14 @@ UID:a5c4ef20-af87-450c-af38-6b75cfec673a
 URL:https://www.fxstreet.com/economic-calendar/event/e620bb5a-1940-4e56-9a96-ca279a85e57f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260625T233000Z
+DTSTART:20260625T223000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:73db9105-6a0a-444b-b7d3-42f38a022384
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260508T150000Z
 DTSTART:20260508T140000Z
@@ -560,6 +568,14 @@ DTSTART:20260429T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Monetary Policy Statement
 UID:84e2b763-4c75-4208-bd23-5bd88169146a
 URL:https://www.fxstreet.com/economic-calendar/event/bfd558c8-4ef8-409b-9588-6ee5978ccf31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260604T181000Z
+DTSTART:20260604T171000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
+UID:6decb7d7-7ac2-4221-b1da-22ba9d746053
+URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption

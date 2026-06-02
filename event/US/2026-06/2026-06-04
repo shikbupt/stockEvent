@@ -37,7 +37,7 @@
     "periodType": "DAY",
     "actual": null,
     "revised": null,
-    "consensus": 211.0,
+    "consensus": 213.0,
     "ratioDeviation": null,
     "previous": 215.0,
     "isBetterThanExpected": null,
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1780070424,
+    "lastUpdated": 1780308030,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -113,6 +113,40 @@
     "lastUpdated": 1778157425,
     "previousIsPreliminary": true,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": false,
+      "averageScore": 5.2
+    },
+    "isScoreTrackable": true,
+    "id": "6decb7d7-7ac2-4221-b1da-22ba9d746053",
+    "eventId": "83887e19-1352-453f-96e9-7406bc598f40",
+    "dateUtc": "2026-06-04T17:10:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Daly speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1780298680,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]
