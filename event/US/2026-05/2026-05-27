@@ -1,40 +1,6 @@
 [
   {
     "speech": {
-      "score": "NaN",
-      "isVotingMember": true,
-      "averageScore": 7
-    },
-    "isScoreTrackable": true,
-    "id": "13f723e6-2818-4895-8dd5-268ab2bd1a9d",
-    "eventId": "614a2826-c661-478a-a008-dd1ee06025ee",
-    "dateUtc": "2026-05-27T00:20:00Z",
-    "periodDateUtc": null,
-    "periodType": null,
-    "actual": null,
-    "revised": null,
-    "consensus": null,
-    "ratioDeviation": null,
-    "previous": null,
-    "isBetterThanExpected": null,
-    "name": "Fed's Kashkari speech",
-    "countryCode": "US",
-    "currencyCode": "USD",
-    "unit": null,
-    "potency": null,
-    "volatility": "MEDIUM",
-    "isAllDay": false,
-    "isTentative": false,
-    "isPreliminary": false,
-    "isReport": false,
-    "isSpeech": true,
-    "lastUpdated": 1779862364,
-    "previousIsPreliminary": false,
-    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
-    "hasHistorical": true
-  },
-  {
-    "speech": {
       "score": 7.4,
       "isVotingMember": true,
       "averageScore": 7

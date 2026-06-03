@@ -3484,14 +3484,6 @@ UID:f1f8a5f0-2a0a-4939-b85f-ac5511d230fb
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7
-DTEND:20260527T012000Z
-DTSTART:20260527T002000Z
-SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
-UID:13f723e6-2818-4895-8dd5-268ab2bd1a9d
-URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260224T212000Z
 DTSTART:20260224T202000Z
@@ -4388,6 +4380,14 @@ UID:8deb997c-f263-46a7-9943-8a890788adc1
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.8
+DTEND:20260602T133000Z
+DTSTART:20260602T123000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
+UID:8c1fb9d1-fd9b-43d5-91d5-32dbdf7272c8
+URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260506T143000Z
 DTSTART:20260506T133000Z
@@ -4741,8 +4741,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260616T133000Z
-DTSTART:20260616T123000Z
+DTEND:20260615T133000Z
+DTSTART:20260615T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
 UID:fc82c92d-ce87-42b2-ae0d-35ba56eb5f03
 URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
