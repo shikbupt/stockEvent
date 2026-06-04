@@ -242,7 +242,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 4.8,
     "isBetterThanExpected": null,
     "name": "Factory Orders (MoM)",
     "countryCode": "US",
@@ -255,7 +255,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1780070431,
+    "lastUpdated": 1780495600,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
