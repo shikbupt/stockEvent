@@ -5722,14 +5722,6 @@ UID:6798d4c2-4c8e-42e8-b414-53a27876d171
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.4
-DTEND:20260601T013000Z
-DTSTART:20260601T003000Z
-SUMMARY:🇺🇸🏛️⚖️-🔴-Fed's Powell speech
-UID:f95df659-7c7d-44ef-b7bb-e50f2db64c83
-URL:https://www.fxstreet.com/economic-calendar/event/afc2452a-0957-4f10-9d10-cb4512ef838d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260403T144500Z
 DTSTART:20260403T134500Z
