@@ -306,6 +306,14 @@ UID:192b02bf-8f4a-488e-b54c-332f3b37393b
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260907T005000Z
+DTSTART:20260906T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:0e8768a7-ec66-45f1-8e0b-73ed77d24e4d
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260619T005000Z
 DTSTART:20260618T235000Z
@@ -360,6 +368,14 @@ DTSTART:20260607T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
 UID:f4c4a221-b654-44b6-b9a2-41b9943b0113
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260626T003000Z
+DTSTART:20260625T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
+UID:c32e9df2-1e51-4ac4-8868-e437bd79aba8
+URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -427,8 +443,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260630T003000Z
-DTSTART:20260629T233000Z
+DTEND:20260626T003000Z
+DTSTART:20260625T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
 UID:89e71d0d-ddd5-4175-ad9a-82eb242c7f9d
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
@@ -440,6 +456,14 @@ DTSTART:20260219T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
 UID:77bbb5b7-e50a-47e2-b25b-9f596abe69b3
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260630T003000Z
+DTSTART:20260629T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
+UID:89e71d0d-ddd5-4175-ad9a-82eb242c7f9d
+URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -496,6 +520,14 @@ DTSTART:20260804T235000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
 UID:b8b359ef-f771-42af-b1e3-936d6559c981
 URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260907T005000Z
+DTSTART:20260906T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:f97876b7-9520-4363-905c-d1a055d3d7c9
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -599,6 +631,14 @@ DTSTART:20260330T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:68e446ea-2094-45c8-9a1b-064791cf2f4d
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260626T003000Z
+DTSTART:20260625T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
+UID:369c7423-f1b6-4c27-ad01-f04e206ca890
+URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -1346,6 +1386,14 @@ DTSTART:20260531T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:149f38b4-7b0c-402b-bc1e-2302ab5c8992
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260907T005000Z
+DTSTART:20260906T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:eb9d7a8b-6424-40b7-82fe-aab47f8fba0f
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
