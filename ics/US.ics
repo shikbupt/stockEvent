@@ -4412,6 +4412,13 @@ UID:4ea48727-73b6-46c7-a997-141e065f814b
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DESCRIPTION:Category: Holidays
+SUMMARY:🇺🇸📅🎈--Labor Day
+UID:404fa6dc-a226-4a45-bfc1-e4018daa66ff
+URL:https://www.fxstreet.com/economic-calendar/event/9cfa8bdc-411a-45b1-ac50-ed8cdec2b198
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260825T131500Z
 DTSTART:20260825T121500Z
