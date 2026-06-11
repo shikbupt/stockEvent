@@ -483,6 +483,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260909T005000Z
+DTSTART:20260908T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:2cd35731-4cec-4703-9734-ac942f665ec0
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260218T005000Z
 DTSTART:20260217T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total

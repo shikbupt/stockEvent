@@ -2231,6 +2231,14 @@ UID:7c6147be-c612-45d4-b362-f0dea0add25d
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260908T131500Z
+DTSTART:20260908T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:9d267058-78b1-4f7e-bb43-bac1cd05691e
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260814T150000Z
 DTSTART:20260814T140000Z
