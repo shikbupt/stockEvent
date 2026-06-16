@@ -4172,6 +4172,14 @@ UID:12f38a2f-eeeb-4454-9605-64710efa3fd6
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.7
+DTEND:20260625T204000Z
+DTSTART:20260625T194000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:c68abc14-23ec-43de-a0aa-c570d53b4cbc
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260724T144500Z
 DTSTART:20260724T134500Z
@@ -4601,6 +4609,14 @@ DTSTART:20260803T140000Z
 SUMMARY:🇺🇸👷💼-🟡-ISM Manufacturing Employment Index
 UID:05ae36f0-1f02-4729-a7cb-d8de2581db77
 URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.7
+DTEND:20260626T153000Z
+DTSTART:20260626T143000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:0e0770d7-b9e3-41e2-aaa9-aaf0f1cb1266
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

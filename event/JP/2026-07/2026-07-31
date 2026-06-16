@@ -10,7 +10,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 1.0,
     "isBetterThanExpected": null,
     "name": "BoJ Interest Rate Decision",
     "countryCode": "JP",
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1781271885,
+    "lastUpdated": 1781580328,
     "previousIsPreliminary": false,
     "categoryId": "9c4a731a-d993-4d55-89f3-dc707cc1d596",
     "hasHistorical": true
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1762435002,
+    "lastUpdated": 1781590040,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

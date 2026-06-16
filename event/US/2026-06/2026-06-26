@@ -114,5 +114,39 @@
     "previousIsPreliminary": true,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": true,
+      "averageScore": 5.7
+    },
+    "isScoreTrackable": true,
+    "id": "0e0770d7-b9e3-41e2-aaa9-aaf0f1cb1266",
+    "eventId": "94b5a38c-5bf5-4f48-b286-1773b8dbeac5",
+    "dateUtc": "2026-06-26T14:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Williams speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1781527457,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
   }
 ]
