@@ -904,6 +904,14 @@ UID:d4aa13b2-069b-4a1d-bd14-69ac8beb96a2
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:c18dd204-e1a4-466a-9990-95314526db66
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260408T003000Z
 DTSTART:20260407T233000Z
@@ -1084,6 +1092,14 @@ DTSTART:20260427T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
 UID:2e13b317-e9e8-49c9-8534-ea63b063caa9
 URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:a130c745-7a2c-4602-92a9-c67c5f4a24b2
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
@@ -1285,6 +1301,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:070bd7a3-37bd-4ecc-adcb-50052aeba3ae
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260309T005000Z
 DTSTART:20260308T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
@@ -1394,6 +1418,14 @@ DTSTART:20260531T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:149f38b4-7b0c-402b-bc1e-2302ab5c8992
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:f4f047a7-970d-4638-b4c8-7e0d2879a354
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
