@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": true,
+      "averageScore": 5.7
+    },
+    "isScoreTrackable": true,
+    "id": "7ff61f09-d6b4-48b5-9e06-b5c45ebce746",
+    "eventId": "ad33871b-d7b2-4dec-b301-eae4a1b43564",
+    "dateUtc": "2026-06-22T13:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Waller speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1781857360,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]
