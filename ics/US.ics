@@ -1535,6 +1535,14 @@ UID:10532ed2-469b-48d2-97e8-0491e6a6c191
 URL:https://www.fxstreet.com/economic-calendar/event/839a1fcb-92b7-4f25-a301-cb99df790e0d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260918T141500Z
+DTSTART:20260918T131500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:ac680010-fa1a-4be3-a175-d7cf0806f2b3
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.7
 DTEND:20260216T142500Z
 DTSTART:20260216T132500Z
