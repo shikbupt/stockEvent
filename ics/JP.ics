@@ -810,8 +810,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260709T005000Z
-DTSTART:20260708T235000Z
+DTEND:20260708T005000Z
+DTSTART:20260707T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
 UID:e83fa8bd-69ce-47c6-80ba-734efdab4c1f
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
@@ -823,6 +823,14 @@ DTSTART:20260616T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:4ac48250-dd90-4a6c-82ed-7a31db502d11
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260709T005000Z
+DTSTART:20260708T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:e83fa8bd-69ce-47c6-80ba-734efdab4c1f
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -934,14 +942,6 @@ DTSTART:20260805T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:55385f65-0bd1-4a24-a44a-7470532b0687
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Interest Rates
-DTEND:20260616T041923Z
-DTSTART:20260616T031923Z
-SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
-UID:d4aa13b2-069b-4a1d-bd14-69ac8beb96a2
-URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -1388,14 +1388,6 @@ UID:0fb191ee-ad56-4773-963c-8803be87fdf2
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20260616T040000Z
-DTSTART:20260616T030000Z
-SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
-UID:3cc5e024-da92-470a-b7cc-8d2ff2c4f353
-URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260828T003000Z
 DTSTART:20260827T233000Z
@@ -1517,8 +1509,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260708T003000Z
-DTSTART:20260707T233000Z
+DTEND:20260707T003000Z
+DTSTART:20260706T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:e1849720-f534-434c-a5e9-fe04d8181175
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
@@ -1561,6 +1553,13 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇯🇵📅🎈--Marine Day
 UID:abb0201a-73c6-4628-a670-cde19d2752a4
 URL:https://www.fxstreet.com/economic-calendar/event/0929f897-ee27-43bf-a05a-867859d4466b
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Respect-for-the-Aged Day Bank Holiday
+UID:f80dd793-dc87-4c0b-b016-48e34e58c19c
+URL:https://www.fxstreet.com/economic-calendar/event/2087eb3e-3762-4052-86b2-be4ac7182102
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation

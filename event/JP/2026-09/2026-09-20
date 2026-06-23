@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "f80dd793-dc87-4c0b-b016-48e34e58c19c",
+    "eventId": "2087eb3e-3762-4052-86b2-be4ac7182102",
+    "dateUtc": "2026-09-20T15:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Respect-for-the-Aged Day Bank Holiday",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1709809712,
+    "previousIsPreliminary": false,
+    "categoryId": "7dfaef86-c3fe-4e76-9421-8958cc2f9a0d",
+    "hasHistorical": true
+  }
+]
