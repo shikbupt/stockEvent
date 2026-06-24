@@ -18,6 +18,14 @@ UID:b9105744-0228-4f61-99eb-b0571661046c
 URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.6
+DTEND:20260626T163000Z
+DTSTART:20260626T153000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
+UID:62071d77-9ee8-4cad-bae9-33dec0ad79fe
+URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260731T133000Z
 DTSTART:20260731T123000Z
