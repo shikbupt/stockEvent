@@ -7,7 +7,7 @@
     "periodDateUtc": "2026-06-01T00:00:00Z",
     "periodType": "MONTH",
     "actual": null,
-    "revised": null,
+    "revised": 1.41,
     "consensus": null,
     "ratioDeviation": null,
     "previous": 1.413,
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1781613304,
+    "lastUpdated": 1782308460,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -139,7 +139,7 @@
     "isPreliminary": true,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1782129617,
+    "lastUpdated": 1782316851,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
