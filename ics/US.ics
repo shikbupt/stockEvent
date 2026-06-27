@@ -1136,6 +1136,14 @@ UID:4d633f65-e0a1-4f86-aa8f-164d24076136
 URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20260924T150000Z
+DTSTART:20260924T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
+UID:086e59fb-0a4b-4f19-8af1-393bb8ee5128
+URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260414T171500Z
 DTSTART:20260414T161500Z
@@ -2271,6 +2279,14 @@ UID:4b989a4e-78ff-4d81-be9a-5bc7c2da986a
 URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-None
+DTEND:20260701T140000Z
+DTSTART:20260701T130000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Chair Warsh speech
+UID:97eb47dc-6154-4652-83ba-109c531258ef
+URL:https://www.fxstreet.com/economic-calendar/event/324a517e-e181-402c-a246-861e9f6f14b0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260413T150000Z
 DTSTART:20260413T140000Z
@@ -3155,6 +3171,14 @@ DTSTART:20260209T193000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Miran speech
 UID:f8b21812-bca9-4f0f-9f59-5767eb9e2194
 URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260924T133000Z
+DTSTART:20260924T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:11e2ad64-148f-4472-81dc-86bea3e398fe
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
