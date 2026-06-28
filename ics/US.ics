@@ -522,6 +522,14 @@ UID:a8542e1a-f84e-4904-a65a-c0296a5d9497
 URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2034d4fade
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260925T133000Z
+DTSTART:20260925T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
+UID:1de061bb-753c-4ed4-aa16-cd3c49da1b20
+URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260813T133000Z
 DTSTART:20260813T123000Z
@@ -1711,6 +1719,14 @@ UID:b8281210-ea29-43dc-9e80-cfbedf40f697
 URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260925T150000Z
+DTSTART:20260925T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:da22d175-e2bf-476c-ae0b-ed8f85a5e1d4
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260521T173000Z
 DTSTART:20260521T163000Z
@@ -1765,6 +1781,14 @@ DTSTART:20260218T133000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
 UID:a581f611-ffda-49e2-96fc-cdaa9354ed1f
 URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260925T133000Z
+DTSTART:20260925T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
+UID:2a4ed7f5-0178-47a5-9834-56e47ce8cd41
+URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-4.1
@@ -2511,6 +2535,14 @@ UID:8ba1c2c0-b615-4d70-9c4c-6c4257a42ede
 URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260925T133000Z
+DTSTART:20260925T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
+UID:8ddb685d-6cab-42bd-8f4a-b3f6f395faf3
+URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260709T150000Z
 DTSTART:20260709T140000Z
@@ -3141,6 +3173,14 @@ UID:e9a67473-13be-4b99-abb7-523f3b12db38
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260925T150000Z
+DTSTART:20260925T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:876161cc-824b-464a-9272-2d4b501faae6
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260623T144500Z
 DTSTART:20260623T134500Z
@@ -3333,6 +3373,14 @@ UID:1f7a7b2b-0cda-4d02-8dd3-0fd9653dcf7d
 URL:https://www.fxstreet.com/economic-calendar/event/4212ccfd-7481-4bb7-a463-83ef68596f78
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260925T150000Z
+DTSTART:20260925T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:48662de3-0229-4960-ab86-d8d2b70d8b25
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260306T143000Z
 DTSTART:20260306T133000Z
@@ -3507,6 +3555,14 @@ DTSTART:20260715T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Beige Book
 UID:20627bc9-62ab-4581-9656-8460b8ef4dd6
 URL:https://www.fxstreet.com/economic-calendar/event/b9515da1-d4f6-4f7f-aa58-c3eb2cefe699
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260925T133000Z
+DTSTART:20260925T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
+UID:77021448-6463-4a22-98cb-6c78bbad2d81
+URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -4218,6 +4274,14 @@ DTSTART:20260612T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
 UID:d0ffb51c-5842-4aa1-9e0d-a353463c02b0
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260925T150000Z
+DTSTART:20260925T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Sentiment Index
+UID:899471ee-94d3-4f29-913b-8a5c513e79cd
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
