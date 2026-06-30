@@ -97,7 +97,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 2.5,
     "isBetterThanExpected": null,
     "name": "Unemployment Rate",
     "countryCode": "JP",
@@ -110,7 +110,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1782475262,
+    "lastUpdated": 1782776073,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -168,7 +168,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1782694245,
+    "lastUpdated": 1782714124,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true

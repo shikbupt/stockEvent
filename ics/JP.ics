@@ -1532,6 +1532,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
+DTEND:20260928T005000Z
+DTSTART:20260927T235000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
+UID:5d1ff527-f958-4435-b95e-4b9f2cc4a220
+URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
 DTEND:20260319T073000Z
 DTSTART:20260319T063000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Press Conference
