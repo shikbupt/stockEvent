@@ -3086,6 +3086,14 @@ UID:97e3a74c-44d0-4d0b-b196-3edda48c9180
 URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-7
+DTEND:20260630T155000Z
+DTSTART:20260630T145000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
+UID:089f4206-29d5-4d49-982f-d218e027207c
+URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260217T145000Z
 DTSTART:20260217T135000Z

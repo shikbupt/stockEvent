@@ -213,7 +213,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 56.7,
     "isBetterThanExpected": null,
     "name": "Chicago PMI",
     "countryCode": "US",
@@ -226,7 +226,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1782741654,
+    "lastUpdated": 1782827401,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true

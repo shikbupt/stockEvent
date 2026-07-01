@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 7.594,
     "isBetterThanExpected": null,
     "name": "JOLTS Job Openings",
     "countryCode": "US",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1782741653,
+    "lastUpdated": 1782828304,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true

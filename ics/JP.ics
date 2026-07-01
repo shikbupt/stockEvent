@@ -491,6 +491,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260908T005000Z
+DTSTART:20260907T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:2cd35731-4cec-4703-9734-ac942f665ec0
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260909T005000Z
 DTSTART:20260908T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
@@ -1261,8 +1269,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260811T005000Z
-DTSTART:20260810T235000Z
+DTEND:20260810T005000Z
+DTSTART:20260809T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
 UID:05b76fd9-6b86-4e78-b10d-60822080da13
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
