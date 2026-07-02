@@ -777,6 +777,14 @@ UID:0dcdd0d3-a40d-49f4-a330-74e8276c9364
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260930T003000Z
+DTSTART:20260929T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
+UID:6409072f-d406-4f49-882f-5987e7652fb9
+URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260430T005000Z
 DTSTART:20260429T235000Z
@@ -839,6 +847,14 @@ DTSTART:20260708T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
 UID:e83fa8bd-69ce-47c6-80ba-734efdab4c1f
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260930T003000Z
+DTSTART:20260929T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
+UID:5273f7db-48cc-434e-95fc-8675d16f838c
+URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -982,6 +998,14 @@ DTSTART:20260520T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:404bf631-440d-4f1c-809c-919cb8985118
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260930T003000Z
+DTSTART:20260929T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
+UID:28c07540-929a-4ccb-998f-fd7f6fac4bd8
+URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
