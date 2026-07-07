@@ -1415,6 +1415,14 @@ UID:a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260716T003000Z
+DTSTART:20260715T233000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:233c0e37-2765-4add-960a-904473c50876
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.4
 DTEND:20260407T134000Z
 DTSTART:20260407T124000Z
@@ -2487,7 +2495,7 @@ UID:9d267058-78b1-4f7e-bb43-bac1cd05691e
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.7
+DESCRIPTION:Category: Central Banks\n票委-6.4
 DTEND:20260706T160000Z
 DTSTART:20260706T150000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
