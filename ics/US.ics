@@ -1599,6 +1599,14 @@ UID:a459a3ee-0839-447d-9982-d001da22f829
 URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247306b4a2c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261006T150000Z
+DTSTART:20261006T140000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:4d46122c-46c3-44ad-99d3-87f89310848c
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260306T161500Z
 DTSTART:20260306T151500Z
@@ -3037,6 +3045,14 @@ DTSTART:20260304T150000Z
 SUMMARY:🇺🇸🏭📈-🔴-ISM Services PMI
 UID:6638ce76-00c6-4afb-9dfe-7a11dc5a24ca
 URL:https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17ad5d8a193f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261006T131500Z
+DTSTART:20261006T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:e4b88b30-59ab-4cb5-a794-94a2ffada5b0
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
