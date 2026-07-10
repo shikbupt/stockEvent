@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "53d9e979-30b7-46ed-956d-bd379c8732ed",
+    "eventId": "c3e65991-95b2-4f8e-8eae-12348778f9ad",
+    "dateUtc": "2026-10-07T23:50:00Z",
+    "periodDateUtc": "2026-08-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Current Account n.s.a.",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": "¥",
+    "potency": "B",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1782830637,
+    "previousIsPreliminary": false,
+    "categoryId": "fa6570f6-e494-4563-a363-00d0f2abec37",
+    "hasHistorical": true
+  }
+]
