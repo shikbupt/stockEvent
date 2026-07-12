@@ -2223,6 +2223,14 @@ UID:68dc3441-3e80-46f8-959b-f997b6513508
 URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261009T150000Z
+DTSTART:20261009T140000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
+UID:43c05090-4826-452f-bcb9-232a1c32cf38
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.5
 DTEND:20260415T140000Z
 DTSTART:20260415T130000Z
@@ -3151,6 +3159,14 @@ UID:3c1f44df-969c-4c19-8bba-7a93b51f64fd
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261009T150000Z
+DTSTART:20261009T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:3aba6f1e-e841-4b9e-a867-73a42cc6fc96
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260410T130000Z
 DTSTART:20260410T120000Z
@@ -3181,6 +3197,14 @@ DTSTART:20261002T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
 UID:d7d0f835-1b62-4ac2-bc83-f899f7faad67
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261009T150000Z
+DTSTART:20261009T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:9e6fdf07-7ef9-4265-9fb6-c369830059c8
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
@@ -6271,6 +6295,14 @@ DTSTART:20260821T134500Z
 SUMMARY:🇺🇸🏭📈-🔴-S&P Global Services PMI
 UID:30bf2a48-048c-4468-ba85-77446b3a87cf
 URL:https://www.fxstreet.com/economic-calendar/event/5085ec6f-0c90-43d0-83f0-b936a41da1e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261009T150000Z
+DTSTART:20261009T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:25bed085-7106-40a7-af6e-ffe204040362
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-3.7
