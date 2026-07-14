@@ -4668,6 +4668,13 @@ UID:8bce89fc-fa59-413b-8659-ddfcb0f09156
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Category: Politics
+SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
+UID:a07e6ac5-50fb-4ed1-8f83-ae563f7a278f
+URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.4
 DTEND:20260220T184500Z
 DTSTART:20260220T174500Z

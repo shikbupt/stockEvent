@@ -235,6 +235,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/a358d42a-29ed-4357-a451-60d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260722T005000Z
+DTSTART:20260721T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:f3895436-1006-4ec4-86b4-412ccc75a069
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260723T005000Z
 DTSTART:20260722T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
@@ -352,6 +360,13 @@ DTSTART:20260618T235000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
 UID:e9d8b161-d6c0-4898-884f-8b8a8be29476
 URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Health-Sports Day
+UID:18400d33-83a9-4c23-a97d-179f49bc5c52
+URL:https://www.fxstreet.com/economic-calendar/event/9d5d815b-5121-4ecf-ae8f-0b174e243872
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -547,8 +562,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260723T005000Z
-DTSTART:20260722T235000Z
+DTEND:20260722T005000Z
+DTSTART:20260721T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:7db45a84-a8c0-4a77-bc0a-2e0b148527ef
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
@@ -576,6 +591,14 @@ DTSTART:20260219T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:a52051c9-5768-4244-8b83-a36c0f026688
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:7db45a84-a8c0-4a77-bc0a-2e0b148527ef
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -927,6 +950,14 @@ DTSTART:20260831T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
 UID:4f358cf6-3c55-4ee4-8ab8-5129626eee2d
 URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260722T005000Z
+DTSTART:20260721T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:1cb1754b-9525-4c71-bd5c-13174634ad95
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -1381,8 +1412,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260723T005000Z
-DTSTART:20260722T235000Z
+DTEND:20260722T005000Z
+DTSTART:20260721T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
 UID:da5e3ab9-98ea-4eea-a741-3a243b25cf6a
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
@@ -1394,6 +1425,14 @@ DTSTART:20260208T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:db5f958a-b412-474a-a38d-bc6c40cca580
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260723T005000Z
+DTSTART:20260722T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:da5e3ab9-98ea-4eea-a741-3a243b25cf6a
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

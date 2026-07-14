@@ -1,9 +1,9 @@
 [
   {
     "isScoreTrackable": null,
-    "id": "40a5204f-e230-41e6-8b6f-de784b002ad6",
-    "eventId": "b2d85e71-3daa-4f7f-86e6-e33aab39dda6",
-    "dateUtc": "2026-07-10T18:00:00Z",
+    "id": "a07e6ac5-50fb-4ed1-8f83-ae563f7a278f",
+    "eventId": "0d332666-9d39-47d6-9986-97de648c52eb",
+    "dateUtc": "2026-10-12T00:00:00Z",
     "periodDateUtc": null,
     "periodType": null,
     "actual": null,
@@ -12,20 +12,20 @@
     "ratioDeviation": null,
     "previous": null,
     "isBetterThanExpected": null,
-    "name": "Fed Monetary Policy Report",
+    "name": "IMF Meeting",
     "countryCode": "US",
     "currencyCode": "USD",
     "unit": null,
     "potency": null,
     "volatility": "MEDIUM",
-    "isAllDay": false,
+    "isAllDay": true,
     "isTentative": false,
     "isPreliminary": false,
-    "isReport": true,
+    "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1783923999,
+    "lastUpdated": 1747846221,
     "previousIsPreliminary": false,
-    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
     "hasHistorical": true
   }
 ]
