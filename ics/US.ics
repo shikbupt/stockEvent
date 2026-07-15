@@ -171,8 +171,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/afc2452a-0957-4f10-9d10-cb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
 UID:12c10f98-3261-4510-9cf7-99b47be881a3
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
@@ -419,8 +419,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:8be895f8-cc27-40ba-ae80-4081c5410be5
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
@@ -787,8 +787,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
 UID:3850296e-4327-4de2-b7a3-e09cdd8d9342
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
@@ -962,12 +962,12 @@ UID:5ccae589-1563-426a-a1bb-9daf8b3709f3
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20260916T190000Z
-DTSTART:20260916T180000Z
-SUMMARY:🇺🇸🏛️⚖️-🔴-Interest Rate Projections - 3rd year
-UID:a0e42f03-df7d-478a-a5c4-fc2a27de7320
-URL:https://www.fxstreet.com/economic-calendar/event/ad6478bf-17d8-4e99-a8b3-c729f718a3dd
+DESCRIPTION:Category: Central Banks\n票委-7
+DTEND:20260714T133000Z
+DTSTART:20260714T123000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Chair Warsh testifies
+UID:30cf237b-1dec-4a6f-9fc9-1c4f8f26f923
+URL:https://www.fxstreet.com/economic-calendar/event/a1872e2c-9563-4d83-8624-fb2d86a33bb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6
@@ -976,6 +976,14 @@ DTSTART:20260318T183000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
 UID:d6f0cf6c-586d-4a8a-8e23-252c8969afee
 URL:https://www.fxstreet.com/economic-calendar/event/85c6fa5f-a497-4f0d-a73f-648c6c837b4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260916T190000Z
+DTSTART:20260916T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Interest Rate Projections - 3rd year
+UID:a0e42f03-df7d-478a-a5c4-fc2a27de7320
+URL:https://www.fxstreet.com/economic-calendar/event/ad6478bf-17d8-4e99-a8b3-c729f718a3dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -1592,8 +1600,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
 UID:11410fbd-6c06-4865-8e74-e1f691c8f613
 URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
@@ -3749,6 +3757,13 @@ UID:def429c0-0351-4fb8-8c63-6038c68e8e2c
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DESCRIPTION:Category: Politics
+SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
+UID:02ab7e59-f4b0-4d18-b43d-22f2fbe9d2f7
+URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260512T133000Z
 DTSTART:20260512T123000Z
@@ -3862,8 +3877,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260729T150000Z
-DTSTART:20260729T140000Z
+DTEND:20260716T150000Z
+DTSTART:20260716T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:140ed977-80f4-4c32-94fc-b79d69a94968
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
@@ -5354,6 +5369,14 @@ UID:53fa1c19-22a3-4646-a908-31dc6b05b3c5
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Politics
+DTEND:20261012T190000Z
+DTSTART:20261012T180000Z
+SUMMARY:🇺🇸🌍🤝-🟡-Monthly Budget Statement
+UID:8292c36b-4806-4a20-9e73-0dc891fa5e5e
+URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260819T190000Z
 DTSTART:20260819T180000Z
@@ -5552,6 +5575,13 @@ DTSTART:20260605T123000Z
 SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (MoM)
 UID:4a74f656-a707-4463-a300-6e5017c83fae
 URL:https://www.fxstreet.com/economic-calendar/event/b7abce59-89c3-42cc-8696-c4b6877cdee3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:Category: Holidays
+SUMMARY:🇺🇸📅🎈--Columbus Day
+UID:0ac8900e-02b4-421c-a744-ad24866d4875
+URL:https://www.fxstreet.com/economic-calendar/event/9d84ea5c-7f2f-4d69-b7f2-358a1b78ee42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -6665,8 +6695,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
 UID:51d8a2a2-8687-4fc7-8612-ee0a16371573
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
@@ -6793,8 +6823,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-363
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260731T133000Z
-DTSTART:20260731T123000Z
+DTEND:20260730T133000Z
+DTSTART:20260730T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
 UID:08c4a8fc-c0e0-4f97-8ce0-7749848d0663
 URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
