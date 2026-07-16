@@ -5154,6 +5154,13 @@ UID:15b15d6f-a681-42b3-8a5e-c871faff66d4
 URL:https://www.fxstreet.com/economic-calendar/event/86e26884-a1b0-4529-9f7f-2ea7e454de99
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:Category: Politics
+SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
+UID:74e44f7f-7c8f-4073-8bc6-edcfcfeb22c2
+URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260430T133000Z
 DTSTART:20260430T123000Z
@@ -5582,6 +5589,14 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇺🇸📅🎈--Columbus Day
 UID:0ac8900e-02b4-421c-a744-ad24866d4875
 URL:https://www.fxstreet.com/economic-calendar/event/9d84ea5c-7f2f-4d69-b7f2-358a1b78ee42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261013T131500Z
+DTSTART:20261013T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:296f4279-48db-4941-9b30-8505a637ed61
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -6356,6 +6371,14 @@ DTSTART:20260220T133000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
 UID:5473bbcf-234b-470d-bc7e-552c889e0ae5
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20261013T150000Z
+DTSTART:20261013T140000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
+UID:d26dcd6d-e4cf-4e86-b6ba-354dd99c8b26
+URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
