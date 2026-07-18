@@ -175,9 +175,9 @@
   },
   {
     "speech": {
-      "score": "NaN",
+      "score": 6,
       "isVotingMember": true,
-      "averageScore": 7
+      "averageScore": 6.5
     },
     "isScoreTrackable": true,
     "id": "c65dc933-56d9-433d-8e51-e84b54c95765",
@@ -202,16 +202,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1783671319,
+    "lastUpdated": 1784268227,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": "NaN",
+      "score": 7,
       "isVotingMember": false,
-      "averageScore": 6.9
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "563da728-93b6-4704-8d61-2f110f4fc0f6",
@@ -236,7 +236,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1783668706,
+    "lastUpdated": 1784268208,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
