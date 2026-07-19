@@ -2183,6 +2183,14 @@ UID:0b24c62d-848d-4b57-8207-9ed5e8bdf46b
 URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261016T133000Z
+DTSTART:20261016T123000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:8a2e7507-3680-40f6-a50e-5958b94ee8ff
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260220T143000Z
 DTSTART:20260220T133000Z
@@ -3597,6 +3605,14 @@ UID:33721275-faff-4f82-abbb-a51aff35ac8b
 URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261016T141500Z
+DTSTART:20261016T131500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:9f26e494-782b-4668-b0c6-b278b3d0a020
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260715T133000Z
 DTSTART:20260715T123000Z
@@ -4440,6 +4456,13 @@ DTSTART:20260630T130000Z
 SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
 UID:cadc75ab-a863-4b6f-8af7-ed0e0ea70c35
 URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Category: Politics
+SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
+UID:a2caf4ac-c154-4084-98ba-42c3762a62f0
+URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-4.1
