@@ -2374,6 +2374,14 @@ UID:40a5204f-e230-41e6-8b6f-de784b002ad6
 URL:https://www.fxstreet.com/economic-calendar/event/b2d85e71-3daa-4f7f-86e6-e33aab39dda6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261020T131500Z
+DTSTART:20261020T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:770e9c28-0a7f-485e-b31b-ddacbe262639
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-7
 DTEND:20260714T150000Z
 DTSTART:20260714T140000Z
@@ -6234,6 +6242,14 @@ UID:1f650565-e34e-48ec-b2cb-cfa57edfb219
 URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20261020T133000Z
+DTSTART:20261020T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Housing Starts (MoM)
+UID:f9a0c5b3-62e6-48c3-a788-c1a579aa6c62
+URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260323T133000Z
 DTSTART:20260323T123000Z
@@ -6424,6 +6440,14 @@ DTSTART:20260212T133000Z
 SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
 UID:8fda3935-6e0a-45f9-9350-fa56d02b81c5
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20261020T133000Z
+DTSTART:20261020T123000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
+UID:4a1649f8-52cb-4136-9d62-fe6dd7d2b539
+URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market

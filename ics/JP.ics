@@ -194,6 +194,14 @@ UID:ff704f44-9f78-4a02-8acf-b82dae2b70d7
 URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261021T005000Z
+DTSTART:20261020T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:3bb1cb75-6dd2-4bea-9ec8-c5d3ddd97676
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260501T003000Z
 DTSTART:20260430T233000Z
@@ -768,6 +776,14 @@ UID:f70b5873-a770-4fd6-b636-853c544b28ba
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261021T005000Z
+DTSTART:20261020T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:5e2a3937-5ea0-47e5-972a-239a2ff33daf
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260701T005000Z
 DTSTART:20260630T235000Z
@@ -806,6 +822,14 @@ DTSTART:20260731T030000Z
 SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
 UID:f8ff114f-2103-4093-8708-d377422a9873
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261021T005000Z
+DTSTART:20261020T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:78c2fde4-2215-44b8-ada3-36b90485881c
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -1354,6 +1378,14 @@ DTSTART:20260421T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:5aa3f96a-84a0-4957-b19f-9d7752c4799e
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261021T005000Z
+DTSTART:20261020T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:e5fa4dda-456b-4d35-8051-b9d960bc118c
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
