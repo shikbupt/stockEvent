@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "12fc3d95-f321-4007-84d2-68a90b452a37",
+    "eventId": "9c689bbf-af2a-4f65-81a8-c5f5e2b78d70",
+    "dateUtc": "2026-10-22T12:30:00Z",
+    "periodDateUtc": "2026-10-16T00:00:00Z",
+    "periodType": "DAY",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Initial Jobless Claims",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": "K",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1758116022,
+    "previousIsPreliminary": false,
+    "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  }
+]

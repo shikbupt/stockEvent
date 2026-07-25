@@ -2310,6 +2310,14 @@ UID:87e679a2-e08d-47fa-b73a-bda83a9ad02b
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261022T133000Z
+DTSTART:20261022T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:12fc3d95-f321-4007-84d2-68a90b452a37
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260625T133000Z
 DTSTART:20260625T123000Z

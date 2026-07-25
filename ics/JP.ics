@@ -418,6 +418,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20261023T003000Z
+DTSTART:20261022T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
+UID:26292b13-51ab-49ed-9458-e515157f59ef
+URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260501T003000Z
 DTSTART:20260430T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
@@ -447,6 +455,14 @@ DTSTART:20261008T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:799c49a6-84d0-4492-983d-2e159620b40e
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261023T003000Z
+DTSTART:20261022T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:996ef37f-769f-4c58-b6f9-5bc356267d2a
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -1085,6 +1101,14 @@ DTSTART:20260805T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:55385f65-0bd1-4a24-a44a-7470532b0687
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261023T003000Z
+DTSTART:20261022T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:e28e825d-8db8-4729-a523-e7d1531ec3c0
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
