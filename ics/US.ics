@@ -570,6 +570,14 @@ UID:c162cf79-7718-4e7e-b092-e3473c10f65c
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261023T144500Z
+DTSTART:20261023T134500Z
+SUMMARY:🇺🇸🏭📈-🔴-S&P Global Services PMI
+UID:54e677df-4e09-443c-84c6-6aaee1aff3bb
+URL:https://www.fxstreet.com/economic-calendar/event/5085ec6f-0c90-43d0-83f0-b936a41da1e7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261015T133000Z
 DTSTART:20261015T123000Z
@@ -1035,6 +1043,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20261023T144500Z
+DTSTART:20261023T134500Z
+SUMMARY:🇺🇸🏭📈-🔴-S&P Global Manufacturing PMI
+UID:7ac62fc5-13ab-4771-ace3-3d50ed33effe
+URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80fabf6c0120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260220T154500Z
 DTSTART:20260220T144500Z
 SUMMARY:🇺🇸🏭📈-🔴-S&P Global Manufacturing PMI
@@ -1103,6 +1119,14 @@ DTSTART:20260331T140000Z
 SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
 UID:277eb8ae-918f-4191-9b1f-bd48db6e495f
 URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261023T150000Z
+DTSTART:20261023T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:9fdf7484-15da-43d0-805c-284afdece3c3
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -3700,6 +3724,14 @@ UID:9d5b049b-52b5-4346-ae73-009cb3fc292b
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261023T144500Z
+DTSTART:20261023T134500Z
+SUMMARY:🇺🇸🏭📈-🟡-S&P Global Composite PMI
+UID:bb34d577-be8c-47e4-8dd1-1e562c7f8c91
+URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260414T152000Z
 DTSTART:20260414T142000Z
@@ -4861,6 +4893,14 @@ DTSTART:20260617T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-Interest Rate Projections - 2nd year
 UID:2feeb556-b9dd-43c0-9359-c16c0dbd8ba9
 URL:https://www.fxstreet.com/economic-calendar/event/44c34b50-9c5c-4f85-8c7e-505c0d12479f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261023T150000Z
+DTSTART:20261023T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Sentiment Index
+UID:a959ed2f-3292-4a16-8dfb-d1f0ca612065
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -7097,6 +7137,14 @@ UID:158a25c7-ff12-4c3d-860c-c1e812ef93cf
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261023T150000Z
+DTSTART:20261023T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:959acf8d-e6c5-438a-b0ef-f1c2fc8b97ae
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260219T160000Z
 DTSTART:20260219T150000Z
@@ -7247,6 +7295,14 @@ DTSTART:20260529T061500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
 UID:c738b7d5-7212-4c95-87c8-36c06fe42c80
 URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261023T150000Z
+DTSTART:20261023T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:c167d35a-0828-485a-8d31-baa5654bfdc7
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
