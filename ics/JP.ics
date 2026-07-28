@@ -43,6 +43,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20260817T005000Z
+DTSTART:20260816T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:25fa4d26-23a8-45f0-829b-3028ed59e6d4
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260216T005000Z
 DTSTART:20260215T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
@@ -355,10 +363,10 @@ URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260907T005000Z
-DTSTART:20260906T235000Z
+DTEND:20260817T005000Z
+DTSTART:20260816T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
-UID:0e8768a7-ec66-45f1-8e0b-73ed77d24e4d
+UID:192b02bf-8f4a-488e-b54c-332f3b37393b
 URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
@@ -368,6 +376,14 @@ DTSTART:20260618T235000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
 UID:e9d8b161-d6c0-4898-884f-8b8a8be29476
 URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260907T005000Z
+DTSTART:20260906T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:0e8768a7-ec66-45f1-8e0b-73ed77d24e4d
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
@@ -979,6 +995,14 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260814T005000Z
 DTSTART:20260813T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:fd0dfa98-53e0-485f-908a-41a32d2ec400
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20260817T005000Z
+DTSTART:20260816T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
 UID:fd0dfa98-53e0-485f-908a-41a32d2ec400
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
