@@ -6,10 +6,10 @@
     "dateUtc": "2026-07-29T18:00:00Z",
     "periodDateUtc": null,
     "periodType": null,
-    "actual": null,
+    "actual": 3.75,
     "revised": null,
     "consensus": 3.75,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.0,
     "previous": 3.75,
     "isBetterThanExpected": null,
     "name": "Fed Interest Rate Decision",
@@ -23,14 +23,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1784736008,
+    "lastUpdated": 1785348018,
     "previousIsPreliminary": false,
     "categoryId": "9c4a731a-d993-4d55-89f3-dc707cc1d596",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7.4,
       "isVotingMember": null,
       "averageScore": 4.9
     },
@@ -57,14 +57,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1781719291,
+    "lastUpdated": 1785348089,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7,
       "isVotingMember": true,
       "averageScore": 6
     },
@@ -91,7 +91,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1781697530,
+    "lastUpdated": 1785348082,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
