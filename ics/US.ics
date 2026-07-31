@@ -1511,6 +1511,14 @@ UID:a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6
+DTEND:20261028T193000Z
+DTSTART:20261028T183000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
+UID:2b6b68dc-4cea-41c4-ba47-4766f56bf18d
+URL:https://www.fxstreet.com/economic-calendar/event/85c6fa5f-a497-4f0d-a73f-648c6c837b4d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260716T003000Z
 DTSTART:20260715T233000Z
@@ -4385,6 +4393,14 @@ UID:f1f8a5f0-2a0a-4939-b85f-ac5511d230fb
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Interest Rates
+DTEND:20261028T190000Z
+DTSTART:20261028T180000Z
+SUMMARY:🇺🇸🏦🛠️-🔴-Fed Interest Rate Decision
+UID:0fa5c63c-f61c-4436-8763-66222addfe7a
+URL:https://www.fxstreet.com/economic-calendar/event/fcfae951-09a7-449e-b6fe-525e1335aaba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260904T133000Z
 DTSTART:20260904T123000Z
@@ -4854,6 +4870,14 @@ DTSTART:20260706T134500Z
 SUMMARY:🇺🇸🏭📈-🟡-S&P Global Composite PMI
 UID:86e2e334-f0d0-4587-9263-8d279a17e919
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261028T190000Z
+DTSTART:20261028T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed Monetary Policy Statement
+UID:3c0c7b61-7aaa-4ca6-bff2-15593a479a36
+URL:https://www.fxstreet.com/economic-calendar/event/bfd558c8-4ef8-409b-9588-6ee5978ccf31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
