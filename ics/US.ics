@@ -155,6 +155,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-943
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
+UID:413c2200-8525-4383-82bf-4ef5dd268f1f
+URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260508T133000Z
 DTSTART:20260508T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
@@ -648,6 +656,14 @@ DTSTART:20260429T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
 UID:c683ce4f-7562-47ef-9c12-a08b9d0e1156
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
+UID:1c247eab-2e2a-4393-ae9a-508ebd4d9b71
+URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -2758,6 +2774,14 @@ UID:848b4bc9-4184-43c6-aec0-9d2c941d8083
 URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
+UID:07858c98-100e-4b62-9aa5-0336b40cd1a7
+URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Interest Rates
 DTEND:20260729T190000Z
 DTSTART:20260729T180000Z
@@ -3612,6 +3636,14 @@ UID:f52a7121-21db-4590-b677-f77e6308ff6a
 URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Employment Cost Index
+UID:43f7500e-0290-42c0-b26a-4cb0c3a417cf
+URL:https://www.fxstreet.com/economic-calendar/event/e620bb5a-1940-4e56-9a96-ca279a85e57f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260210T143000Z
 DTSTART:20260210T133000Z
@@ -4139,6 +4171,14 @@ UID:65df7395-aacd-46d8-b9ed-ec2a9969904b
 URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
+UID:2241a1cd-eb29-4740-a28d-fc2b8cc813ef
+URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260717T150000Z
 DTSTART:20260717T140000Z
@@ -4577,12 +4617,28 @@ UID:63d80729-7bbe-4636-8004-a0fc22b10843
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
+UID:e8b79a49-8f95-4e08-b60f-c5367e1138b9
+URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260304T160000Z
 DTSTART:20260304T150000Z
 SUMMARY:🇺🇸👷💼-🟡-ISM Services Employment Index
 UID:1e59c704-4515-4995-ba71-27a336925780
 URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec89b5e2f12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261030T144500Z
+DTSTART:20261030T134500Z
+SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
+UID:bf21966a-d0a3-4fb8-99f5-17d9782bc949
+URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -6090,6 +6146,14 @@ DTSTART:20260609T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
 UID:8e86197d-8048-4923-9fc1-84215ba462e7
 URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261030T133000Z
+DTSTART:20261030T123000Z
+SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
+UID:401e58cb-1252-4e02-9c2a-144d3ea169e1
+URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

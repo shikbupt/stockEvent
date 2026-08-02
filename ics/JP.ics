@@ -1810,6 +1810,14 @@ UID:cf8464a9-7ce6-4bcd-a023-b7e1cd74d3a6
 URL:https://www.fxstreet.com/economic-calendar/event/7cde5a70-8e0f-4d23-a080-4d0b2f15a20e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261030T073000Z
+DTSTART:20261030T063000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Press Conference
+UID:1f6e45de-03bd-457d-89d8-72142aa32639
+URL:https://www.fxstreet.com/economic-calendar/event/e01c7f18-22ff-47ff-94ac-a458f2054295
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261030T005000Z
 DTSTART:20261029T235000Z
