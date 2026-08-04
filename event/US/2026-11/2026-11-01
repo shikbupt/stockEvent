@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "6c69e419-d92d-4c60-9532-5f99af243b7b",
+    "eventId": "739cf3cc-7613-4947-8ebc-9750d4070b8c",
+    "dateUtc": "2026-11-01T07:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Daylight Saving Time ends",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1713369117,
+    "previousIsPreliminary": false,
+    "categoryId": "e9e957ec-2927-4a77-ae0c-f5e4b5807c16",
+    "hasHistorical": true
+  }
+]
