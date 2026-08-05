@@ -74,6 +74,13 @@ UID:9c5288e1-4319-452a-a4e5-530a9873ac4d
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Culture Day
+UID:bf69e485-70fd-4fe2-aa22-a5e0a14ad967
+URL:https://www.fxstreet.com/economic-calendar/event/ef8c707f-bd6a-48d8-9dcf-564cac97d15a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260619T003000Z
 DTSTART:20260618T233000Z
