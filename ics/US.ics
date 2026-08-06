@@ -2022,6 +2022,14 @@ UID:a581f611-ffda-49e2-96fc-cdaa9354ed1f
 URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.8
+DTEND:20260805T130000Z
+DTSTART:20260805T120000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech
+UID:29d1e03e-435f-4dfb-bed3-7d91f7a67a09
+URL:https://www.fxstreet.com/economic-calendar/event/614a2826-c661-478a-a008-dd1ee06025ee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260930T131500Z
 DTSTART:20260930T121500Z
@@ -4099,6 +4107,14 @@ UID:17a0613e-12bd-4002-9f04-76250d10b96c
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260806T014000Z
+DTSTART:20260806T004000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
+UID:06085f67-cd90-477e-8fa4-a3fb970b207d
+URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.7
 DTEND:20260218T190000Z
 DTSTART:20260218T180000Z
@@ -4408,6 +4424,13 @@ DTSTART:20260505T140000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Bowman speech
 UID:e7627509-ac77-4682-b97e-d09c40a35ccd
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+DESCRIPTION:Category: Politics
+SUMMARY:🇺🇸🌍🤝-🔴-US Midterm Elections
+UID:b3dc9f7b-c6f5-419d-aa17-f827b79f264c
+URL:https://www.fxstreet.com/economic-calendar/event/20548b4b-ee6c-418c-b271-57de5dc00129
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -5573,6 +5596,14 @@ UID:74e44f7f-7c8f-4073-8bc6-edcfcfeb22c2
 URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261103T150000Z
+DTSTART:20261103T140000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:fe568be2-0b21-4bb8-ad63-8f09f72cfd7f
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260430T133000Z
 DTSTART:20260430T123000Z
@@ -6647,6 +6678,14 @@ DTSTART:20260713T092500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Bowman speech
 UID:eff9e202-c1fc-401b-abfc-c8bc6a8e0134
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261103T150000Z
+DTSTART:20261103T140000Z
+SUMMARY:🇺🇸🏭📈-🟡-Factory Orders (MoM)
+UID:47195adf-128c-4273-adfa-cf58046a0337
+URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
