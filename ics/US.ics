@@ -330,6 +330,14 @@ UID:e2d02bad-b135-4640-9eb5-391674d0e34a
 URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261104T150000Z
+DTSTART:20261104T140000Z
+SUMMARY:🇺🇸👷💼-🟡-ISM Services Employment Index
+UID:d1dd9b9a-56aa-4bb8-b95e-ad2d7e6185b0
+URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec89b5e2f12
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260227T143000Z
 DTSTART:20260227T133000Z
@@ -4585,6 +4593,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
+DTEND:20261104T144500Z
+DTSTART:20261104T134500Z
+SUMMARY:🇺🇸🏭📈-🟡-S&P Global Composite PMI
+UID:6edbae1d-5754-4ee3-85a8-a773904fa382
+URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
 DTEND:20260601T150000Z
 DTSTART:20260601T140000Z
 SUMMARY:🇺🇸🏭📈-🔴-ISM Manufacturing PMI
@@ -4808,8 +4824,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260806T123000Z
-DTSTART:20260806T113000Z
+DTEND:20260806T103000Z
+DTSTART:20260806T093000Z
 SUMMARY:🇺🇸👷💼-🟡-Challenger Job Cuts
 UID:5854b34c-b312-412c-9081-261f7cb16790
 URL:https://www.fxstreet.com/economic-calendar/event/a25fb503-3399-4cb2-9c48-b335a966faf7
@@ -6313,6 +6329,14 @@ UID:9b5e32c5-9477-4e42-ab2a-39418df5efab
 URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261104T131500Z
+DTSTART:20261104T121500Z
+SUMMARY:🇺🇸👷💼-🔴-ADP Employment Change
+UID:e2138b09-c406-415c-999d-36e58d770ae5
+URL:https://www.fxstreet.com/economic-calendar/event/4f50e4f8-cd33-428b-b721-5fb620b7f097
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260812T133000Z
 DTSTART:20260812T123000Z
@@ -6431,6 +6455,14 @@ DTSTART:20260714T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (MoM)
 UID:12c820fe-bd6c-4d47-abaf-6b0dafb3c969
 URL:https://www.fxstreet.com/economic-calendar/event/c28721ec-1bde-4fa5-bba7-86a3755288ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261104T150000Z
+DTSTART:20261104T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-ISM Services Prices Paid
+UID:a4528029-f562-4924-95cc-78c68bbfb95d
+URL:https://www.fxstreet.com/economic-calendar/event/4212ccfd-7481-4bb7-a463-83ef68596f78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
@@ -6808,6 +6840,14 @@ UID:8d892c24-ee42-423c-9293-ea387b8b5845
 URL:https://www.fxstreet.com/economic-calendar/event/839a1fcb-92b7-4f25-a301-cb99df790e0d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261104T150000Z
+DTSTART:20261104T140000Z
+SUMMARY:🇺🇸🏭📈-🟡-ISM Services New Orders Index
+UID:9f87ff40-da89-4765-a1a3-861baa344b06
+URL:https://www.fxstreet.com/economic-calendar/event/7769bd3f-7ca2-4d62-8666-078a89da5aeb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260212T143000Z
 DTSTART:20260212T133000Z
@@ -6934,6 +6974,14 @@ DTSTART:20260828T140000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
 UID:174696fa-bffa-426c-97f5-86542efa7c41
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261104T150000Z
+DTSTART:20261104T140000Z
+SUMMARY:🇺🇸🏭📈-🔴-ISM Services PMI
+UID:3c1033c6-6706-445b-bcaf-55e38dfbbe6f
+URL:https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17ad5d8a193f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

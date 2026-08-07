@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1785889253,
+    "lastUpdated": 1786002215,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -62,7 +62,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1785932117,
+    "lastUpdated": 1786022002,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -75,9 +75,9 @@
     "periodDateUtc": "2026-07-01T00:00:00Z",
     "periodType": "MONTH",
     "actual": 44.0,
-    "revised": null,
+    "revised": 95.0,
     "consensus": 70.0,
-    "ratioDeviation": -2.11,
+    "ratioDeviation": -1.5,
     "previous": 98.0,
     "isBetterThanExpected": false,
     "name": "ADP Employment Change",
@@ -91,7 +91,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1785932106,
+    "lastUpdated": 1786022062,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -207,7 +207,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1785938416,
+    "lastUpdated": 1786022128,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
@@ -270,7 +270,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1785743034,
+    "lastUpdated": 1786022162,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
