@@ -42,7 +42,7 @@
     "periodType": "DAY",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 198.0,
     "ratioDeviation": null,
     "previous": 199.0,
     "isBetterThanExpected": null,
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1786019452,
+    "lastUpdated": 1786118426,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -176,6 +176,40 @@
     "lastUpdated": 1784118975,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": false,
+      "averageScore": 5.8
+    },
+    "isScoreTrackable": true,
+    "id": "cf419c05-54e1-4ae5-be67-3d25dcf3916f",
+    "eventId": "a384a045-94b1-4508-bd69-80a1f7931bf5",
+    "dateUtc": "2026-08-13T12:40:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Barkin speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1786112048,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]
