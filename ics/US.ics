@@ -538,6 +538,14 @@ UID:08e3a6b2-7c7d-4912-806c-76a0194da265
 URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8edc17d68680
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261106T150000Z
+DTSTART:20261106T140000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
+UID:1357b476-3290-4e06-a80f-44d32779cd4d
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260226T203000Z
 DTSTART:20260226T193000Z
@@ -1583,6 +1591,14 @@ UID:a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261106T150000Z
+DTSTART:20261106T140000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:4a49e38d-3b55-44a6-bf3a-cc65d2076d6c
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6
 DTEND:20261028T193000Z
 DTSTART:20261028T183000Z
@@ -1661,6 +1677,14 @@ DTSTART:20260916T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-Interest Rate Projections - 2nd year
 UID:e844484f-c3a0-4354-a254-d392dbf57d7e
 URL:https://www.fxstreet.com/economic-calendar/event/44c34b50-9c5c-4f85-8c7e-505c0d12479f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (YoY)
+UID:85a16cc6-8da3-4cf5-87d4-3e18b491a0ef
+URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -1876,6 +1900,14 @@ DTSTART:20260403T123000Z
 SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (YoY)
 UID:e301893e-0392-410b-96eb-443eb2940081
 URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261106T150000Z
+DTSTART:20261106T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:eff25b30-1c65-4444-b134-a0f987f8ae2e
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -3786,6 +3818,14 @@ DTSTART:20260730T123000Z
 SUMMARY:🇺🇸🏭📈-🔴-Gross Domestic Product Price Index
 UID:ff60a0c0-4546-4fd6-b3dd-587405617889
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (MoM)
+UID:7300f597-d4d2-4360-832a-33657038e139
+URL:https://www.fxstreet.com/economic-calendar/event/b7abce59-89c3-42cc-8696-c4b6877cdee3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -6203,6 +6243,22 @@ URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🔴-Nonfarm Payrolls
+UID:63edec8e-cde5-4efa-8469-1a9c17ff2eee
+URL:https://www.fxstreet.com/economic-calendar/event/9cdf56fd-99e4-4026-aa99-2b6c0ca92811
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261106T150000Z
+DTSTART:20261106T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:ce1f5a7d-6ecb-40c9-b04d-fe6c722c9cc1
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260917T133000Z
 DTSTART:20260917T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
@@ -6600,6 +6656,14 @@ UID:cd62e4a7-3843-42dd-8e2d-bd3eac49c042
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Labor Force Participation Rate
+UID:346ba69d-a4c2-4561-96bb-09b785ec3d7d
+URL:https://www.fxstreet.com/economic-calendar/event/aec78791-08e0-4e06-b331-bbe5b34f879b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260813T134000Z
 DTSTART:20260813T124000Z
@@ -6734,6 +6798,14 @@ DTSTART:20260213T133000Z
 SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (MoM)
 UID:d5a8c1af-d159-419a-a080-6c6fa89f92c4
 URL:https://www.fxstreet.com/economic-calendar/event/c28721ec-1bde-4fa5-bba7-86a3755288ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🟡-U6 Underemployment Rate
+UID:ecac21bb-21ba-46a8-92d0-4ce6dc461adc
+URL:https://www.fxstreet.com/economic-calendar/event/b31ce2fd-dcc8-45a5-9c33-db417e6d939d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -7765,6 +7837,14 @@ DTSTART:20260930T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
 UID:e92da515-938a-44bf-823b-c1ec773dad58
 URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261106T133000Z
+DTSTART:20261106T123000Z
+SUMMARY:🇺🇸👷💼-🟡-Unemployment Rate
+UID:e0aac989-11e2-4d22-a1cb-c3c2edc3b408
+URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
