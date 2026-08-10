@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": -92.3,
     "isBetterThanExpected": null,
     "name": "Current Account n.s.a.",
     "countryCode": "JP",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1786096839,
+    "lastUpdated": 1786329099,
     "previousIsPreliminary": false,
     "categoryId": "fa6570f6-e494-4563-a363-00d0f2abec37",
     "hasHistorical": true
