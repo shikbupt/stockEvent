@@ -275,8 +275,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260825T133000Z
-DTSTART:20260825T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Nondefense Capital Goods Orders ex Aircraft
 UID:c4b5f77a-5711-4654-8f37-fa9a7b09536c
 URL:https://www.fxstreet.com/economic-calendar/event/6a8b27d4-ae42-4d33-afeb-c75ff118fc83
@@ -571,8 +571,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-069
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260825T133000Z
-DTSTART:20260825T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
 UID:ae80a45e-17f8-4737-bf4a-04bfc3a20be3
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
@@ -971,8 +971,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-842
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260825T133000Z
-DTSTART:20260825T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders
 UID:c310c633-d818-448f-982c-d865da1eb950
 URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
@@ -4412,8 +4412,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/9966e41e-bc02-4163-b184-e30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
-DTEND:20260825T133000Z
-DTSTART:20260825T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Defense
 UID:f62de9f0-771f-49c0-aee3-8793d758a197
 URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
@@ -4441,6 +4441,13 @@ DTSTART:20260311T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (YoY)
 UID:3b4d7f0d-e6f1-4e61-85d7-60d118024150
 URL:https://www.fxstreet.com/economic-calendar/event/6f846eaa-9a12-43ab-930d-f059069c6646
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Category: Central Banks
+SUMMARY:🇺🇸🏛️⚖️-🔴-Jackson Hole Symposium
+UID:2b605a0a-5c1a-42df-8241-512cdf6bad92
+URL:https://www.fxstreet.com/economic-calendar/event/b688befc-8cb6-4871-b4f2-b269a0e4462d
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -5422,8 +5429,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-222
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260827T150000Z
-DTSTART:20260827T140000Z
+DTEND:20260818T150000Z
+DTSTART:20260818T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:d262f39b-0083-4a86-b993-dea7c5101afb
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
@@ -6529,6 +6536,13 @@ UID:2b3dd8b9-6802-40d7-b4f3-246d8c873405
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Category: Central Banks
+SUMMARY:🇺🇸🏛️⚖️-🔴-Jackson Hole Symposium
+UID:2b5bc6d6-5bbc-40c8-836e-e9126c5fe710
+URL:https://www.fxstreet.com/economic-calendar/event/b688befc-8cb6-4871-b4f2-b269a0e4462d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20261002T133000Z
 DTSTART:20261002T123000Z
@@ -7358,6 +7372,13 @@ DTSTART:20260424T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
 UID:97002b8e-00c2-4702-938a-8e180fa16527
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DESCRIPTION:Category: Central Banks
+SUMMARY:🇺🇸🏛️⚖️-🔴-Jackson Hole Symposium
+UID:64455197-8e57-4821-a0b9-895cdf923d38
+URL:https://www.fxstreet.com/economic-calendar/event/b688befc-8cb6-4871-b4f2-b269a0e4462d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
