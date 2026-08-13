@@ -227,8 +227,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
 UID:c87f5ce3-48ba-44c9-affa-35c29d1ed307
 URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
@@ -874,12 +874,28 @@ UID:3850296e-4327-4de2-b7a3-e09cdd8d9342
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261110T143000Z
+DTSTART:20261110T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (YoY)
+UID:a1dff83e-b073-4270-8424-4a7acfaed89c
+URL:https://www.fxstreet.com/economic-calendar/event/6f846eaa-9a12-43ab-930d-f059069c6646
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260306T143000Z
 DTSTART:20260306T133000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:a94cf01a-de2e-49be-bd2f-9de97d3ae8f7
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261110T141500Z
+DTSTART:20261110T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:a265b395-a329-4eb0-834a-cd35a1e11415
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1168,6 +1184,14 @@ DTSTART:20260625T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
 UID:f3f15ccf-7e3f-486b-9bc6-0e055187adf2
 URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261110T143000Z
+DTSTART:20261110T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (MoM)
+UID:75a2fedb-a0e4-446b-94fb-726f952c0f8e
+URL:https://www.fxstreet.com/economic-calendar/event/c28721ec-1bde-4fa5-bba7-86a3755288ca
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
@@ -2287,8 +2311,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:82803e88-0e44-47f8-915f-b8caeeb11b1d
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
@@ -3303,8 +3327,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
 UID:4141f68c-7e2c-48ba-97ab-dded377cf59c
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
@@ -4061,8 +4085,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-222
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
 UID:465d3586-10d4-450e-9b0b-1c8e59f70a42
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
@@ -4185,14 +4209,6 @@ DTSTART:20260903T134500Z
 SUMMARY:🇺🇸🏭📈-🟡-S&P Global Composite PMI
 UID:17a0613e-12bd-4002-9f04-76250d10b96c
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20260806T014000Z
-DTSTART:20260806T004000Z
-SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Daly speech
-UID:06085f67-cd90-477e-8fa4-a3fb970b207d
-URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.7
@@ -4903,8 +4919,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/4212ccfd-7481-4bb7-a463-83e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
 UID:364a748f-9e7c-4ae6-a9c4-390310e7f341
 URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
@@ -5213,8 +5229,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20260828T133000Z
-DTSTART:20260828T123000Z
+DTEND:20260826T133000Z
+DTSTART:20260826T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
 UID:01a3c5ac-f46c-4463-8735-e59115c05a43
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
@@ -5824,6 +5840,14 @@ DTSTART:20260409T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
 UID:d024a9b2-0b32-4835-b43c-5a605e6c97be
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261110T143000Z
+DTSTART:20261110T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index ex Food & Energy (YoY)
+UID:80ef0474-f22d-4da0-ac0b-e5de230a6538
+URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f0835731d9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -7834,6 +7858,14 @@ DTSTART:20260903T140000Z
 SUMMARY:🇺🇸👷💼-🟡-ISM Services Employment Index
 UID:e5f07d4c-c772-4211-80ba-f066c1804cc0
 URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec89b5e2f12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261110T143000Z
+DTSTART:20261110T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index ex Food & Energy (MoM)
+UID:c116284f-54cf-4db0-a413-9f9a6be6908d
+URL:https://www.fxstreet.com/economic-calendar/event/4abee304-9984-47cf-80ab-dca1114165f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.9
