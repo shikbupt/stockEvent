@@ -1392,6 +1392,14 @@ UID:086e59fb-0a4b-4f19-8af1-393bb8ee5128
 URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261112T143000Z
+DTSTART:20261112T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:ede3cb20-255d-46a8-ab72-b4551790d64d
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260414T171500Z
 DTSTART:20260414T161500Z
@@ -2484,6 +2492,14 @@ DTSTART:20260430T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
 UID:233f0c01-1c87-4a0b-b3ae-9e6572d8315b
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20261112T160000Z
+DTSTART:20261112T150000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
+UID:39a5cbcc-bc44-41c3-916d-58b3a7c51611
+URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
