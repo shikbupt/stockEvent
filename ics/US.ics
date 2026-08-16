@@ -506,12 +506,28 @@ UID:a09df8af-d312-48a9-968c-a4c389fe03e5
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261113T143000Z
+DTSTART:20261113T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
+UID:d1406aec-376e-4fe4-b6bd-dc009573b31e
+URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260521T144500Z
 DTSTART:20260521T134500Z
 SUMMARY:🇺🇸🏭📈-🔴-S&P Global Manufacturing PMI
 UID:347f39cf-2fa2-49f7-8545-a17cc6719d70
 URL:https://www.fxstreet.com/economic-calendar/event/38ec9435-34cc-4704-9445-80fabf6c0120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261113T143000Z
+DTSTART:20261113T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (MoM)
+UID:6f17fd45-9b35-417e-a00d-4a386d9d9689
+URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -5945,6 +5961,14 @@ UID:c44360b4-98f7-44ed-a10c-297b73346d53
 URL:https://www.fxstreet.com/economic-calendar/event/935af7fa-c58d-4541-ae15-95a42ecd980a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261113T143000Z
+DTSTART:20261113T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
+UID:4b4a258c-07b2-4107-b8e4-335180759526
+URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260225T143000Z
 DTSTART:20260225T133000Z
@@ -7522,6 +7546,14 @@ DTSTART:20260803T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-ISM Manufacturing Prices Paid
 UID:5c329814-e526-4909-be99-788ef5e124b0
 URL:https://www.fxstreet.com/economic-calendar/event/3b4f3bf2-fe18-4e5d-86af-8edc17d68680
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261113T143000Z
+DTSTART:20261113T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
+UID:b09590d2-def1-4e53-a19f-a8cfd91acccf
+URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
