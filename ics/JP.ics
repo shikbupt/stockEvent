@@ -202,6 +202,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-123
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
+DTEND:20260831T005000Z
+DTSTART:20260830T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
+UID:29766eb1-2db4-4f96-b619-5aff57a8677a
+URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
 DTEND:20260901T005000Z
 DTSTART:20260831T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
@@ -319,6 +327,30 @@ DTSTART:20260323T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:7b014305-22ab-4929-b40f-b38a4e266b46
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261116T005000Z
+DTSTART:20261115T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:14be18ad-4b90-4333-ab99-e5a653d86ef7
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261116T005000Z
+DTSTART:20261115T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:7dca6a59-68c6-4e4e-b575-e91c9d464f6d
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261116T005000Z
+DTSTART:20261115T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:c3e9601f-befa-4e20-a252-c329d3b1e372
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -713,8 +745,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20260901T005000Z
-DTSTART:20260831T235000Z
+DTEND:20260831T005000Z
+DTSTART:20260830T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:ee645a50-fa0a-428b-8e50-7c9bbd7c0e34
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
@@ -726,6 +758,14 @@ DTSTART:20260216T043000Z
 SUMMARY:🇯🇵🏭📈-🟢-Industrial Production (YoY)
 UID:6f7cd86b-4533-4f09-98a2-d1ca31cc71d5
 URL:https://www.fxstreet.com/economic-calendar/event/34003141-e6cf-4c81-939c-5e39e0170b33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260901T005000Z
+DTSTART:20260831T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
+UID:ee645a50-fa0a-428b-8e50-7c9bbd7c0e34
+URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -1045,6 +1085,14 @@ DTSTART:20260816T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
 UID:fd0dfa98-53e0-485f-908a-41a32d2ec400
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20260831T005000Z
+DTSTART:20260830T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
+UID:4f358cf6-3c55-4ee4-8ab8-5129626eee2d
+URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
