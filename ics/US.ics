@@ -1042,6 +1042,14 @@ UID:71d75a19-77cf-4159-bd22-07a4f9321225
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261116T143000Z
+DTSTART:20261116T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:01643b1f-4e19-4d7c-a600-4abf43426409
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260731T150000Z
 DTSTART:20260731T140000Z

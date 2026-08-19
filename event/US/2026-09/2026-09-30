@@ -358,7 +358,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": -2.3,
     "isBetterThanExpected": null,
     "name": "Pending Home Sales (MoM)",
     "countryCode": "US",
@@ -371,7 +371,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1786953640,
+    "lastUpdated": 1787061646,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
