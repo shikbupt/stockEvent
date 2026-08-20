@@ -586,6 +586,14 @@ UID:46cfdc1a-f445-43be-9475-4c3ab91c2228
 URL:https://www.fxstreet.com/economic-calendar/event/771595c5-fbaa-4c3d-898c-06931f9290d8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261117T143000Z
+DTSTART:20261117T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
+UID:94a81821-a5f9-49b8-aa91-78fa3992fb3c
+URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260826T133000Z
 DTSTART:20260826T123000Z
@@ -2100,6 +2108,14 @@ DTSTART:20260507T142500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
 UID:9662a2a0-d5f2-4a09-8eb6-a542e612d90f
 URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261117T143000Z
+DTSTART:20261117T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
+UID:9e7b2e58-e6d0-417d-b9d7-56ea5eedecec
+URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -4639,6 +4655,14 @@ UID:a4a604a8-4264-4d08-8166-bac6639df0a5
 URL:https://www.fxstreet.com/economic-calendar/event/83887e19-1352-453f-96e9-7406bc598f40
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261117T143000Z
+DTSTART:20261117T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
+UID:837638b4-f9c6-4f3b-bcff-e134eb83c20e
+URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260306T143000Z
 DTSTART:20260306T133000Z
@@ -5213,6 +5237,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20261117T141500Z
+DTSTART:20261117T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:80272b23-9f7b-4e08-9680-a962edad9606
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260922T131500Z
 DTSTART:20260922T121500Z
 SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
@@ -5649,6 +5681,14 @@ DTSTART:20260916T180000Z
 SUMMARY:🇺🇸🏦🛠️-🔴-Fed Interest Rate Decision
 UID:2f1b6a4a-ff1e-428b-b8ad-d8521ebc870f
 URL:https://www.fxstreet.com/economic-calendar/event/fcfae951-09a7-449e-b6fe-525e1335aaba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261117T151500Z
+DTSTART:20261117T141500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:8f7d19b2-f146-48b2-a2b0-142df3a4cbdb
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -7339,6 +7379,14 @@ DTSTART:20260901T140000Z
 SUMMARY:🇺🇸🏭📈-🔴-ISM Manufacturing PMI
 UID:34556718-8fe3-4115-8ca2-a061712ff7b0
 URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2034d4fade
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260820T161000Z
+DTSTART:20260820T151000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:78d4562e-0ca1-4260-ae93-58196783a1bf
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
