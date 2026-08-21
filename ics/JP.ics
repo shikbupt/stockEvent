@@ -345,6 +345,14 @@ UID:7dca6a59-68c6-4e4e-b575-e91c9d464f6d
 URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261119T005000Z
+DTSTART:20261118T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20261116T005000Z
 DTSTART:20261115T235000Z
@@ -439,6 +447,14 @@ DTSTART:20260618T235000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
 UID:e9d8b161-d6c0-4898-884f-8b8a8be29476
 URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261119T005000Z
+DTSTART:20261118T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:37602ca6-9d42-4a43-b2e9-8412fcd8add6
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
@@ -1164,6 +1180,14 @@ DTSTART:20260918T030000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
 UID:34d7a1f7-2cd9-48bb-9212-1f6350d3d005
 URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261119T005000Z
+DTSTART:20261118T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -1949,6 +1973,14 @@ DTSTART:20260930T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Tankan Large Manufacturing Index
 UID:deafc9c6-01be-41ed-b3b4-d7f66b6a1e89
 URL:https://www.fxstreet.com/economic-calendar/event/feb3bf60-1d35-4ef7-828a-4272587d88bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261119T005000Z
+DTSTART:20261118T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:75cf18c1-58c2-441d-97d5-597d2bb65d3b
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
