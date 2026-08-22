@@ -342,7 +342,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1778053369,
+    "lastUpdated": 1787313616,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
@@ -374,6 +374,40 @@
     "lastUpdated": 1787061646,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": false,
+      "averageScore": 6
+    },
+    "isScoreTrackable": true,
+    "id": "2a76b27e-43cc-41d2-a3de-c78d4fd7c311",
+    "eventId": "7928c38a-9491-4165-be36-94322686a296",
+    "dateUtc": "2026-09-30T20:05:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Goolsbee speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1787315101,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]

@@ -243,6 +243,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20261119T143000Z
+DTSTART:20261119T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:f63465a7-efe9-47d1-baef-8c1a6558e837
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20260527T131500Z
 DTSTART:20260527T121500Z
 SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
@@ -520,6 +528,14 @@ DTSTART:20261113T133000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
 UID:d1406aec-376e-4fe4-b6bd-dc009573b31e
 URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260930T210500Z
+DTSTART:20260930T200500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:2a76b27e-43cc-41d2-a3de-c78d4fd7c311
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -3931,6 +3947,14 @@ UID:f8b21812-bca9-4f0f-9f59-5767eb9e2194
 URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.6
+DTEND:20260828T150000Z
+DTSTART:20260828T140000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed's Chair Warsh speech
+UID:58b51ca1-dc68-48d8-800c-99b6dd7ca3ab
+URL:https://www.fxstreet.com/economic-calendar/event/324a517e-e181-402c-a246-861e9f6f14b0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260924T133000Z
 DTSTART:20260924T123000Z
@@ -7203,6 +7227,14 @@ DTSTART:20260601T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
 UID:35e46fa2-0402-4e4b-8f71-7b8d952d72da
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261119T143000Z
+DTSTART:20261119T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-Philadelphia Fed Manufacturing Survey
+UID:685a12fd-f1f6-404a-afc4-28418c00a896
+URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
