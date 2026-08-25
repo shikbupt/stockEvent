@@ -211,7 +211,7 @@
     "periodType": "QUARTER",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 6.3,
     "ratioDeviation": null,
     "previous": 6.3,
     "isBetterThanExpected": null,
@@ -226,7 +226,7 @@
     "isPreliminary": true,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1785414648,
+    "lastUpdated": 1787555339,
     "previousIsPreliminary": true,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
