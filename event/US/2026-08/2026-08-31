@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "51fecc0e-6f81-4105-a69f-2040855ef9aa",
+    "eventId": "b8e4183b-5db5-4994-878a-584f6130bb41",
+    "dateUtc": "2026-08-31T13:45:00Z",
+    "periodDateUtc": "2026-08-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": 57.0,
+    "ratioDeviation": null,
+    "previous": 57.6,
+    "isBetterThanExpected": null,
+    "name": "Chicago PMI",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1787925110,
+    "previousIsPreliminary": false,
+    "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
+    "hasHistorical": true
+  }
+]
