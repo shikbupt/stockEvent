@@ -1294,6 +1294,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20260916T005000Z
+DTSTART:20260915T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:c18dd204-e1a4-466a-9990-95314526db66
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20260917T005000Z
 DTSTART:20260916T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
@@ -1489,6 +1497,14 @@ DTSTART:20260427T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
 UID:2e13b317-e9e8-49c9-8534-ea63b063caa9
 URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260916T005000Z
+DTSTART:20260915T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:a130c745-7a2c-4602-92a9-c67c5f4a24b2
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -1738,19 +1754,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260917T005000Z
-DTSTART:20260916T235000Z
+DTEND:20260916T005000Z
+DTSTART:20260915T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:070bd7a3-37bd-4ecc-adcb-50052aeba3ae
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Inflation
-DTEND:20260918T003000Z
-DTSTART:20260917T233000Z
-SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
-UID:f4255e7f-bf92-4be4-8e47-6f6143676466
-URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
+DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:070bd7a3-37bd-4ecc-adcb-50052aeba3ae
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -1759,6 +1775,14 @@ DTSTART:20260308T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
 UID:b80f42d6-5a59-48d6-b713-16fc19ea32fa
 URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20260918T003000Z
+DTSTART:20260917T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:f4255e7f-bf92-4be4-8e47-6f6143676466
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -1874,8 +1898,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
-DTEND:20260917T005000Z
-DTSTART:20260916T235000Z
+DTEND:20260916T005000Z
+DTSTART:20260915T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:f4f047a7-970d-4638-b4c8-7e0d2879a354
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
@@ -1903,6 +1927,14 @@ DTSTART:20260423T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
 UID:90b4565c-814e-4d36-84e3-b1667c998152
 URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20260917T005000Z
+DTSTART:20260916T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:f4f047a7-970d-4638-b4c8-7e0d2879a354
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
