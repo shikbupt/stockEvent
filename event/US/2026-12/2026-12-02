@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "c06b7892-e635-4827-ac1a-b153aab0eb9b",
+    "eventId": "4f50e4f8-cd33-428b-b721-5fb620b7f097",
+    "dateUtc": "2026-12-02T13:15:00Z",
+    "periodDateUtc": "2026-11-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "ADP Employment Change",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": "K",
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1761919766,
+    "previousIsPreliminary": false,
+    "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  }
+]

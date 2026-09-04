@@ -18,6 +18,14 @@ UID:8db01d58-1479-4219-921b-fec8764ffe42
 URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61da3e5c2366
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261202T141500Z
+DTSTART:20261202T131500Z
+SUMMARY:🇺🇸👷💼-🔴-ADP Employment Change
+UID:c06b7892-e635-4827-ac1a-b153aab0eb9b
+URL:https://www.fxstreet.com/economic-calendar/event/4f50e4f8-cd33-428b-b721-5fb620b7f097
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260217T203000Z
 DTSTART:20260217T193000Z
@@ -2070,7 +2078,7 @@ UID:327a2365-a1ac-4567-b2ba-2dad26b47ef1
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.4
+DESCRIPTION:Category: Central Banks\n票委-6.3
 DTEND:20260903T133000Z
 DTSTART:20260903T123000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
