@@ -1499,6 +1499,14 @@ UID:7a8a25af-95bf-4204-936f-6bdda0cb890b
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261207T005000Z
+DTSTART:20261206T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:1541d767-5d09-46fa-a80f-b6f33a7cd1a4
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260617T005000Z
 DTSTART:20260616T235000Z
@@ -1552,6 +1560,14 @@ DTSTART:20261029T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
 UID:701a7aa8-b366-4fe8-8cb1-c6432bf3c0bd
 URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261207T005000Z
+DTSTART:20261206T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:4981b6df-c407-45e0-9690-6805534697e0
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -2148,6 +2164,14 @@ DTSTART:20260218T235000Z
 SUMMARY:🇯🇵💸🌊-🟢-Foreign Investment in Japan Stocks
 UID:39d7e99e-0680-4d3e-95fe-0b8e94e6084d
 URL:https://www.fxstreet.com/economic-calendar/event/bc6818db-4331-4ba8-991c-7e060ea4d538
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261207T005000Z
+DTSTART:20261206T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:40e118e1-20b4-4468-ac7c-d14cc6ef7002
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
