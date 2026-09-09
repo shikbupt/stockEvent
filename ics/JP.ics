@@ -1427,6 +1427,14 @@ UID:73544f82-358e-4198-ba30-f1d9f42b457a
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261208T005000Z
+DTSTART:20261207T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Current Account n.s.a.
+UID:7ef69a70-24bb-4498-aa26-5ce05fe53e3a
+URL:https://www.fxstreet.com/economic-calendar/event/c3e65991-95b2-4f8e-8eae-12348778f9ad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260608T005000Z
 DTSTART:20260607T235000Z
@@ -2172,6 +2180,14 @@ DTSTART:20261206T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
 UID:40e118e1-20b4-4468-ac7c-d14cc6ef7002
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261208T003000Z
+DTSTART:20261207T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
+UID:c9d5af20-0824-4590-b1f2-8ab23241ed67
+URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks

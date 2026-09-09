@@ -3221,6 +3221,14 @@ UID:9d267058-78b1-4f7e-bb43-bac1cd05691e
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20260909T131500Z
+DTSTART:20260909T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:9d267058-78b1-4f7e-bb43-bac1cd05691e
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.4
 DTEND:20260706T160000Z
 DTSTART:20260706T150000Z
@@ -4052,8 +4060,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20260930T150000Z
-DTSTART:20260930T140000Z
+DTEND:20260917T150000Z
+DTSTART:20260917T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:356de820-a4af-4f42-b44d-b8d0b4574439
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
