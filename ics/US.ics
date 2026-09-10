@@ -19,6 +19,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/0d872a32-e842-4d0c-8cac-61d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
+DTEND:20261208T141500Z
+DTSTART:20261208T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:9e1b8daa-8791-4cbf-a0cb-5943d9b4d58f
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
 DTEND:20261202T141500Z
 DTSTART:20261202T131500Z
 SUMMARY:🇺🇸👷💼-🔴-ADP Employment Change
@@ -2422,8 +2430,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20261029T150000Z
-DTSTART:20261029T140000Z
+DTEND:20261022T150000Z
+DTSTART:20261022T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:429976d3-2a02-4580-b407-2c669cc85153
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
@@ -3302,8 +3310,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20261126T160000Z
-DTSTART:20261126T150000Z
+DTEND:20261119T160000Z
+DTSTART:20261119T150000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:afd78c23-8b8d-4565-96be-6a602aa6856f
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
