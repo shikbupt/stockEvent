@@ -3,7 +3,7 @@
     "isScoreTrackable": null,
     "id": "19e683ff-acc3-4cc3-bd7f-66b296b2044b",
     "eventId": "a25fb503-3399-4cb2-9c48-b335a966faf7",
-    "dateUtc": "2026-11-05T11:30:00Z",
+    "dateUtc": "2026-11-05T09:30:00Z",
     "periodDateUtc": "2026-10-01T00:00:00Z",
     "periodType": "MONTH",
     "actual": null,
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1758890856,
+    "lastUpdated": 1789033533,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
