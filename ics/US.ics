@@ -26,6 +26,14 @@ UID:9e1b8daa-8791-4cbf-a0cb-5943d9b4d58f
 URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261211T143000Z
+DTSTART:20261211T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
+UID:26b4dab6-2265-454e-8657-ad70efa01fc2
+URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20261202T141500Z
 DTSTART:20261202T131500Z
@@ -5930,6 +5938,14 @@ UID:01a3c5ac-f46c-4463-8735-e59115c05a43
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261211T143000Z
+DTSTART:20261211T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
+UID:651de243-6e02-4385-ac0a-63d754ab48b6
+URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20261209T200000Z
 DTSTART:20261209T190000Z
@@ -8090,6 +8106,14 @@ DTSTART:20260625T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
 UID:800f6109-d4c9-41e7-a730-07da8fc6c231
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261211T143000Z
+DTSTART:20261211T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
+UID:28b447b9-60fb-451b-9c83-0373c800fe06
+URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
