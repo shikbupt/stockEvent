@@ -61,7 +61,7 @@
     "speech": {
       "score": null,
       "isVotingMember": null,
-      "averageScore": 4.9
+      "averageScore": 7.1
     },
     "isScoreTrackable": true,
     "id": "aaa8dbe3-191c-4112-bc06-658211f04879",
@@ -115,7 +115,7 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1747845907,
+    "lastUpdated": 1789581773,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -131,7 +131,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 4.1,
     "isBetterThanExpected": null,
     "name": "Interest Rate Projections - 1st year",
     "countryCode": "US",
@@ -144,7 +144,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1776241251,
+    "lastUpdated": 1789581691,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -160,7 +160,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 3.9,
     "isBetterThanExpected": null,
     "name": "Interest Rate Projections - 2nd year",
     "countryCode": "US",
@@ -173,7 +173,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1750415882,
+    "lastUpdated": 1789581693,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -189,7 +189,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 3.6,
     "isBetterThanExpected": null,
     "name": "Interest Rate Projections - 3rd year",
     "countryCode": "US",
@@ -202,7 +202,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1740586643,
+    "lastUpdated": 1789581705,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -218,7 +218,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 4.1,
     "isBetterThanExpected": null,
     "name": "Interest Rate Projections - Current",
     "countryCode": "US",
@@ -231,7 +231,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1744732135,
+    "lastUpdated": 1789581703,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -247,7 +247,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 3.2,
     "isBetterThanExpected": null,
     "name": "Interest Rate Projections - Longer",
     "countryCode": "US",
@@ -260,7 +260,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1750415381,
+    "lastUpdated": 1789581700,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -269,7 +269,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 6
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "e65f5992-b1d8-42a2-8660-e6d84ae40eec",

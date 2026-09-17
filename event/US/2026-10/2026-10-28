@@ -10,7 +10,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 4.0,
     "isBetterThanExpected": null,
     "name": "Fed Interest Rate Decision",
     "countryCode": "US",
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1789120830,
+    "lastUpdated": 1789581696,
     "previousIsPreliminary": false,
     "categoryId": "9c4a731a-d993-4d55-89f3-dc707cc1d596",
     "hasHistorical": true
@@ -32,7 +32,7 @@
     "speech": {
       "score": null,
       "isVotingMember": null,
-      "averageScore": 4.9
+      "averageScore": 7.1
     },
     "isScoreTrackable": true,
     "id": "3c0c7b61-7aaa-4ca6-bff2-15593a479a36",
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1744731960,
+    "lastUpdated": 1789581708,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -66,7 +66,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 6
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "2b6b68dc-4cea-41c4-ba47-4766f56bf18d",

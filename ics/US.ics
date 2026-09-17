@@ -617,6 +617,14 @@ UID:2a76b27e-43cc-41d2-a3de-c78d4fd7c311
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261215T143000Z
+DTSTART:20261215T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
+UID:905878e9-2ccd-4c4a-9c76-f2d64513763b
+URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260521T144500Z
 DTSTART:20260521T134500Z
@@ -1886,6 +1894,14 @@ UID:a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7
 URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261215T143000Z
+DTSTART:20261215T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
+UID:9b5e3fa3-76a8-4228-8b58-d1ec4ae353b7
+URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261106T150000Z
 DTSTART:20261106T140000Z
@@ -1894,7 +1910,7 @@ UID:4a49e38d-3b55-44a6-bf3a-cc65d2076d6c
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6
+DESCRIPTION:Category: Central Banks\n票委-7
 DTEND:20261028T193000Z
 DTSTART:20261028T183000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
@@ -3940,7 +3956,7 @@ UID:d3ea8612-487c-4aad-9e8f-e270cf19b06f
 URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6
+DESCRIPTION:Category: Central Banks\n票委-7
 DTEND:20260916T193000Z
 DTSTART:20260916T183000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
@@ -4320,6 +4336,14 @@ DTSTART:20261030T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Employment Cost Index
 UID:43f7500e-0290-42c0-b26a-4cb0c3a417cf
 URL:https://www.fxstreet.com/economic-calendar/event/e620bb5a-1940-4e56-9a96-ca279a85e57f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261215T143000Z
+DTSTART:20261215T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (MoM)
+UID:65d715f5-b083-44da-a84f-1609380e9a14
+URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -5477,6 +5501,14 @@ UID:1e59c704-4515-4995-ba71-27a336925780
 URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec89b5e2f12
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261215T143000Z
+DTSTART:20261215T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
+UID:f0443842-f093-432b-9d0e-1096859e3d4e
+URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20261030T144500Z
 DTSTART:20261030T134500Z
@@ -6138,7 +6170,7 @@ UID:2d0bbcd3-6092-48de-86d7-023f244e4ca0
 URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6
+DESCRIPTION:Category: Central Banks\n票委-7
 DTEND:20261209T203000Z
 DTSTART:20261209T193000Z
 SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Press Conference
@@ -6510,6 +6542,14 @@ DTSTART:20260401T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:2efe7adc-cb9e-4f59-9c51-d680a4ed580b
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261215T141500Z
+DTSTART:20261215T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:8cdeffac-cfe9-4d4c-a958-a041004550b3
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
