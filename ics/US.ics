@@ -1735,6 +1735,14 @@ UID:d8ae89d4-934a-421d-8b13-b9bcbf036f56
 URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261216T151500Z
+DTSTART:20261216T141500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:abf40988-ad21-4280-a88c-73a560925c91
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
 DESCRIPTION:Category: Politics
 SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
@@ -3075,6 +3083,14 @@ DTSTART:20260617T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:34256cd0-4682-4026-adc3-5a2985633ed9
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261216T143000Z
+DTSTART:20261216T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:1c737205-ac27-4e88-8e49-dced43ae357f
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

@@ -10,7 +10,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 1.25,
     "isBetterThanExpected": null,
     "name": "BoJ Interest Rate Decision",
     "countryCode": "JP",
@@ -23,13 +23,18 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1789136031,
+    "lastUpdated": 1789700072,
     "previousIsPreliminary": false,
     "categoryId": "9c4a731a-d993-4d55-89f3-dc707cc1d596",
     "hasHistorical": true
   },
   {
-    "isScoreTrackable": null,
+    "speech": {
+      "score": null,
+      "isVotingMember": null,
+      "averageScore": null
+    },
+    "isScoreTrackable": true,
     "id": "240a5d56-e79c-4889-a204-2ceb275ee9bd",
     "eventId": "b8f4149d-5c7f-4395-b9d8-3102c59ce3db",
     "dateUtc": "2026-10-30T03:00:00Z",
@@ -50,9 +55,9 @@
     "isAllDay": false,
     "isTentative": true,
     "isPreliminary": false,
-    "isReport": true,
-    "isSpeech": false,
-    "lastUpdated": 1789036846,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1789694466,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
