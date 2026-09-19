@@ -120,6 +120,14 @@ UID:214aae70-2822-442d-8c26-6733bec24f69
 URL:https://www.fxstreet.com/economic-calendar/event/59861198-636b-4006-88be-addbaed5fb9b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261218T003000Z
+DTSTART:20261217T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Food\, Energy (YoY)
+UID:779237ad-093a-4b9d-8b47-1f42df13bbdb
+URL:https://www.fxstreet.com/economic-calendar/event/69611ede-bbf4-4c0b-899a-10272b525725
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20261030T040000Z
 DTSTART:20261030T030000Z
@@ -1515,6 +1523,14 @@ UID:4decb003-47b2-4de6-b1ae-2227a4886242
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Interest Rates
+DTEND:20261218T040000Z
+DTSTART:20261218T030000Z
+SUMMARY:🇯🇵🏦🛠️-🔴-BoJ Interest Rate Decision
+UID:9f598e39-5cb7-4e2b-80eb-7161c3e7d67a
+URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260216T005000Z
 DTSTART:20260215T235000Z
@@ -1937,6 +1953,14 @@ UID:87c75f90-af0a-48bf-b69e-186868c77f29
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261218T040000Z
+DTSTART:20261218T030000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Monetary Policy Statement
+UID:8d71c3a6-6d92-4675-a5fc-0661122f9c54
+URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20261030T003000Z
 DTSTART:20261029T233000Z
@@ -1991,6 +2015,14 @@ DTSTART:20261130T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
 UID:6e9307f7-a0a1-4975-84e9-137c9da08852
 URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261218T003000Z
+DTSTART:20261217T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
+UID:fb577bfd-7b18-4543-bd30-35fda94811e6
+URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -2252,6 +2284,14 @@ DTSTART:20260603T085000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
 UID:86094414-1239-45e8-beb8-e200ce1be7c7
 URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261218T003000Z
+DTSTART:20261217T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
+UID:4eb478e4-a687-4d9f-87a3-7db6fb2a2715
+URL:https://www.fxstreet.com/economic-calendar/event/7f15ca74-c327-4eb6-b76f-d0783f9b14e5
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503

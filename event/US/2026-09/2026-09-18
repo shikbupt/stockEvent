@@ -1,7 +1,7 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 5.6
     },
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1789114324,
+    "lastUpdated": 1789718489,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -40,12 +40,12 @@
     "dateUtc": "2026-09-18T13:15:00Z",
     "periodDateUtc": "2026-08-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
+    "actual": 0.0,
     "revised": null,
     "consensus": 0.3,
-    "ratioDeviation": null,
+    "ratioDeviation": -0.94,
     "previous": 0.2,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": false,
     "name": "Industrial Production (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -57,9 +57,43 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1789142406,
+    "lastUpdated": 1789737352,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 8,
+      "isVotingMember": false,
+      "averageScore": 7.2
+    },
+    "isScoreTrackable": true,
+    "id": "fa6f69ed-6fb7-4275-9170-00734c0914b4",
+    "eventId": "52a4f9fb-270a-4f85-bd92-c8effdcf8857",
+    "dateUtc": "2026-09-18T15:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Schmid speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1789747023,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]
