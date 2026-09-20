@@ -61,5 +61,39 @@
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": null,
+      "averageScore": 8.2
+    },
+    "isScoreTrackable": true,
+    "id": "39c1b2a8-8eca-442c-80f4-c18ec32ac5aa",
+    "eventId": "e01c7f18-22ff-47ff-94ac-a458f2054295",
+    "dateUtc": "2026-12-18T06:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ Press Conference",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1789036581,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
   }
 ]
