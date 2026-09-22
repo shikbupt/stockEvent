@@ -568,19 +568,19 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20261009T003000Z
-DTSTART:20261008T233000Z
+DTEND:20261007T003000Z
+DTSTART:20261006T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:799c49a6-84d0-4492-983d-2e159620b40e
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20261201T003000Z
-DTSTART:20261130T233000Z
-SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
-UID:30db7c3b-25bf-4c01-9ec8-bba458ee0f4d
-URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
+DTEND:20261009T003000Z
+DTSTART:20261008T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
+UID:799c49a6-84d0-4492-983d-2e159620b40e
+URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -605,6 +605,14 @@ DTSTART:20261030T030000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Outlook Report
 UID:6b38543f-378b-4aed-a6c4-9f21ae0c2561
 URL:https://www.fxstreet.com/economic-calendar/event/40c5d7f9-ff3e-494c-8050-b59ba4ae7941
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261201T003000Z
+DTSTART:20261130T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
+UID:30db7c3b-25bf-4c01-9ec8-bba458ee0f4d
+URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
