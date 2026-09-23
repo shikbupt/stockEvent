@@ -6226,6 +6226,14 @@ UID:12f38a2f-eeeb-4454-9605-64710efa3fd6
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20260922T160000Z
+DTSTART:20260922T150000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
+UID:ade4387d-a247-4a71-b406-1c8e42c00812
+URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582c4eb3705a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20261210T143000Z
 DTSTART:20261210T133000Z

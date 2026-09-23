@@ -42,7 +42,7 @@
     "periodType": "DAY",
     "actual": null,
     "revised": null,
-    "consensus": 203.0,
+    "consensus": 201.0,
     "ratioDeviation": null,
     "previous": 196.0,
     "isBetterThanExpected": null,
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1789977621,
+    "lastUpdated": 1790071240,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
