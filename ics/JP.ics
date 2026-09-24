@@ -1945,6 +1945,14 @@ UID:fb5a642a-87ae-430a-908f-77bd8b0ab2dc
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261223T005000Z
+DTSTART:20261222T235000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
+UID:4727258c-a848-4d35-b445-88f1a3f1c365
+URL:https://www.fxstreet.com/economic-calendar/event/bc811898-14cb-432c-ab0b-31798e95cc74
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260318T005000Z
 DTSTART:20260317T235000Z
