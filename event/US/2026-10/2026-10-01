@@ -39,7 +39,7 @@
     "revised": null,
     "consensus": null,
     "ratioDeviation": null,
-    "previous": null,
+    "previous": 197.0,
     "isBetterThanExpected": null,
     "name": "Initial Jobless Claims",
     "countryCode": "US",
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1790071240,
+    "lastUpdated": 1790253051,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -177,7 +177,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 5.9
+      "averageScore": 6.2
     },
     "isScoreTrackable": true,
     "id": "091e9ccd-c7ef-4746-af07-66f2b344e805",

@@ -1,9 +1,9 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 7.2,
       "isVotingMember": true,
-      "averageScore": 5.9
+      "averageScore": 6.2
     },
     "isScoreTrackable": true,
     "id": "6ca42093-399d-4c0a-814b-07af4236fcee",
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1790143594,
+    "lastUpdated": 1790238041,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -40,12 +40,12 @@
     "dateUtc": "2026-09-24T12:30:00Z",
     "periodDateUtc": "2026-09-18T00:00:00Z",
     "periodType": "DAY",
-    "actual": null,
-    "revised": null,
+    "actual": 197.0,
+    "revised": 198.0,
     "consensus": 201.0,
-    "ratioDeviation": null,
+    "ratioDeviation": -0.83,
     "previous": 196.0,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": true,
     "name": "Initial Jobless Claims",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -57,16 +57,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1790071240,
+    "lastUpdated": 1790253051,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7.4,
       "isVotingMember": true,
-      "averageScore": 7.7
+      "averageScore": 7.6
     },
     "isScoreTrackable": true,
     "id": "0a4c651a-147a-415b-a96c-2d139c31ddae",
@@ -98,9 +98,9 @@
   },
   {
     "speech": {
-      "score": null,
+      "score": 8.1,
       "isVotingMember": true,
-      "averageScore": 6
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "89e168f3-dbc4-4aa8-9ba2-fd8c9a86c8e0",
@@ -125,7 +125,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1789117412,
+    "lastUpdated": 1790255040,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -137,8 +137,8 @@
     "dateUtc": "2026-09-24T14:00:00Z",
     "periodDateUtc": "2026-08-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": 6.4,
+    "revised": -4.3,
     "consensus": null,
     "ratioDeviation": null,
     "previous": -10.5,
@@ -154,7 +154,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1787666483,
+    "lastUpdated": 1790259126,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true

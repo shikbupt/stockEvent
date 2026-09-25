@@ -36,7 +36,7 @@
     "periodDateUtc": "2026-09-01T00:00:00Z",
     "periodType": "MONTH",
     "actual": null,
-    "revised": null,
+    "revised": 1.403,
     "consensus": null,
     "ratioDeviation": null,
     "previous": 1.394,
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1789648228,
+    "lastUpdated": 1790252101,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
