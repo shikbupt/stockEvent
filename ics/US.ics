@@ -7039,6 +7039,14 @@ UID:4b4a258c-07b2-4107-b8e4-335180759526
 URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20261225T160000Z
+DTSTART:20261225T150000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:695bfaea-7a45-4204-89ff-aad50ec59eca
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260225T143000Z
 DTSTART:20260225T133000Z
