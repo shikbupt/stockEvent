@@ -136,6 +136,14 @@ UID:240a5d56-e79c-4889-a204-2ceb275ee9bd
 URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261228T005000Z
+DTSTART:20261227T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
+UID:7468ae82-a627-47ad-a916-750dd8432bd4
+URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260522T003000Z
 DTSTART:20260521T233000Z
@@ -1674,6 +1682,14 @@ UID:9ee3f9d9-cef8-433c-9e69-f93cb6ba3717
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261228T005000Z
+DTSTART:20261227T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
+UID:a4916511-a0ee-45a9-af95-b4b9e84133ef
+URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20261105T005000Z
 DTSTART:20261104T235000Z
@@ -1728,6 +1744,14 @@ DTSTART:20261218T063000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Press Conference
 UID:39c1b2a8-8eca-442c-80f4-c18ec32ac5aa
 URL:https://www.fxstreet.com/economic-calendar/event/e01c7f18-22ff-47ff-94ac-a458f2054295
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20261228T005000Z
+DTSTART:20261227T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
+UID:f2dd832c-4a95-4777-9502-4f5a8cc032da
+URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
