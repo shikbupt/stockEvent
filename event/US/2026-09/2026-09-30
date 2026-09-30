@@ -8,7 +8,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": 72.0,
+    "consensus": 70.0,
     "ratioDeviation": null,
     "previous": 38.0,
     "isBetterThanExpected": null,
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1790582454,
+    "lastUpdated": 1790697650,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -66,7 +66,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": 3.4,
+    "consensus": 3.3,
     "ratioDeviation": null,
     "previous": 3.3,
     "isBetterThanExpected": null,
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1790330440,
+    "lastUpdated": 1790697650,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
@@ -327,7 +327,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": 51.0,
+    "consensus": 51.2,
     "ratioDeviation": null,
     "previous": 47.1,
     "isBetterThanExpected": null,
@@ -342,7 +342,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1790582454,
+    "lastUpdated": 1790697650,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
@@ -385,7 +385,7 @@
     "speech": {
       "score": null,
       "isVotingMember": false,
-      "averageScore": 6.4
+      "averageScore": 6.7
     },
     "isScoreTrackable": true,
     "id": "2a76b27e-43cc-41d2-a3de-c78d4fd7c311",
@@ -410,7 +410,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1789739580,
+    "lastUpdated": 1790704989,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

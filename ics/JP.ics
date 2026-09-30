@@ -2318,6 +2318,14 @@ UID:86094414-1239-45e8-beb8-e200ce1be7c7
 URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20261229T003000Z
+DTSTART:20261228T233000Z
+SUMMARY:🇯🇵👷💼-🟡-Unemployment Rate
+UID:3053aaa5-7ec9-4ec4-98cd-b977fc9f8fb6
+URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28f10a0a335
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20261218T003000Z
 DTSTART:20261217T233000Z

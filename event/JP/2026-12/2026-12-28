@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "3053aaa5-7ec9-4ec4-98cd-b977fc9f8fb6",
+    "eventId": "b892c6ef-e1d0-4944-9ee1-e28f10a0a335",
+    "dateUtc": "2026-12-28T23:30:00Z",
+    "periodDateUtc": "2026-11-01T00:00:00Z",
+    "periodType": "MONTH",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Unemployment Rate",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": "%",
+    "potency": "ZERO",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1762851810,
+    "previousIsPreliminary": false,
+    "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  }
+]
