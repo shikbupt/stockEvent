@@ -1333,6 +1333,13 @@ UID:7801e041-e0ca-458d-9d31-7315f700241f
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--New Year's Day
+UID:99f681c0-ee03-4d00-b75c-b5930826f33d
+URL:https://www.fxstreet.com/economic-calendar/event/36590f2e-18a8-4575-8794-39cf65bc6fb0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20261214T005000Z
 DTSTART:20261213T235000Z
@@ -1395,6 +1402,14 @@ DTSTART:20261001T233000Z
 SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
 UID:28c07540-929a-4ccb-998f-fd7f6fac4bd8
 URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261015T023000Z
+DTSTART:20261015T013000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Koeda speech
+UID:6da72dfc-68fe-45ee-9af1-26dd27791c9c
+URL:https://www.fxstreet.com/economic-calendar/event/9d82e0d7-d625-4a85-997b-6941d5cae747
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
