@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": 7.2,
+      "isVotingMember": null,
+      "averageScore": 7.2
+    },
+    "isScoreTrackable": true,
+    "id": "bdafe2d7-7aca-4ac1-9e93-e923c5a94ae8",
+    "eventId": "d95b6cce-ffc5-405a-a1ed-aada3bbb22ea",
+    "dateUtc": "2026-10-05T01:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ's Uchida speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1791181202,
+    "previousIsPreliminary": null,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]

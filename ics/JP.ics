@@ -815,6 +815,14 @@ UID:f97876b7-9520-4363-905c-d1a055d3d7c9
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261005T023000Z
+DTSTART:20261005T013000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Uchida speech
+UID:bdafe2d7-7aca-4ac1-9e93-e923c5a94ae8
+URL:https://www.fxstreet.com/economic-calendar/event/d95b6cce-ffc5-405a-a1ed-aada3bbb22ea
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260209T005000Z
 DTSTART:20260208T235000Z
