@@ -2678,8 +2678,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
-DTEND:20261022T150000Z
-DTSTART:20261022T140000Z
+DTEND:20261020T150000Z
+DTSTART:20261020T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:429976d3-2a02-4580-b407-2c669cc85153
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
@@ -6542,6 +6542,14 @@ DTSTART:20260226T150000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Bowman speech
 UID:de6b095d-6e27-4f41-b603-30697ef93133
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.4
+DTEND:20261008T093000Z
+DTSTART:20261008T083000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
+UID:89359544-76ed-4f52-ab5b-4ff5226a670b
+URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks

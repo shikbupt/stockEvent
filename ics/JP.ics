@@ -647,6 +647,14 @@ UID:2522be0c-c715-4b88-890e-365a2da2c758
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261006T073500Z
+DTSTART:20261006T063500Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:1fb9ab5b-b7a4-46db-ac1f-f482c8a8e9e5
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260227T005000Z
 DTSTART:20260226T235000Z
