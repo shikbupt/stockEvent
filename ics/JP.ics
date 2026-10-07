@@ -2168,6 +2168,14 @@ UID:9560be50-5920-4977-9e63-4e9f0683f3eb
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261007T003000Z
+DTSTART:20261006T233000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Sato speech
+UID:56c34d47-0453-423d-a688-2f772e20aa0c
+URL:https://www.fxstreet.com/economic-calendar/event/33f5c4d6-ae55-408b-b7e9-ee97d74edcd4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20261201T003000Z
 DTSTART:20261130T233000Z
