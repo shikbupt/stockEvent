@@ -6664,6 +6664,14 @@ UID:2d0bbcd3-6092-48de-86d7-023f244e4ca0
 URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270105T160000Z
+DTSTART:20270105T150000Z
+SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
+UID:6acaa0c9-2418-4f73-968e-c6237bfd449c
+URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-7
 DTEND:20261209T203000Z
 DTSTART:20261209T193000Z
