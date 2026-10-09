@@ -1,9 +1,9 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 8,
       "isVotingMember": true,
-      "averageScore": 6.4
+      "averageScore": 7.2
     },
     "isScoreTrackable": true,
     "id": "89359544-76ed-4f52-ab5b-4ff5226a670b",
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1791185592,
+    "lastUpdated": 1791448621,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -40,12 +40,12 @@
     "dateUtc": "2026-10-08T12:30:00Z",
     "periodDateUtc": "2026-10-02T00:00:00Z",
     "periodType": "DAY",
-    "actual": null,
-    "revised": null,
+    "actual": 197.0,
+    "revised": 199.0,
     "consensus": 200.0,
-    "ratioDeviation": null,
+    "ratioDeviation": -0.63,
     "previous": 197.0,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": true,
     "name": "Initial Jobless Claims",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -57,16 +57,50 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1791194415,
+    "lastUpdated": 1791462636,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
+      "isVotingMember": true,
+      "averageScore": 6
+    },
+    "isScoreTrackable": true,
+    "id": "d051451b-5511-4e20-85e0-47c5fb82069b",
+    "eventId": "614a2826-c661-478a-a008-dd1ee06025ee",
+    "dateUtc": "2026-10-08T14:40:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Kashkari speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1791526789,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 7.3,
       "isVotingMember": false,
-      "averageScore": 7.4
+      "averageScore": 7.2
     },
     "isScoreTrackable": true,
     "id": "73398fea-be48-4b81-92b0-b65d4f0ab4db",
@@ -91,7 +125,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1790763314,
+    "lastUpdated": 1791526894,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
