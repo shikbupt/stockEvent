@@ -1856,6 +1856,14 @@ UID:dee3343e-eba5-4663-be24-1926176ce3d0
 URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270108T160000Z
+DTSTART:20270108T150000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:bb085c3f-e76c-468c-8e88-1e4512eca9e1
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260415T200000Z
 DTSTART:20260415T190000Z
@@ -2332,6 +2340,14 @@ DTSTART:20260625T123000Z
 SUMMARY:🇺🇸🏭📈-🟡-Durable Goods Orders ex Transportation
 UID:800f6109-d4c9-41e7-a730-07da8fc6c231
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270108T160000Z
+DTSTART:20270108T150000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:425d30d6-5fd7-4f03-b51c-c35f18f8dbf0
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -4134,6 +4150,14 @@ DTSTART:20261030T134500Z
 SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
 UID:bf21966a-d0a3-4fb8-99f5-17d9782bc949
 URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270108T160000Z
+DTSTART:20270108T150000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
+UID:744ee24d-ad3c-4701-86ec-4965b324a3f2
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -7883,6 +7907,14 @@ DTSTART:20260331T140000Z
 SUMMARY:🇺🇸👷💼-🟡-JOLTS Job Openings
 UID:277eb8ae-918f-4191-9b1f-bd48db6e495f
 URL:https://www.fxstreet.com/economic-calendar/event/9ba65d91-c2d2-4e4b-b6f3-dfe3677dc980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270108T160000Z
+DTSTART:20270108T150000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:0f94da05-4206-45a8-8ecf-18c168a5c79e
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
