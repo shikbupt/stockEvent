@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "0302045b-dd9e-4393-8504-5b21c5591f51",
+    "eventId": "1b0404fa-6615-4abe-bb50-b5eeeb4c6eb6",
+    "dateUtc": "2027-01-10T15:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Coming-of-Age Day",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1784297785,
+    "previousIsPreliminary": false,
+    "categoryId": "7dfaef86-c3fe-4e76-9421-8958cc2f9a0d",
+    "hasHistorical": true
+  }
+]

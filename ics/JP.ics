@@ -90,6 +90,13 @@ UID:6495778c-c8af-4e00-83bd-f0ddaf35916d
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270110
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--Coming-of-Age Day
+UID:0302045b-dd9e-4393-8504-5b21c5591f51
+URL:https://www.fxstreet.com/economic-calendar/event/1b0404fa-6615-4abe-bb50-b5eeeb4c6eb6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260918T003000Z
 DTSTART:20260917T233000Z
@@ -2005,14 +2012,6 @@ UID:e7975cb5-8a4b-4348-bdee-d0142a496043
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20261006T073500Z
-DTSTART:20261006T063500Z
-SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
-UID:1fb9ab5b-b7a4-46db-ac1f-f482c8a8e9e5
-URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260220T003000Z
 DTSTART:20260219T233000Z
@@ -2371,6 +2370,14 @@ DTSTART:20260628T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
 UID:87c75f90-af0a-48bf-b69e-186868c77f29
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261013T053000Z
+DTSTART:20261013T043000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:fa6e4dc3-e06d-442c-855e-ba8715e16976
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

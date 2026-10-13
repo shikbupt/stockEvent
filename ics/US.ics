@@ -219,8 +219,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
 UID:1c247eab-2e2a-4393-ae9a-508ebd4d9b71
 URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
@@ -3830,7 +3830,7 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.5
 DTEND:20261016T043000Z
 DTSTART:20261016T033000Z
-SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Chair Warsh speech
+SUMMARY:🇺🇸🏛️⚖️-🔴-Fed's Chair Warsh speech
 UID:9b95ac95-5f53-4e75-a166-92c31e08beb0
 URL:https://www.fxstreet.com/economic-calendar/event/324a517e-e181-402c-a246-861e9f6f14b0
 END:VEVENT
@@ -3979,8 +3979,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:2241a1cd-eb29-4740-a28d-fc2b8cc813ef
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
@@ -5182,8 +5182,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
 UID:413c2200-8525-4383-82bf-4ef5dd268f1f
 URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
@@ -5284,7 +5284,7 @@ UID:e1ea145c-adc8-42b3-be5c-f5a874476f50
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.4
+DESCRIPTION:Category: Central Banks\n票委-7.5
 DTEND:20261015T213000Z
 DTSTART:20261015T203000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
@@ -5947,8 +5947,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
 UID:07858c98-100e-4b62-9aa5-0336b40cd1a7
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
@@ -6497,8 +6497,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-913
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
 UID:e8b79a49-8f95-4e08-b60f-c5367e1138b9
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
@@ -9433,8 +9433,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
-DTEND:20261030T133000Z
-DTSTART:20261030T123000Z
+DTEND:20261029T133000Z
+DTSTART:20261029T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
 UID:401e58cb-1252-4e02-9c2a-144d3ea169e1
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
@@ -9680,7 +9680,7 @@ UID:fa9d2122-3f65-41d6-a658-22edb792adae
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.4
+DESCRIPTION:Category: Central Banks\n票委-7.5
 DTEND:20261012T175000Z
 DTSTART:20261012T165000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
