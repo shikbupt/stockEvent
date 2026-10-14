@@ -530,6 +530,14 @@ UID:c65dc933-56d9-433d-8e51-e84b54c95765
 URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261013T120000Z
+DTSTART:20261013T110000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:00585187-054a-4bec-8240-9a6152298331
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261204T160000Z
 DTSTART:20261204T150000Z
@@ -1231,6 +1239,14 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇺🇸📅🎈--Presidents' Day
 UID:5568d4d6-5c99-4075-b6f6-8ae00f6c890f
 URL:https://www.fxstreet.com/economic-calendar/event/0b7aea38-0344-4a4d-8b56-7f8f76eab415
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-6.7
+DTEND:20261013T210000Z
+DTSTART:20261013T200000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
+UID:db10582f-f148-4d94-8dc6-104b541291f0
+URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582c4eb3705a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -3243,7 +3259,7 @@ UID:f728bde4-3887-460f-96bb-f9e78a7deccd
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.1
+DESCRIPTION:Category: Central Banks\n票委-6.7
 DTEND:20261013T084500Z
 DTSTART:20261013T074500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
@@ -8069,6 +8085,14 @@ UID:379299fb-8d97-4f84-ae27-5fd7c46f871d
 URL:https://www.fxstreet.com/economic-calendar/event/2bec3fa7-46ac-4427-8f64-9132fdddd232
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-5.8
+DTEND:20261013T190000Z
+DTSTART:20261013T180000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
+UID:455ec041-98d0-4890-aa3e-716078defe1c
+URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260904T133000Z
 DTSTART:20260904T123000Z
@@ -9298,8 +9322,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Politics
-DTEND:20261013T190000Z
-DTSTART:20261013T180000Z
+DTEND:20261014T190000Z
+DTSTART:20261014T180000Z
 SUMMARY:🇺🇸🌍🤝-🟡-Monthly Budget Statement
 UID:8292c36b-4806-4a20-9e73-0dc891fa5e5e
 URL:https://www.fxstreet.com/economic-calendar/event/cba6f39e-5566-4fc8-86b3-1d0771fd5e3b
