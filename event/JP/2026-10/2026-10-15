@@ -32,5 +32,39 @@
     "previousIsPreliminary": null,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 8.2,
+      "isVotingMember": true,
+      "averageScore": 8.2
+    },
+    "isScoreTrackable": true,
+    "id": "7d37a501-a346-4c18-9c8a-7271d40a3287",
+    "eventId": "9d82e0d7-d625-4a85-997b-6941d5cae747",
+    "dateUtc": "2026-10-15T05:50:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ's Koeda speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1792043981,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
   }
 ]
