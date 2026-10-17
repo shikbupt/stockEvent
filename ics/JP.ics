@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261016T130000Z
+DTSTART:20261016T120000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:0792f84e-a153-4cab-a338-450f601f1dd0
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260821T003000Z
 DTSTART:20260820T233000Z
@@ -1654,6 +1662,14 @@ DTSTART:20260916T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
 UID:c18dd204-e1a4-466a-9990-95314526db66
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261016T073500Z
+DTSTART:20261016T063500Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:f0f4def1-26a2-4b43-80a5-40377acdc087
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260319

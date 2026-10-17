@@ -3014,6 +3014,14 @@ UID:5f8162f8-16b9-401e-8820-271aee0d9539
 URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270114T143000Z
+DTSTART:20270114T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (MoM)
+UID:8b587f98-a24c-4fb3-9a02-2eac50afc7e2
+URL:https://www.fxstreet.com/economic-calendar/event/c28721ec-1bde-4fa5-bba7-86a3755288ca
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
 DESCRIPTION:Category: Holidays
 SUMMARY:🇺🇸📅🎈--Memorial Day
@@ -5564,6 +5572,14 @@ UID:4afb0b2a-a3b6-4d9e-894f-6a4788cd793d
 URL:https://www.fxstreet.com/economic-calendar/event/4212ccfd-7481-4bb7-a463-83ef68596f78
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270114T143000Z
+DTSTART:20270114T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index ex Food & Energy (MoM)
+UID:02c6975e-eef6-43d8-8b6a-c2f2ef1f3c4b
+URL:https://www.fxstreet.com/economic-calendar/event/4abee304-9984-47cf-80ab-dca1114165f5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20261203T160000Z
 DTSTART:20261203T150000Z
@@ -7349,6 +7365,14 @@ UID:b8fc2b34-6fdb-4a83-80cd-511b1beb9efb
 URL:https://www.fxstreet.com/economic-calendar/event/c28721ec-1bde-4fa5-bba7-86a3755288ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270114T143000Z
+DTSTART:20270114T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:5d24f77b-6de2-4790-b0a6-421e3c7041ae
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260715T133000Z
 DTSTART:20260715T123000Z
@@ -7467,6 +7491,14 @@ DTSTART:20260317T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:2c64fd12-f26f-402b-8003-4cb61cce58ab
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270114T143000Z
+DTSTART:20270114T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (YoY)
+UID:f997a3c2-69c3-4785-b3cf-0fd2365f6cbf
+URL:https://www.fxstreet.com/economic-calendar/event/6f846eaa-9a12-43ab-930d-f059069c6646
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -9606,6 +9638,14 @@ DTSTART:20260401T115000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Barkin speech
 UID:e9cc9c8e-b998-4cce-8cee-e5455adede76
 URL:https://www.fxstreet.com/economic-calendar/event/a384a045-94b1-4508-bd69-80a1f7931bf5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270114T143000Z
+DTSTART:20270114T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index ex Food & Energy (YoY)
+UID:d7916369-143f-4fc8-9ecd-a5a7cefb90c2
+URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f0835731d9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
