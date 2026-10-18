@@ -2862,6 +2862,14 @@ UID:ae80a45e-17f8-4737-bf4a-04bfc3a20be3
 URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fbc9c7711a8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270115T143000Z
+DTSTART:20270115T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
+UID:8433253b-360d-455f-83a7-6bf4dabb3ed4
+URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.6
 DTEND:20260527T090000Z
 DTSTART:20260527T080000Z
@@ -4903,6 +4911,14 @@ UID:9a318863-efa5-46fd-8337-c3a9249cea8b
 URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247306b4a2c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270115T151500Z
+DTSTART:20270115T141500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:d56b7f95-3cdd-47ab-92e8-c683cf088c92
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-3.8
 DTEND:20260508T121000Z
 DTSTART:20260508T111000Z
@@ -4925,6 +4941,14 @@ DTSTART:20260302T150000Z
 SUMMARY:🇺🇸👷💼-🟡-ISM Manufacturing Employment Index
 UID:051b2ef0-a900-41fa-90dd-9e815457d29e
 URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270115T143000Z
+DTSTART:20270115T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:121f2acd-118c-424c-a7eb-06803fceec6d
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -5299,6 +5323,14 @@ DTSTART:20260227T133000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
 UID:a92022d0-df6d-42c1-8d8f-104acdca46f6
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270115T143000Z
+DTSTART:20270115T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
+UID:2d3c413c-3bbb-4eba-9564-829cece732c8
+URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261126
@@ -9838,6 +9870,14 @@ DTSTART:20260612T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
 UID:3f3e2be7-db68-4c4f-aedc-1130e23f092d
 URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270115T143000Z
+DTSTART:20270115T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
+UID:27348f82-7923-4177-8e83-34e73837a646
+URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
