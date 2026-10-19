@@ -1777,13 +1777,6 @@ UID:20985000-ef97-46e2-a6cc-d18bbf03cb83
 URL:https://www.fxstreet.com/economic-calendar/event/583bbfd1-2cf5-4f17-823e-e5ce34f91f49
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:a07e6ac5-50fb-4ed1-8f83-ae563f7a278f
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20261015T133000Z
 DTSTART:20261015T123000Z
@@ -9511,13 +9504,6 @@ DTSTART:20261002T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Unemployment Rate
 UID:a2fbeb2f-013c-49cb-a03c-dc2c592cd48c
 URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DESCRIPTION:Category: Holidays
-SUMMARY:🇺🇸📅🎈--Columbus Day
-UID:0ac8900e-02b4-421c-a744-ad24866d4875
-URL:https://www.fxstreet.com/economic-calendar/event/9d84ea5c-7f2f-4d69-b7f2-358a1b78ee42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
