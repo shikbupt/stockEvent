@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "3bc61cb7-8016-4001-b37f-0b984aa35bdc",
+    "eventId": "35676bf7-7629-4dc0-ad1c-b7a43f703182",
+    "dateUtc": "2027-01-18T05:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Martin L. King's Birthday",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1769695900,
+    "previousIsPreliminary": false,
+    "categoryId": "7dfaef86-c3fe-4e76-9421-8958cc2f9a0d",
+    "hasHistorical": true
+  }
+]
