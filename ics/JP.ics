@@ -853,6 +853,14 @@ UID:cb340927-23a9-4767-ad17-3a7559f1ed2c
 URL:https://www.fxstreet.com/economic-calendar/event/313b7542-8991-4559-b265-03dd56264d8e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-8.2
+DTEND:20261021T053500Z
+DTSTART:20261021T043500Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Himino speech
+UID:ba6ea33d-c1da-4e61-a162-0b5d16f7d979
+URL:https://www.fxstreet.com/economic-calendar/event/a66e72c3-048a-4f02-9caa-496b7195ce85
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20261021T005000Z
 DTSTART:20261020T235000Z

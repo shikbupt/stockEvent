@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": 8.2,
+      "isVotingMember": true,
+      "averageScore": 8.2
+    },
+    "isScoreTrackable": true,
+    "id": "ba6ea33d-c1da-4e61-a162-0b5d16f7d979",
+    "eventId": "a66e72c3-048a-4f02-9caa-496b7195ce85",
+    "dateUtc": "2026-10-21T04:35:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ's Himino speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1792557643,
+    "previousIsPreliminary": null,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]
