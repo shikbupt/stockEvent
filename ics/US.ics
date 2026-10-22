@@ -5072,13 +5072,6 @@ UID:1e99c89e-29bf-4d74-bc74-858e7b7b995b
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:b724b18d-2303-49f0-9c5b-314211a7cb9c
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260930T144500Z
 DTSTART:20260930T134500Z
@@ -6212,6 +6205,14 @@ UID:f119f9dc-d28e-4629-9109-56471d67d16b
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20270119T143000Z
+DTSTART:20270119T133000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Housing Starts (MoM)
+UID:e1145c6c-f6e9-447e-83d9-19f0f48773aa
+URL:https://www.fxstreet.com/economic-calendar/event/261824a0-be7a-4f51-acbf-376b543acc83
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260603T144500Z
 DTSTART:20260603T134500Z
@@ -7279,6 +7280,14 @@ UID:6c2ff190-2fe0-4813-8abb-520d9a099371
 URL:https://www.fxstreet.com/economic-calendar/event/5085ec6f-0c90-43d0-83f0-b936a41da1e7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270119T141500Z
+DTSTART:20270119T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:294bc416-09a2-4058-bf19-af57c038bdd7
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.4
 DTEND:20260306T161500Z
 DTSTART:20260306T151500Z
@@ -7461,6 +7470,14 @@ DTSTART:20261029T123000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
 UID:2e90a491-2097-47bd-92fe-5d4fde8c5c2c
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20270119T143000Z
+DTSTART:20270119T133000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
+UID:ebc22175-d069-4d30-bb14-35588caf2409
+URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
