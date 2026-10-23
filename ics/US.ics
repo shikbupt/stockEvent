@@ -3884,14 +3884,6 @@ UID:d6c72528-7521-4397-8961-a382924bf061
 URL:https://www.fxstreet.com/economic-calendar/event/932c21fa-f664-40e1-a921-dbeb452f0081
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.1
-DTEND:20261016T043000Z
-DTSTART:20261016T033000Z
-SUMMARY:🇺🇸🏛️⚖️-🔴-Fed's Chair Warsh speech
-UID:9b95ac95-5f53-4e75-a166-92c31e08beb0
-URL:https://www.fxstreet.com/economic-calendar/event/324a517e-e181-402c-a246-861e9f6f14b0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260715T133000Z
 DTSTART:20260715T123000Z
@@ -4152,13 +4144,6 @@ DTSTART:20261002T123000Z
 SUMMARY:🇺🇸👷💼-🔴-Average Hourly Earnings (YoY)
 UID:a0485df5-8fd5-477b-9a61-0daad1abde41
 URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Category: Politics
-SUMMARY:🇺🇸🌍🤝-🟡-IMF Meeting
-UID:e66bf6f6-db63-4051-91fc-9eebc0f2972e
-URL:https://www.fxstreet.com/economic-calendar/event/0d332666-9d39-47d6-9986-97de648c52eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
