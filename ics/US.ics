@@ -2608,6 +2608,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
+DTEND:20270121T160000Z
+DTSTART:20270121T150000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
+UID:0a720d86-4156-46e0-953a-2ff598157a75
+URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
 DTEND:20260218T143000Z
 DTSTART:20260218T133000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Housing Starts (MoM)
@@ -5552,6 +5560,14 @@ UID:9fdf7484-15da-43d0-805c-284afdece3c3
 URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270121T143000Z
+DTSTART:20270121T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-Philadelphia Fed Manufacturing Survey
+UID:15ad13ea-5c2d-44df-b710-3c27a36ec8c9
+URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260701T103000Z
 DTSTART:20260701T093000Z
@@ -6302,6 +6318,14 @@ UID:18c44bb7-a1bb-4173-ab61-164d900bdb81
 URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20270121T160000Z
+DTSTART:20270121T150000Z
+SUMMARY:🇺🇸🏠🔑-🟡-Existing Home Sales Change (MoM)
+UID:c2753756-aec3-47d7-82ee-e3cd15b3de98
+URL:https://www.fxstreet.com/economic-calendar/event/077378bd-22f0-402c-9db2-4d0d9c86181a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260217T145000Z
 DTSTART:20260217T135000Z
@@ -6850,6 +6874,14 @@ UID:4ea48727-73b6-46c7-a997-141e065f814b
 URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261030T173000Z
+DTSTART:20261030T163000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:6addb140-c8b2-426d-acba-f34fb1d9df10
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260825T131500Z
 DTSTART:20260825T121500Z
@@ -7303,6 +7335,14 @@ DTSTART:20261009T140000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
 UID:25bed085-7106-40a7-af6e-ffe204040362
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270121T143000Z
+DTSTART:20270121T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:74073b65-4ff4-4d2a-8630-9b5a08c8d59a
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market

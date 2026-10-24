@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": null,
+      "averageScore": 7.3
+    },
+    "isScoreTrackable": true,
+    "id": "4086b1ac-46a9-4115-8e77-e3e8310f65b4",
+    "eventId": "f43e2f79-c8bf-4566-ae97-bf3ba0048afb",
+    "dateUtc": "2026-11-06T16:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ Governor Ueda speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "HIGH",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1792761134,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]
