@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792756834,
+    "lastUpdated": 1793008847,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true
@@ -113,6 +113,40 @@
     "lastUpdated": 1792413953,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": true,
+      "averageScore": 7.6
+    },
+    "isScoreTrackable": true,
+    "id": "fa8667ec-dcbd-4984-8017-ea6588328d56",
+    "eventId": "c707d7d3-5893-48c2-bfa1-b816e622ea42",
+    "dateUtc": "2026-11-05T13:50:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Hammack speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1793022161,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   }
 ]

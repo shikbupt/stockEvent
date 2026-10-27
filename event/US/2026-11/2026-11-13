@@ -114,5 +114,39 @@
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": false,
+      "averageScore": 6.1
+    },
+    "isScoreTrackable": true,
+    "id": "03c2e6a2-5ce4-4e7c-9609-f34d62682565",
+    "eventId": "83887e19-1352-453f-96e9-7406bc598f40",
+    "dateUtc": "2026-11-13T17:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Daly speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1793021961,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
   }
 ]
