@@ -9510,6 +9510,14 @@ UID:a3b1c9af-677b-459b-8f74-85a6bc34c116
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Housing Market
+DTEND:20270125T160000Z
+DTSTART:20270125T150000Z
+SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
+UID:6d2c0b25-9464-415b-92e8-0af92495dd66
+URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260907
 DESCRIPTION:Category: Holidays
 SUMMARY:🇺🇸📅🎈--Labor Day
