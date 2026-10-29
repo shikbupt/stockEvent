@@ -3332,6 +3332,14 @@ UID:385f661e-b1a9-4a6a-8e18-402652533314
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270126T160000Z
+DTSTART:20270126T150000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Consumer Confidence
+UID:136a40fa-ca98-4d10-8bca-826edfc36221
+URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-7.3
 DTEND:20260603T200000Z
 DTSTART:20260603T190000Z
@@ -3554,6 +3562,14 @@ DTSTART:20261102T150000Z
 SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
 UID:597320fe-e056-46b2-a6d0-4927beefb4e0
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270126T141500Z
+DTSTART:20270126T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:a0c4dbeb-d628-4c55-91df-344098c11ef0
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-7
@@ -6650,6 +6666,14 @@ DTSTART:20260601T140000Z
 SUMMARY:🇺🇸🏭📈-🔴-ISM Manufacturing PMI
 UID:792b5152-5018-480e-859b-e8e8597daecd
 URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2034d4fade
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270126T150000Z
+DTSTART:20270126T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
+UID:771a3317-dce5-40ca-b335-a3ce06ddb90d
+URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
