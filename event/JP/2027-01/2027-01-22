@@ -86,7 +86,7 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1793317202,
+    "lastUpdated": 1793348933,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -95,7 +95,7 @@
     "speech": {
       "score": null,
       "isVotingMember": null,
-      "averageScore": 8.2
+      "averageScore": 7.7
     },
     "isScoreTrackable": true,
     "id": "7c4e00a2-e0f3-492b-85d9-082887b85f1f",

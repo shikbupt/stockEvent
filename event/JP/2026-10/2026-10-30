@@ -1,9 +1,9 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 8.2,
       "isVotingMember": null,
-      "averageScore": null
+      "averageScore": 8.2
     },
     "isScoreTrackable": true,
     "id": "240a5d56-e79c-4889-a204-2ceb275ee9bd",
@@ -28,7 +28,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1793317209,
+    "lastUpdated": 1793348953,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1793317202,
+    "lastUpdated": 1793348933,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -86,16 +86,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1793329399,
+    "lastUpdated": 1793348943,
     "previousIsPreliminary": false,
     "categoryId": "9c4a731a-d993-4d55-89f3-dc707cc1d596",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7.2,
       "isVotingMember": null,
-      "averageScore": 8.2
+      "averageScore": 7.7
     },
     "isScoreTrackable": true,
     "id": "1f6e45de-03bd-457d-89d8-72142aa32639",
