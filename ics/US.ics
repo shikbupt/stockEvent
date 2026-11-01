@@ -674,6 +674,14 @@ UID:327a2365-a1ac-4567-b2ba-2dad26b47ef1
 URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Employment Cost Index
+UID:5f95f1dc-f21f-48a3-a23f-c79e5fd071d8
+URL:https://www.fxstreet.com/economic-calendar/event/e620bb5a-1940-4e56-9a96-ca279a85e57f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.6
 DTEND:20260918T083000Z
 DTSTART:20260918T073000Z
@@ -2624,6 +2632,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/2e1d69f3-8273-4096-b01b-8d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (YoY)
+UID:a6be6618-5c33-4c16-ba1a-9a022191687f
+URL:https://www.fxstreet.com/economic-calendar/event/f3ea3723-c2de-4332-b7a5-1ba539bea3f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260814T150000Z
 DTSTART:20260814T140000Z
 SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
@@ -3362,6 +3378,14 @@ DTSTART:20261013T074500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
 UID:385f661e-b1a9-4a6a-8e18-402652533314
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Personal Spending
+UID:75d0a76c-db0b-4f2b-acd8-6b892d2aca46
+URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
@@ -5616,6 +5640,14 @@ UID:46809dc6-7408-4e18-b5d4-a7663e725c72
 URL:https://www.fxstreet.com/economic-calendar/event/aec78791-08e0-4e06-b331-bbe5b34f879b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Personal Consumption Expenditures - Price Index (MoM)
+UID:f2f88849-79db-41ae-b45c-2c420d8f5e93
+URL:https://www.fxstreet.com/economic-calendar/event/7da4ac8a-2918-4b66-a532-a6db0b6ce4fe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260806T223000Z
 DTSTART:20260806T213000Z
@@ -6013,6 +6045,14 @@ DTSTART:20260826T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
 UID:82803e88-0e44-47f8-915f-b8caeeb11b1d
 URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270129T154500Z
+DTSTART:20270129T144500Z
+SUMMARY:🇺🇸🏭📈-🟡-Chicago PMI
+UID:1f4a3fff-939e-4e4a-9329-32ba67b982e4
+URL:https://www.fxstreet.com/economic-calendar/event/b8e4183b-5db5-4994-878a-584f6130bb41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6
@@ -8625,6 +8665,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/c3e32c5d-7b1d-4b52-8a13-2fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (MoM)
+UID:19522570-11f3-46b1-b198-d3fd9fc4ab4b
+URL:https://www.fxstreet.com/economic-calendar/event/5d9ff5c8-1e0e-44b8-8d06-4ac39d217bf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260410T133000Z
 DTSTART:20260410T123000Z
 SUMMARY:🇺🇸💵🚀-🔴-Consumer Price Index (MoM)
@@ -9229,6 +9277,14 @@ DTSTART:20260715T180000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Beige Book
 UID:20627bc9-62ab-4581-9656-8460b8ef4dd6
 URL:https://www.fxstreet.com/economic-calendar/event/b9515da1-d4f6-4f7f-aa58-c3eb2cefe699
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Personal Income (MoM)
+UID:777da7ae-a4aa-4be2-8cbd-65f84c3c21bb
+URL:https://www.fxstreet.com/economic-calendar/event/4e5451a7-1e3b-4f83-8196-6ddba0ac6580
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -10003,6 +10059,14 @@ DTSTART:20260615T131500Z
 SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
 UID:eccf9c46-71bb-4a1b-976b-9bc8df3c7e06
 URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270129T143000Z
+DTSTART:20270129T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Core Personal Consumption Expenditures - Price Index (YoY)
+UID:f9ed2f83-9c52-4096-83d6-e79f61bfe4ea
+URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
