@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": null,
+      "isVotingMember": null,
+      "averageScore": null
+    },
+    "isScoreTrackable": true,
+    "id": "888a2f71-99ec-4a3d-b1dd-0f0cef90187f",
+    "eventId": "343fc0a2-2e77-4dd7-bf24-1e40f5371ab7",
+    "dateUtc": "2026-11-16T04:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "BoJ's Takata speech",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1793627391,
+    "previousIsPreliminary": null,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]

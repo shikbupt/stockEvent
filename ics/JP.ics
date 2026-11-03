@@ -629,6 +629,14 @@ UID:240a5d56-e79c-4889-a204-2ceb275ee9bd
 URL:https://www.fxstreet.com/economic-calendar/event/b8f4149d-5c7f-4395-b9d8-3102c59ce3db
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270201T005000Z
+DTSTART:20270131T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
+UID:cbdbe3e0-d55b-44d2-8c10-ceb06276beba
+URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20261002T003000Z
 DTSTART:20261001T233000Z
@@ -915,6 +923,14 @@ DTSTART:20260429T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
 UID:3f66f789-e974-41db-ae90-9baa497fb7a0
 URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261116T050000Z
+DTSTART:20261116T040000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Takata speech
+UID:888a2f71-99ec-4a3d-b1dd-0f0cef90187f
+URL:https://www.fxstreet.com/economic-calendar/event/343fc0a2-2e77-4dd7-bf24-1e40f5371ab7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1910,6 +1926,14 @@ UID:06465f82-100c-4cb3-a6c5-33cbf68b84a7
 URL:https://www.fxstreet.com/economic-calendar/event/18173e64-93d5-4110-8bf5-7ec250f8e8a5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270201T005000Z
+DTSTART:20270131T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
+UID:1a750efa-d116-4f2d-9e9b-f9c4ab47dbba
+URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260227T003000Z
 DTSTART:20260226T233000Z
@@ -2258,6 +2282,14 @@ DTSTART:20261020T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:78c2fde4-2215-44b8-ada3-36b90485881c
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270201T005000Z
+DTSTART:20270131T235000Z
+SUMMARY:🇯🇵🛍️💳-🟡-Large Retailer Sales
+UID:10ea9cd5-3d40-48f6-8c1a-339b2dc23bfa
+URL:https://www.fxstreet.com/economic-calendar/event/06941439-9d52-4c0d-8d16-d64c86f98c8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
