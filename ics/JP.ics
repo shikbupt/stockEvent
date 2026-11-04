@@ -766,6 +766,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20261118T005000Z
+DTSTART:20261117T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:37602ca6-9d42-4a43-b2e9-8412fcd8add6
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20261119T005000Z
 DTSTART:20261118T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
@@ -1714,6 +1722,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/b892c6ef-e1d0-4944-9ee1-e28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
+DTEND:20261118T005000Z
+DTSTART:20261117T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
 DTEND:20261119T005000Z
 DTSTART:20261118T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
@@ -2066,6 +2082,14 @@ DTSTART:20261020T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:3bb1cb75-6dd2-4bea-9ec8-c5d3ddd97676
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261118T005000Z
+DTSTART:20261117T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -2609,6 +2633,14 @@ DTSTART:20260930T235000Z
 SUMMARY:🇯🇵🏭📈-🔴-Tankan Large Manufacturing Index
 UID:deafc9c6-01be-41ed-b3b4-d7f66b6a1e89
 URL:https://www.fxstreet.com/economic-calendar/event/feb3bf60-1d35-4ef7-828a-4272587d88bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20261118T005000Z
+DTSTART:20261117T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:75cf18c1-58c2-441d-97d5-597d2bb65d3b
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
