@@ -1,7 +1,7 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": null,
       "averageScore": 7.3
     },

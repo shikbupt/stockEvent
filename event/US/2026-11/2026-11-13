@@ -8,7 +8,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 0.4,
     "ratioDeviation": null,
     "previous": 1.3,
     "isBetterThanExpected": null,
@@ -23,7 +23,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792068469,
+    "lastUpdated": 1793966410,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
@@ -66,7 +66,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 0.3,
     "ratioDeviation": null,
     "previous": 0.7,
     "isBetterThanExpected": null,
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792067411,
+    "lastUpdated": 1793966411,
     "previousIsPreliminary": false,
     "categoryId": "33303f5e-1e3c-4016-ab2d-ac87e98f57ca",
     "hasHistorical": true
@@ -118,8 +118,42 @@
   {
     "speech": {
       "score": null,
+      "isVotingMember": true,
+      "averageScore": 5.9
+    },
+    "isScoreTrackable": true,
+    "id": "84d4b4ff-3f55-4a31-83a3-e88926159ce1",
+    "eventId": "2bec3fa7-46ac-4427-8f64-9132fdddd232",
+    "dateUtc": "2026-11-13T15:50:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Bowman speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1793973004,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": null,
       "isVotingMember": false,
-      "averageScore": 6.1
+      "averageScore": 6.4
     },
     "isScoreTrackable": true,
     "id": "03c2e6a2-5ce4-4e7c-9609-f34d62682565",
@@ -144,7 +178,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1793021961,
+    "lastUpdated": 1793971647,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
