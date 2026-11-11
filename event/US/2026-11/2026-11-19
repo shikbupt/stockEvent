@@ -61,7 +61,7 @@
     "speech": {
       "score": null,
       "isVotingMember": false,
-      "averageScore": 6.7
+      "averageScore": 6.8
     },
     "isScoreTrackable": true,
     "id": "ac8c385e-7a49-407e-98ee-467d9ad2b959",
@@ -86,7 +86,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1793626873,
+    "lastUpdated": 1794355324,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -95,7 +95,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 7.1
+      "averageScore": 7.6
     },
     "isScoreTrackable": true,
     "id": "55a0d0ae-95a2-4f94-a5c1-abc01bce4e97",

@@ -74,6 +74,14 @@ UID:27ef4cb9-e37f-464c-b706-c5e7cb9b475b
 URL:https://www.fxstreet.com/economic-calendar/event/c707d7d3-5893-48c2-bfa1-b816e622ea42
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261110T200000Z
+DTSTART:20261110T190000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Schmid speech
+UID:f2c79e5e-0a4b-4c81-bf24-4653687eeaa0
+URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8effdcf8857
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20270201T160000Z
 DTSTART:20270201T150000Z
@@ -1018,7 +1026,7 @@ UID:1e88510f-ece0-4fd4-b6c7-d079bfdcc650
 URL:https://www.fxstreet.com/economic-calendar/event/5085ec6f-0c90-43d0-83f0-b936a41da1e7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.1
+DESCRIPTION:Category: Central Banks\n票委-7.6
 DTEND:20261111T003000Z
 DTSTART:20261110T233000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Paulson speech
@@ -3183,6 +3191,14 @@ UID:d6f0cf6c-586d-4a8a-8e23-252c8969afee
 URL:https://www.fxstreet.com/economic-calendar/event/85c6fa5f-a497-4f0d-a73f-648c6c837b4d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-8.1
+DTEND:20261110T164500Z
+DTSTART:20261110T154500Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Logan speech
+UID:31bf639c-eac2-4aad-a7d6-b1344c7080fc
+URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.9
 DTEND:20261106T181500Z
 DTSTART:20261106T171500Z
@@ -4378,7 +4394,7 @@ UID:1d5bc4a5-3c2d-4f7d-a836-b2102ce5ae37
 URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.6
+DESCRIPTION:Category: Central Banks\n票委-7.3
 DTEND:20261110T100000Z
 DTSTART:20261110T090000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
@@ -7761,7 +7777,7 @@ UID:435eda76-2a80-4b67-b056-c2bbac99285d
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.1
+DESCRIPTION:Category: Central Banks\n票委-7.6
 DTEND:20261120T003000Z
 DTSTART:20261119T233000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Paulson speech
@@ -10164,6 +10180,14 @@ DTSTART:20260728T130000Z
 SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
 UID:424a9b5d-407f-4e02-a4ce-cac92ced2744
 URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261111T004000Z
+DTSTART:20261110T234000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
+UID:6adf2580-8823-48ef-a9b8-9379c031b02a
+URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
