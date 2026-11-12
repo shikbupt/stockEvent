@@ -98,6 +98,14 @@ UID:2205b8a3-bb5a-4b1c-9f09-1d00484257aa
 URL:https://www.fxstreet.com/economic-calendar/event/f9978a1f-510f-4a64-895c-6ca8f13d4522
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270209T141500Z
+DTSTART:20270209T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:8cb153b9-cb58-4b13-98ee-1a28963006cf
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Interest Rates
 DTEND:20260429T190000Z
 DTSTART:20260429T180000Z
@@ -6957,6 +6965,14 @@ UID:ae9d410c-360e-4fed-8fc8-d9569f4558b8
 URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261117T133000Z
+DTSTART:20261117T123000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Musalem speech
+UID:65773232-33de-4cc7-90b7-26dbb792b924
+URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Category: Central Banks
 SUMMARY:🇺🇸🏛️⚖️-🔴-Jackson Hole Symposium
@@ -10268,6 +10284,14 @@ DTSTART:20260923T134500Z
 SUMMARY:🇺🇸🏭📈-🟡-S&P Global Composite PMI
 UID:4bcb1e02-72f0-42d1-867b-85958e546228
 URL:https://www.fxstreet.com/economic-calendar/event/ac172f6c-6b25-4a45-a986-c96789740c8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261112T193000Z
+DTSTART:20261112T183000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Schmid speech
+UID:41ca579d-014c-4cc5-bc9d-851d72692c71
+URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8effdcf8857
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Politics

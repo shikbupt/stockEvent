@@ -1467,6 +1467,14 @@ UID:9038a6c0-f6f8-4d3a-b75e-b1d9cb05eb52
 URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261112T025000Z
+DTSTART:20261112T015000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Asada speech
+UID:c3f978fa-abee-4101-926b-48530cc232e3
+URL:https://www.fxstreet.com/economic-calendar/event/a362919e-c319-4ff7-8980-783903662230
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260820T005000Z
 DTSTART:20260819T235000Z
@@ -1632,6 +1640,14 @@ DTSTART:20260330T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade s.a (MoM)
 UID:1d881e98-c76b-4ac5-bbea-e6f5e6275e76
 URL:https://www.fxstreet.com/economic-calendar/event/739f8d1c-2b56-423b-80dc-163e6836d3e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-3.8
+DTEND:20261112T064500Z
+DTSTART:20261112T054500Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Asada speech
+UID:bc8b9c0b-0905-4b72-8275-2755835c7ec8
+URL:https://www.fxstreet.com/economic-calendar/event/a362919e-c319-4ff7-8980-783903662230
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
