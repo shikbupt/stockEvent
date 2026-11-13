@@ -50,7 +50,7 @@ UID:29fc23ed-2699-40bb-a0e4-8b87de2111b8
 URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.9
+DESCRIPTION:Category: Central Banks\n票委-6.1
 DTEND:20261117T202500Z
 DTSTART:20261117T192500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -690,7 +690,7 @@ UID:a79bde83-445d-4ddd-8345-60674bcd0104
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.4
+DESCRIPTION:Category: Central Banks\n票委-6.1
 DTEND:20261113T003000Z
 DTSTART:20261112T233000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -2583,7 +2583,7 @@ UID:b09590d2-def1-4e53-a19f-a8cfd91acccf
 URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.6
+DESCRIPTION:Category: Central Banks\n票委-7.7
 DTEND:20261117T153000Z
 DTSTART:20261117T143000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
@@ -4221,8 +4221,8 @@ URL:https://www.fxstreet.com/economic-calendar/event/fcfae951-09a7-449e-b6fe-525
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
-DTEND:20261112T173000Z
-DTSTART:20261112T163000Z
+DTEND:20261112T171500Z
+DTSTART:20261112T161500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Goolsbee speech
 UID:aa6d33ea-53f2-4be9-84a7-83b22bbe33d1
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
@@ -5936,7 +5936,7 @@ UID:34a93e33-5349-4067-be4c-8f9433b6bdee
 URL:https://www.fxstreet.com/economic-calendar/event/a25fb503-3399-4cb2-9c48-b335a966faf7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.9
+DESCRIPTION:Category: Central Banks\n票委-6.1
 DTEND:20261116T150500Z
 DTSTART:20261116T140500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -7905,7 +7905,7 @@ UID:28b447b9-60fb-451b-9c83-0373c800fe06
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.6
+DESCRIPTION:Category: Central Banks\n票委-7.7
 DTEND:20261112T150000Z
 DTSTART:20261112T140000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Hammack speech
@@ -10126,7 +10126,7 @@ UID:05ae36f0-1f02-4729-a7cb-d8de2581db77
 URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-5.9
+DESCRIPTION:Category: Central Banks\n票委-6.1
 DTEND:20261118T203000Z
 DTSTART:20261118T193000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech

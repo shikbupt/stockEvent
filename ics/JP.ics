@@ -1902,6 +1902,13 @@ UID:312b5837-57d5-43bb-9310-57674cdb025c
 URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--National Foundation Day
+UID:b11cccd2-3411-49f5-ac50-6ef10751d6b7
+URL:https://www.fxstreet.com/economic-calendar/event/1874bfa4-e8bb-4a5e-8b20-d96e9726fded
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260828T003000Z
 DTSTART:20260827T233000Z

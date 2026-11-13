@@ -71,7 +71,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 0.0,
     "ratioDeviation": null,
     "previous": 0.8,
     "isBetterThanExpected": null,
@@ -86,7 +86,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792067555,
+    "lastUpdated": 1794499229,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
@@ -129,7 +129,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 0.4,
     "ratioDeviation": null,
     "previous": 0.9,
     "isBetterThanExpected": null,
@@ -144,7 +144,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792067416,
+    "lastUpdated": 1794499229,
     "previousIsPreliminary": false,
     "categoryId": "e229c890-80fc-40f3-b6f4-b658f3a02635",
     "hasHistorical": true
@@ -158,7 +158,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 0.1,
     "ratioDeviation": null,
     "previous": 0.7,
     "isBetterThanExpected": null,
@@ -173,7 +173,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792156531,
+    "lastUpdated": 1794499228,
     "previousIsPreliminary": false,
     "categoryId": "24127f3b-edce-4dc4-afdf-0b3bd8a964be",
     "hasHistorical": true
@@ -182,7 +182,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 7.6
+      "averageScore": 7.7
     },
     "isScoreTrackable": true,
     "id": "9810e98b-c0a3-484b-90ce-d8e092641af9",
@@ -207,7 +207,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1793627605,
+    "lastUpdated": 1794494899,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -216,7 +216,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 5.9
+      "averageScore": 6.1
     },
     "isScoreTrackable": true,
     "id": "f9ee3899-ada2-4f1c-abaa-0b534ed926f8",

@@ -37,7 +37,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 1.23,
     "ratioDeviation": null,
     "previous": 1.221,
     "isBetterThanExpected": null,
@@ -52,7 +52,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1792499472,
+    "lastUpdated": 1794506419,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -119,7 +119,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 5.9
+      "averageScore": 6.1
     },
     "isScoreTrackable": true,
     "id": "7b0d9481-5e90-4e18-bb91-798e1b9e64d3",
