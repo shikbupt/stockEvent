@@ -933,6 +933,14 @@ UID:81804ad7-82ac-4a79-ba48-feb7db7365e7
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261130T020500Z
+DTSTART:20261130T010500Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:47bd7710-68d7-4b6c-ac7d-531b3be86ff0
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260430T005000Z
 DTSTART:20260429T235000Z
@@ -2273,6 +2281,14 @@ DTSTART:20260308T233000Z
 SUMMARY:🇯🇵👷💼-🟡-Labor Cash Earnings (YoY)
 UID:07cc62f4-22a9-4daa-adc3-c9c8a0bec9b7
 URL:https://www.fxstreet.com/economic-calendar/event/02a39051-34c7-41ba-a029-5c766dc2e302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261126T020000Z
+DTSTART:20261126T010000Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Tamura speech
+UID:d718b378-eff4-431e-8a09-9988f41d3575
+URL:https://www.fxstreet.com/economic-calendar/event/606d1c09-edbb-4477-991a-d37fb3251d00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
