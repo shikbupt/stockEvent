@@ -2097,6 +2097,14 @@ UID:8deb997c-f263-46a7-9943-8a890788adc1
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T143000Z
+DTSTART:20270212T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (MoM)
+UID:245eb830-dd32-46d2-8dcb-249f2753463d
+URL:https://www.fxstreet.com/economic-calendar/event/a4ee30f4-d722-45e1-90da-ac20acf9b6c3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260327T160000Z
 DTSTART:20260327T150000Z
@@ -3388,6 +3396,14 @@ UID:45df6d9f-d144-4565-b449-e0af73c41ad7
 URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T160000Z
+DTSTART:20270212T150000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 5-year Consumer Inflation Expectation
+UID:c4686b67-dabc-4786-902e-db0b4b409d43
+URL:https://www.fxstreet.com/economic-calendar/event/375f089e-b51b-4c95-9217-188bb36803f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6
 DTEND:20261008T154000Z
 DTSTART:20261008T144000Z
@@ -4498,6 +4514,14 @@ UID:d80ebb32-e9e3-4595-96c4-29789cd7f3ae
 URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T160000Z
+DTSTART:20270212T150000Z
+SUMMARY:🇺🇸💵🚀-🟡-UoM 1-year Consumer Inflation Expectations
+UID:69dbcbf7-bb23-4ebe-a3c3-ca26e3dee50f
+URL:https://www.fxstreet.com/economic-calendar/event/194c5bef-886a-48a1-aa8e-5ff4067c27ac
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20260514T133000Z
 DTSTART:20260514T123000Z
@@ -5473,6 +5497,14 @@ UID:878add9c-46df-4cab-bda5-11446daa8664
 URL:https://www.fxstreet.com/economic-calendar/event/39d601bc-6ca9-4561-8798-247306b4a2c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T143000Z
+DTSTART:20270212T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index ex Food & Energy (MoM)
+UID:f9898fb5-c2cf-4e46-91fa-2683c4ace34d
+URL:https://www.fxstreet.com/economic-calendar/event/af5d396d-eff7-4023-add2-5a208861e63d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260930T144500Z
 DTSTART:20260930T134500Z
@@ -6048,6 +6080,14 @@ UID:e025cb24-f5f5-4be2-8f59-c3c2f7a7b965
 URL:https://www.fxstreet.com/economic-calendar/event/6ea5ed9b-d9f0-4e87-8f81-7ec89b5e2f12
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270212T160000Z
+DTSTART:20270212T150000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Michigan Consumer Sentiment Index
+UID:711e7c80-db0f-4453-a4d1-9305d99d8991
+URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260625T133000Z
 DTSTART:20260625T123000Z
@@ -6238,6 +6278,14 @@ DTSTART:20260506T121500Z
 SUMMARY:🇺🇸👷💼-🔴-ADP Employment Change
 UID:924484ea-aa27-44c8-81e9-99c4e37e6378
 URL:https://www.fxstreet.com/economic-calendar/event/4f50e4f8-cd33-428b-b721-5fb620b7f097
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T143000Z
+DTSTART:20270212T133000Z
+SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
+UID:f9ae11a6-6e57-48ea-aa14-a6cf519e02d6
+URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -9759,6 +9807,14 @@ UID:cfb8e2e4-dedc-45b7-b09f-0ebc7bbbcb8c
 URL:https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270212T160000Z
+DTSTART:20270212T150000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Expectations Index
+UID:65684363-3cff-4430-ba07-283badd1e44f
+URL:https://www.fxstreet.com/economic-calendar/event/555f4f73-4d16-4817-b068-7a2f70e3fbc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260213T143000Z
 DTSTART:20260213T133000Z
@@ -10260,6 +10316,14 @@ DTSTART:20260903T123000Z
 SUMMARY:🇺🇸👷💼-🟡-Nonfarm Productivity
 UID:c44360b4-98f7-44ed-a10c-297b73346d53
 URL:https://www.fxstreet.com/economic-calendar/event/935af7fa-c58d-4541-ae15-95a42ecd980a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270212T143000Z
+DTSTART:20270212T133000Z
+SUMMARY:🇺🇸💵🚀-🔴-Producer Price Index ex Food & Energy (YoY)
+UID:65e1d11f-ac3e-4c6e-b062-559d84e1c400
+URL:https://www.fxstreet.com/economic-calendar/event/ae8bd4b2-1a5f-4b9f-9b9c-6df04d23faee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
