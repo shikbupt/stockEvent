@@ -1,7 +1,7 @@
 [
   {
     "speech": {
-      "score": null,
+      "score": 6.4,
       "isVotingMember": true,
       "averageScore": 6.5
     },
@@ -29,6 +29,40 @@
     "isReport": false,
     "isSpeech": true,
     "lastUpdated": 1794220530,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
+    "speech": {
+      "score": 7.2,
+      "isVotingMember": false,
+      "averageScore": 7
+    },
+    "isScoreTrackable": true,
+    "id": "1f079f74-64d9-430a-bd97-90ec08fd1adb",
+    "eventId": "455f3138-6593-483d-abfc-582c4eb3705a",
+    "dateUtc": "2026-11-14T14:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Collins speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1794780464,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

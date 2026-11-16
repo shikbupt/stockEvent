@@ -1194,6 +1194,14 @@ UID:9e23e555-97c2-4a8c-93cc-624dc57fe0ad
 URL:https://www.fxstreet.com/economic-calendar/event/f1507617-7378-4df3-88f1-c35ae395018a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261115T194000Z
+DTSTART:20261115T184000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Schmid speech
+UID:b2faabcc-fd67-412e-b4cf-27848e8b4db0
+URL:https://www.fxstreet.com/economic-calendar/event/52a4f9fb-270a-4f85-bd92-c8effdcf8857
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261027T150000Z
 DTSTART:20261027T140000Z
@@ -1583,6 +1591,14 @@ DTSTART:20260513T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
 UID:c1290f81-7acb-4d5a-9dd4-0acb7b278f57
 URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261114T153000Z
+DTSTART:20261114T143000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Collins speech
+UID:1f079f74-64d9-430a-bd97-90ec08fd1adb
+URL:https://www.fxstreet.com/economic-calendar/event/455f3138-6593-483d-abfc-582c4eb3705a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market

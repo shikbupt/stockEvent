@@ -1,0 +1,36 @@
+[
+  {
+    "speech": {
+      "score": 7,
+      "isVotingMember": false,
+      "averageScore": 6.9
+    },
+    "isScoreTrackable": true,
+    "id": "b2faabcc-fd67-412e-b4cf-27848e8b4db0",
+    "eventId": "52a4f9fb-270a-4f85-bd92-c8effdcf8857",
+    "dateUtc": "2026-11-15T18:40:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Schmid speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1794780276,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  }
+]
