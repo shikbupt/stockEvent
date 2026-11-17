@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "9a3217cf-b769-4dea-b083-39ee1c5de4ae",
+    "eventId": "0b7aea38-0344-4a4d-8b56-7f8f76eab415",
+    "dateUtc": "2027-02-15T05:00:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Presidents' Day",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "NONE",
+    "isAllDay": true,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1769695702,
+    "previousIsPreliminary": false,
+    "categoryId": "7dfaef86-c3fe-4e76-9421-8958cc2f9a0d",
+    "hasHistorical": true
+  }
+]
