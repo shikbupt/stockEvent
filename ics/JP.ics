@@ -225,6 +225,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
+DTEND:20261118T020000Z
+DTSTART:20261118T010000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:fe018b8e-5f10-41ac-9883-7edb3ce51a0c
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
 DTEND:20270127T005000Z
 DTSTART:20270126T235000Z
 SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ Monetary Policy Meeting Minutes
@@ -768,14 +776,6 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20261118T005000Z
 DTSTART:20261117T235000Z
-SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
-UID:37602ca6-9d42-4a43-b2e9-8412fcd8add6
-URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Capital Flows
-DTEND:20261119T005000Z
-DTSTART:20261118T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
 UID:37602ca6-9d42-4a43-b2e9-8412fcd8add6
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
@@ -1769,14 +1769,6 @@ UID:e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Capital Flows
-DTEND:20261119T005000Z
-DTSTART:20261118T235000Z
-SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
-UID:e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1
-URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Category: Holidays
 SUMMARY:🇯🇵📅🎈--New Year's Day
@@ -2134,14 +2126,6 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20261118T005000Z
 DTSTART:20261117T235000Z
-SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
-UID:924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f
-URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Capital Flows
-DTEND:20261119T005000Z
-DTSTART:20261118T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
 UID:924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f
 URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
@@ -2693,14 +2677,6 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20261118T005000Z
 DTSTART:20261117T235000Z
-SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
-UID:75cf18c1-58c2-441d-97d5-597d2bb65d3b
-URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Capital Flows
-DTEND:20261119T005000Z
-DTSTART:20261118T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
 UID:75cf18c1-58c2-441d-97d5-597d2bb65d3b
 URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8

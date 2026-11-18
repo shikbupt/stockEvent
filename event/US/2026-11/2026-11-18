@@ -66,7 +66,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": -2.3,
+    "consensus": -2.0,
     "ratioDeviation": null,
     "previous": -7.3,
     "isBetterThanExpected": null,
@@ -81,7 +81,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1794679229,
+    "lastUpdated": 1794981637,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -115,7 +115,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794828744,
+    "lastUpdated": 1794905353,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -187,7 +187,7 @@
     "speech": {
       "score": null,
       "isVotingMember": true,
-      "averageScore": 6.1
+      "averageScore": 6.2
     },
     "isScoreTrackable": true,
     "id": "7b0d9481-5e90-4e18-bb91-798e1b9e64d3",
@@ -212,7 +212,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794566219,
+    "lastUpdated": 1794985998,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

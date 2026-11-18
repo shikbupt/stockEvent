@@ -50,7 +50,7 @@ UID:29fc23ed-2699-40bb-a0e4-8b87de2111b8
 URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.1
+DESCRIPTION:Category: Central Banks\n票委-6.2
 DTEND:20261117T202500Z
 DTSTART:20261117T192500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -3971,7 +3971,7 @@ UID:4a256df6-ebed-4e2a-8b2d-ef228b9425cc
 URL:https://www.fxstreet.com/economic-calendar/event/081a7af6-5514-4a8b-a13f-c1dac42572a3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.1
+DESCRIPTION:Category: Central Banks\n票委-6.2
 DTEND:20261123T220000Z
 DTSTART:20261123T210000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -10365,7 +10365,7 @@ UID:05ae36f0-1f02-4729-a7cb-d8de2581db77
 URL:https://www.fxstreet.com/economic-calendar/event/0ba3bb41-ebb9-4a54-89f3-36346484dcfb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.1
+DESCRIPTION:Category: Central Banks\n票委-6.2
 DTEND:20261118T203000Z
 DTSTART:20261118T193000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
@@ -11011,6 +11011,14 @@ DTSTART:20260319T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-New Home Sales Change (MoM)
 UID:5de84359-62f2-4a12-999e-3150722afd2c
 URL:https://www.fxstreet.com/economic-calendar/event/13b7ad0a-fea3-4dba-8939-ecd60f692afb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270215T143000Z
+DTSTART:20270215T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-NY Empire State Manufacturing Index
+UID:ae936c45-e234-4638-aa49-3e4758f32a4d
+URL:https://www.fxstreet.com/economic-calendar/event/ad033dfa-c8e7-4d1a-aea8-128bd69bb67a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
