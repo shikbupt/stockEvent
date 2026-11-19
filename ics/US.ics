@@ -1801,6 +1801,14 @@ UID:95d6a4dc-9e1c-4bcd-9ab5-f3dd95167443
 URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f0835731d9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-7.9
+DTEND:20261118T133000Z
+DTSTART:20261118T123000Z
+SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Waller speech
+UID:64b9736d-9b77-4ffb-a61b-ad043e5dbf82
+URL:https://www.fxstreet.com/economic-calendar/event/ad33871b-d7b2-4dec-b301-eae4a1b43564
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
 DTEND:20260807T133000Z
 DTSTART:20260807T123000Z
@@ -6055,6 +6063,14 @@ UID:39a0558e-ddc7-42a7-a349-f0736636522b
 URL:https://www.fxstreet.com/economic-calendar/event/7d4bfaef-42f7-4b25-afdb-871aa3c41505
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270216T131500Z
+DTSTART:20270216T121500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:7f20ba8b-2121-4a20-961f-01cc5f1f5330
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-6.5
 DTEND:20260327T000000Z
 DTSTART:20260326T230000Z
@@ -6191,7 +6207,7 @@ UID:9e526466-58ce-44bf-a950-4d78b5b91431
 URL:https://www.fxstreet.com/economic-calendar/event/9ae5cf07-55da-4f0f-b21d-f6f0835731d9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-6.6
+DESCRIPTION:Category: Central Banks\n票委-6.8
 DTEND:20261118T221500Z
 DTSTART:20261118T211500Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Kashkari speech

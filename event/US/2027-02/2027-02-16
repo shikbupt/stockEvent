@@ -1,0 +1,31 @@
+[
+  {
+    "isScoreTrackable": null,
+    "id": "7f20ba8b-2121-4a20-961f-01cc5f1f5330",
+    "eventId": "44cc0a73-7d9a-45aa-a947-2b71882bffc5",
+    "dateUtc": "2027-02-16T12:15:00Z",
+    "periodDateUtc": "2027-02-19T00:00:00Z",
+    "periodType": "DAY",
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "ADP Employment Change 4-week average",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": "K",
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": false,
+    "lastUpdated": 1788783899,
+    "previousIsPreliminary": false,
+    "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
+    "hasHistorical": true
+  }
+]

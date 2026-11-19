@@ -1,17 +1,51 @@
 [
   {
+    "speech": {
+      "score": 9.2,
+      "isVotingMember": true,
+      "averageScore": 7.9
+    },
+    "isScoreTrackable": true,
+    "id": "64b9736d-9b77-4ffb-a61b-ad043e5dbf82",
+    "eventId": "ad33871b-d7b2-4dec-b301-eae4a1b43564",
+    "dateUtc": "2026-11-18T12:30:00Z",
+    "periodDateUtc": null,
+    "periodType": null,
+    "actual": null,
+    "revised": null,
+    "consensus": null,
+    "ratioDeviation": null,
+    "previous": null,
+    "isBetterThanExpected": null,
+    "name": "Fed's Waller speech",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "unit": null,
+    "potency": null,
+    "volatility": "MEDIUM",
+    "isAllDay": false,
+    "isTentative": false,
+    "isPreliminary": false,
+    "isReport": false,
+    "isSpeech": true,
+    "lastUpdated": 1795005614,
+    "previousIsPreliminary": false,
+    "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
+    "hasHistorical": true
+  },
+  {
     "isScoreTrackable": null,
     "id": "4a6eb810-1a77-41d3-913e-34753160e15c",
     "eventId": "5bbf4174-08fe-4294-a2bf-2226b4b9b802",
     "dateUtc": "2026-11-18T13:30:00Z",
     "periodDateUtc": "2026-10-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": 1.295,
+    "revised": 1.398,
     "consensus": 1.38,
-    "ratioDeviation": null,
+    "ratioDeviation": -2.47,
     "previous": 1.4,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": false,
     "name": "Building Permits (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -23,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1794585638,
+    "lastUpdated": 1795008857,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -35,12 +69,12 @@
     "dateUtc": "2026-11-18T13:30:00Z",
     "periodDateUtc": "2026-10-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
+    "actual": 1.309,
     "revised": null,
     "consensus": 1.27,
-    "ratioDeviation": null,
+    "ratioDeviation": 0.33,
     "previous": 1.221,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": true,
     "name": "Housing Starts (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -52,7 +86,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1794823228,
+    "lastUpdated": 1795008636,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
@@ -64,12 +98,12 @@
     "dateUtc": "2026-11-18T15:00:00Z",
     "periodDateUtc": "2026-10-01T00:00:00Z",
     "periodType": "MONTH",
-    "actual": null,
-    "revised": null,
+    "actual": -4.7,
+    "revised": -7.2,
     "consensus": -2.0,
-    "ratioDeviation": null,
+    "ratioDeviation": -0.81,
     "previous": -7.3,
-    "isBetterThanExpected": null,
+    "isBetterThanExpected": false,
     "name": "Pending Home Sales (MoM)",
     "countryCode": "US",
     "currencyCode": "USD",
@@ -81,16 +115,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1794981637,
+    "lastUpdated": 1795014173,
     "previousIsPreliminary": false,
     "categoryId": "1e06a304-fac6-440c-9ced-9225a6277a55",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": false,
-      "averageScore": 6.8
+      "averageScore": 7
     },
     "isScoreTrackable": true,
     "id": "14bf3fdd-e831-43d7-89a7-1190f70ed47e",
@@ -115,14 +149,14 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794905353,
+    "lastUpdated": 1795072856,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7,
       "isVotingMember": true,
       "averageScore": 7
     },
@@ -149,7 +183,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794827745,
+    "lastUpdated": 1795073031,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
@@ -178,14 +212,14 @@
     "isPreliminary": false,
     "isReport": true,
     "isSpeech": false,
-    "lastUpdated": 1791445705,
+    "lastUpdated": 1795073020,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": "NaN",
       "isVotingMember": true,
       "averageScore": 6.2
     },
@@ -212,16 +246,16 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794985998,
+    "lastUpdated": 1795073060,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true
   },
   {
     "speech": {
-      "score": null,
+      "score": 7,
       "isVotingMember": true,
-      "averageScore": 6.6
+      "averageScore": 6.8
     },
     "isScoreTrackable": true,
     "id": "d47f2556-813d-4d36-83ea-ac6c9b4909c8",
@@ -246,7 +280,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": true,
-    "lastUpdated": 1794828314,
+    "lastUpdated": 1795073171,
     "previousIsPreliminary": false,
     "categoryId": "c94405b5-5f85-4397-ab11-002a481c4b92",
     "hasHistorical": true

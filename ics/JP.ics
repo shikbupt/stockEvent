@@ -296,6 +296,14 @@ UID:e410ac24-9049-448f-b9a4-d7c632e5e718
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Imports (YoY)
+UID:db88ca5b-da51-49eb-9731-fc5457139271
+URL:https://www.fxstreet.com/economic-calendar/event/6061b3a4-e0fd-424d-b38f-9e20de47eaad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
 DTEND:20260507T005000Z
 DTSTART:20260506T235000Z
@@ -971,6 +979,14 @@ DTSTART:20260930T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Tankan Large Manufacturing Outlook
 UID:0ba25a1c-844a-4762-9469-09b854b2d1cb
 URL:https://www.fxstreet.com/economic-calendar/event/313b7542-8991-4559-b265-03dd56264d8e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:ca4e1c87-c441-4ad8-bf4b-7f4eca6a3d75
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -1690,6 +1706,14 @@ UID:871e8658-f5f6-4122-a0b7-287bad69b4bc
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
+UID:9134bc9a-cdc0-4f0c-8f37-7c948a8c770f
+URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20261002T003000Z
 DTSTART:20261001T233000Z
@@ -1884,6 +1908,14 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇯🇵📅🎈--The Emperor's Birthday
 UID:1241d2f6-2d01-4910-b820-e513766d451e
 URL:https://www.fxstreet.com/economic-calendar/event/5f37c317-a9c7-42ce-90c3-688a7f8d0374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20261119T023000Z
+DTSTART:20261119T013000Z
+SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
+UID:129d2c8d-fb91-431f-9ef6-1e99bd4d723f
+URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -2113,6 +2145,14 @@ DTSTART:20260429T235000Z
 SUMMARY:🇯🇵🛍️💳-🟡-Retail Trade (YoY)
 UID:180c1112-64e2-4423-a3f0-3357c653362e
 URL:https://www.fxstreet.com/economic-calendar/event/fe4ccb8d-9b5f-4e5f-9ba2-431284ba8078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:fc997228-b3f1-4f84-ae02-04ea6ef83162
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
@@ -2347,6 +2387,14 @@ UID:78c2fde4-2215-44b8-ada3-36b90485881c
 URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:c3d92f4b-b074-4962-9cae-904d74e19b0c
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20270201T005000Z
 DTSTART:20270131T235000Z
@@ -2499,6 +2547,14 @@ UID:9f598e39-5cb7-4e2b-80eb-7161c3e7d67a
 URL:https://www.fxstreet.com/economic-calendar/event/8b3a0864-3ad8-4510-88a5-acaf0dc44ce0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Merchandise Trade Balance Total
+UID:b5f2e542-3f3a-42b1-972e-a551781ba434
+URL:https://www.fxstreet.com/economic-calendar/event/1870b718-adc1-4067-b324-740b8e3e64b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20260515T005000Z
 DTSTART:20260514T235000Z
@@ -2617,6 +2673,14 @@ DTSTART:20260521T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National CPI ex Fresh Food (YoY)
 UID:0fb191ee-ad56-4773-963c-8803be87fdf2
 URL:https://www.fxstreet.com/economic-calendar/event/15d376d3-becc-444e-9752-c53ce44b7bc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Capital Flows
+DTEND:20270217T005000Z
+DTSTART:20270216T235000Z
+SUMMARY:🇯🇵💸🌊-🟡-Adjusted Merchandise Trade Balance
+UID:7b27c7cc-6fd0-42f2-b276-5c65ef02c5f8
+URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c652aaa3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
