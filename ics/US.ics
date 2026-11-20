@@ -3747,6 +3747,14 @@ UID:80b80fb8-8aae-4b10-b7d6-ed567e9d0733
 URL:https://www.fxstreet.com/economic-calendar/event/f99b9c79-a12b-4edf-ad90-e7ddb7d47db3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270217T143000Z
+DTSTART:20270217T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales Control Group
+UID:bc4d7b8c-ab6d-4bf0-9ae6-12e252b2ba86
+URL:https://www.fxstreet.com/economic-calendar/event/a2a2843d-443a-480a-b83a-a8f0dd0c3f04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260313T133000Z
 DTSTART:20260313T123000Z
@@ -5215,6 +5223,14 @@ DTSTART:20260611T123000Z
 SUMMARY:🇺🇸💵🚀-🟡-Producer Price Index (YoY)
 UID:654e16a6-9acd-45cd-be69-96556041313c
 URL:https://www.fxstreet.com/economic-calendar/event/0bedb3be-170a-4cd6-a88e-18ba59647bd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270217T143000Z
+DTSTART:20270217T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
+UID:814697b8-8177-4095-9538-6605982d3833
+URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
@@ -7124,6 +7140,14 @@ UID:21657d13-4af2-4b2f-9953-5cebed13cba0
 URL:https://www.fxstreet.com/economic-calendar/event/fd5a3b53-db1c-4ec4-8393-ff91ca73a272
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270217T143000Z
+DTSTART:20270217T133000Z
+SUMMARY:🇺🇸🛍️💳-🔴-Retail Sales (MoM)
+UID:87a76e69-18b5-4a9c-afa5-6314b63bc9aa
+URL:https://www.fxstreet.com/economic-calendar/event/31b216da-2502-4428-af5b-d3c54b68ebe4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
 DTEND:20260601T150000Z
 DTSTART:20260601T140000Z
@@ -7992,7 +8016,7 @@ UID:435eda76-2a80-4b67-b056-c2bbac99285d
 URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks\n票委-7.6
+DESCRIPTION:Category: Central Banks\n票委-6.6
 DTEND:20261120T003000Z
 DTSTART:20261119T233000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Paulson speech
@@ -9293,6 +9317,14 @@ DTSTART:20260211T133000Z
 SUMMARY:🇺🇸👷💼-🟡-U6 Underemployment Rate
 UID:d0814c24-ad4e-4bd2-8028-7a345662f9e4
 URL:https://www.fxstreet.com/economic-calendar/event/b31ce2fd-dcc8-45a5-9c33-db417e6d939d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270217T151500Z
+DTSTART:20270217T141500Z
+SUMMARY:🇺🇸🏭📈-🟡-Industrial Production (MoM)
+UID:33db8f02-4cd0-4d4c-933f-d9d1584b69b2
+URL:https://www.fxstreet.com/economic-calendar/event/2635188a-b377-4179-864c-029cad0ed529
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
@@ -10899,6 +10931,14 @@ DTSTART:20270115T133000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Retail Sales ex Autos (MoM)
 UID:27348f82-7923-4177-8e83-34e73837a646
 URL:https://www.fxstreet.com/economic-calendar/event/27f14eda-e042-4f9c-8e96-1a94022eba00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks
+DTEND:20270217T200000Z
+DTSTART:20270217T190000Z
+SUMMARY:🇺🇸🏛️⚖️-🔴-FOMC Minutes
+UID:59f1a17e-06ef-4435-b1de-03c408af8780
+URL:https://www.fxstreet.com/economic-calendar/event/e10a1f69-915d-44b1-ad1d-0b8edf7853f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks
