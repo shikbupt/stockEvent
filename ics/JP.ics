@@ -439,6 +439,14 @@ UID:4981b6df-c407-45e0-9690-6805534697e0
 URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261208T005000Z
+DTSTART:20261207T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Deflator (YoY)
+UID:4981b6df-c407-45e0-9690-6805534697e0
+URL:https://www.fxstreet.com/economic-calendar/event/e7fe39f1-8269-42c8-ae80-bc05eb2b9441
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20261228T005000Z
 DTSTART:20261227T235000Z
@@ -1303,6 +1311,14 @@ BEGIN:VEVENT
 DESCRIPTION:Category: Economic Activity
 DTEND:20261207T005000Z
 DTSTART:20261206T235000Z
+SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
+UID:40e118e1-20b4-4468-ac7c-d14cc6ef7002
+URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261208T005000Z
+DTSTART:20261207T235000Z
 SUMMARY:🇯🇵🏭📈-🟡-Gross Domestic Product Annualized
 UID:40e118e1-20b4-4468-ac7c-d14cc6ef7002
 URL:https://www.fxstreet.com/economic-calendar/event/6ca644c2-2423-4b0a-afac-be3190415639
@@ -2609,6 +2625,14 @@ DTSTART:20260616T235000Z
 SUMMARY:🇯🇵💸🌊-🟡-Exports (YoY)
 UID:063ec4e0-be29-4773-afa9-7f2f7aa7097f
 URL:https://www.fxstreet.com/economic-calendar/event/4cba97ab-ffe8-4f0d-a661-b457df5de695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20261208T005000Z
+DTSTART:20261207T235000Z
+SUMMARY:🇯🇵🏭📈-🔴-Gross Domestic Product (QoQ)
+UID:1541d767-5d09-46fa-a80f-b6f33a7cd1a4
+URL:https://www.fxstreet.com/economic-calendar/event/523c3261-8d74-4252-a3fc-cb03c3e3b0b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
