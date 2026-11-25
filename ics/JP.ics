@@ -789,6 +789,13 @@ UID:2472372e-c338-47d2-8718-d5eee24a66eb
 URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+DESCRIPTION:Category: Holidays
+SUMMARY:🇯🇵📅🎈--The Emperor's Birthday
+UID:cb78a072-0a48-4201-92e1-b9ca405ace77
+URL:https://www.fxstreet.com/economic-calendar/event/5f37c317-a9c7-42ce-90c3-688a7f8d0374
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20261118T005000Z
 DTSTART:20261117T235000Z
