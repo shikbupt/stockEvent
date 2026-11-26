@@ -1665,6 +1665,14 @@ UID:1c250a0a-237c-48f0-b711-496fcd2e7124
 URL:https://www.fxstreet.com/economic-calendar/event/ca467b1b-a31f-443d-8771-051ce1b20771
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Central Banks\n票委-8.4
+DTEND:20261126T064500Z
+DTSTART:20261126T054500Z
+SUMMARY:🇯🇵🏛️⚖️-🟡-BoJ's Tamura speech
+UID:f942173d-28b8-459c-9696-9b40e7ecf81d
+URL:https://www.fxstreet.com/economic-calendar/event/606d1c09-edbb-4477-991a-d37fb3251d00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
 DTEND:20260422T005000Z
 DTSTART:20260421T235000Z
@@ -1939,14 +1947,6 @@ DESCRIPTION:Category: Holidays
 SUMMARY:🇯🇵📅🎈--The Emperor's Birthday
 UID:1241d2f6-2d01-4910-b820-e513766d451e
 URL:https://www.fxstreet.com/economic-calendar/event/5f37c317-a9c7-42ce-90c3-688a7f8d0374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Category: Central Banks
-DTEND:20261119T023000Z
-DTSTART:20261119T013000Z
-SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
-UID:129d2c8d-fb91-431f-9ef6-1e99bd4d723f
-URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows

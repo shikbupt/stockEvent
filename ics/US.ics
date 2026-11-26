@@ -7212,6 +7212,14 @@ UID:65773232-33de-4cc7-90b7-26dbb792b924
 URL:https://www.fxstreet.com/economic-calendar/event/0d397375-0b4e-4883-8279-8427d07a2aba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270223T141500Z
+DTSTART:20270223T131500Z
+SUMMARY:🇺🇸👷💼-🟡-ADP Employment Change 4-week average
+UID:14fbdfcb-ac1a-4089-918d-82a30ebb6d55
+URL:https://www.fxstreet.com/economic-calendar/event/44cc0a73-7d9a-45aa-a947-2b71882bffc5
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:Category: Central Banks
 SUMMARY:🇺🇸🏛️⚖️-🔴-Jackson Hole Symposium
@@ -7945,6 +7953,14 @@ UID:c44d2a3c-749f-4756-a3bf-2d80c0f2cfbc
 URL:https://www.fxstreet.com/economic-calendar/event/9d68299d-9e80-400c-a0bb-67ea47a1c84f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270223T150000Z
+DTSTART:20270223T140000Z
+SUMMARY:🇺🇸💵🚀-🟡-Housing Price Index (MoM)
+UID:93a46c40-ab3e-47de-af3e-00b3c8fb551c
+URL:https://www.fxstreet.com/economic-calendar/event/24046b7e-055b-4c30-8c14-4cb0b064815c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
 DTEND:20270122T160000Z
 DTSTART:20270122T150000Z
@@ -8262,6 +8278,14 @@ DTSTART:20260330T200000Z
 SUMMARY:🇺🇸🏛️⚖️-🟡-Fed's Williams speech
 UID:03f317bc-8ed2-4d27-925e-bd7ce6d68274
 URL:https://www.fxstreet.com/economic-calendar/event/94b5a38c-5bf5-4f48-b286-1773b8dbeac5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270223T160000Z
+DTSTART:20270223T150000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Consumer Confidence
+UID:06f87b53-c0c1-46f8-9b63-2e6df992ef6f
+URL:https://www.fxstreet.com/economic-calendar/event/0391ac9e-1073-4a93-90fd-f9427303ab00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
