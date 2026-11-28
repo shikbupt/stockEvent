@@ -42,7 +42,7 @@
     "periodType": "MONTH",
     "actual": null,
     "revised": null,
-    "consensus": null,
+    "consensus": 2.4,
     "ratioDeviation": null,
     "previous": 2.4,
     "isBetterThanExpected": null,
@@ -57,7 +57,7 @@
     "isPreliminary": false,
     "isReport": false,
     "isSpeech": false,
-    "lastUpdated": 1793316608,
+    "lastUpdated": 1795773655,
     "previousIsPreliminary": false,
     "categoryId": "91da97bd-d94a-4ce8-a02b-b96ee2944e4c",
     "hasHistorical": true

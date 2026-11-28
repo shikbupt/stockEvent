@@ -530,6 +530,14 @@ UID:927bb924-1bc3-4912-9ba3-2d8fe4122af0
 URL:https://www.fxstreet.com/economic-calendar/event/7928c38a-9491-4165-be36-94322686a296
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270225T143000Z
+DTSTART:20270225T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Annualized
+UID:5f29cc0b-0937-4430-bc43-98fbb7ae8f7a
+URL:https://www.fxstreet.com/economic-calendar/event/5f64264e-5097-4359-b60f-fb9b01229068
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Category: Housing Market
 DTEND:20260505T150005Z
 DTSTART:20260505T140005Z
@@ -840,6 +848,14 @@ DTSTART:20261020T140000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Pending Home Sales (MoM)
 UID:429976d3-2a02-4580-b407-2c669cc85153
 URL:https://www.fxstreet.com/economic-calendar/event/0136051b-8cff-4984-abde-f0b492f97401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Economic Activity
+DTEND:20270225T143000Z
+DTSTART:20270225T133000Z
+SUMMARY:🇺🇸🏭📈-🟡-Gross Domestic Product Price Index
+UID:d0ff2b0f-39d5-4ac5-813b-c814727094bd
+URL:https://www.fxstreet.com/economic-calendar/event/f056cc38-d62a-4a1f-8660-8160867fe480
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
@@ -2158,6 +2174,14 @@ DTSTART:20260717T123000Z
 SUMMARY:🇺🇸🏠🔑-🟡-Building Permits (MoM)
 UID:1ea2d0c4-b3e8-44b3-8c66-f52b44a59421
 URL:https://www.fxstreet.com/economic-calendar/event/5bbf4174-08fe-4294-a2bf-2226b4b9b802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
+DTEND:20270225T143000Z
+DTSTART:20270225T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Personal Consumption Expenditures Prices (QoQ)
+UID:637d5506-a6fe-4a33-98cb-859c0cfc818d
+URL:https://www.fxstreet.com/economic-calendar/event/abe8c7b9-6faa-4c4f-8a08-a876c530d80f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Labor Market
@@ -4994,6 +5018,14 @@ URL:https://www.fxstreet.com/economic-calendar/event/86e26884-a1b0-4529-9f7f-2ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Consumption
+DTEND:20270225T143000Z
+DTSTART:20270225T133000Z
+SUMMARY:🇺🇸🛍️💳-🟡-Core Personal Consumption Expenditures (QoQ)
+UID:b5df2f0f-fba6-4fb4-b308-3a24e540915f
+URL:https://www.fxstreet.com/economic-calendar/event/d2eb3078-b22d-4419-aa26-4710268bcdac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Consumption
 DTEND:20270122T160000Z
 DTSTART:20270122T150000Z
 SUMMARY:🇺🇸🛍️💳-🟡-Michigan Consumer Sentiment Index
@@ -6397,6 +6429,14 @@ DTSTART:20260803T140000Z
 SUMMARY:🇺🇸🏭📈-🟡-ISM Manufacturing New Orders Index
 UID:1964e5c5-524a-4323-a09c-1c62097eec6b
 URL:https://www.fxstreet.com/economic-calendar/event/79282c38-c914-4080-9f7f-a085c86ba308
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Labor Market
+DTEND:20270225T143000Z
+DTSTART:20270225T133000Z
+SUMMARY:🇺🇸👷💼-🟡-Initial Jobless Claims
+UID:88b621f7-7d44-4fb7-a7c4-964cb1a0b4dc
+URL:https://www.fxstreet.com/economic-calendar/event/9c689bbf-af2a-4f65-81a8-c5f5e2b78d70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Central Banks\n票委-5.8

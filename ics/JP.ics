@@ -393,6 +393,22 @@ URL:https://www.fxstreet.com/economic-calendar/event/8f9f3b4b-f962-43cc-b1a5-04c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Inflation
+DTEND:20270226T003000Z
+DTSTART:20270225T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo Consumer Price Index (YoY)
+UID:fa526b47-3a65-4fba-9b96-dbaa61cc292d
+URL:https://www.fxstreet.com/economic-calendar/event/34a70f0a-084b-41da-bbaf-a98d6def9ba7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270226T003000Z
+DTSTART:20270225T233000Z
+SUMMARY:🇯🇵💵🚀-🔴-Tokyo CPI ex Food\, Energy (YoY)
+UID:23b2809b-d302-4083-80ae-f19adc634a0a
+URL:https://www.fxstreet.com/economic-calendar/event/748763af-c275-488a-830b-e2698b6f6771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
 DTEND:20260220T003000Z
 DTSTART:20260219T233000Z
 SUMMARY:🇯🇵💵🚀-🟡-National Consumer Price Index (YoY)
@@ -1145,6 +1161,14 @@ DTSTART:20261106T160000Z
 SUMMARY:🇯🇵🏛️⚖️-🔴-BoJ Governor Ueda speech
 UID:4086b1ac-46a9-4115-8e77-e3e8310f65b4
 URL:https://www.fxstreet.com/economic-calendar/event/f43e2f79-c8bf-4566-ae97-bf3ba0048afb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Inflation
+DTEND:20270226T003000Z
+DTSTART:20270225T233000Z
+SUMMARY:🇯🇵💵🚀-🟡-Tokyo CPI ex Fresh Food (YoY)
+UID:9794c275-43f3-4b1d-9300-245cdccd35a1
+URL:https://www.fxstreet.com/economic-calendar/event/a5214022-db91-4375-a325-492999dfe4d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Category: Capital Flows
